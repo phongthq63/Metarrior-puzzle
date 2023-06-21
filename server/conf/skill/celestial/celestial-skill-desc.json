@@ -1,0 +1,88 @@
+{
+  "list": [
+    {
+      "sid": "CEL000S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * ATK)", "damageType": "magic"}],
+          "target": "3,5",
+          "se": [{"se": "Cripple", "rate": "(100 * 1)", "maxRate": 75, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 175% (ATK) magical damage with 100% chance of causing cripple."]
+    },
+    {
+      "sid": "CEL000S2",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "HP", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's HP by 5%"]
+    },
+    {
+      "sid": "CEL000S3",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "HP", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's HP by 5%"]
+    },
+    {
+      "sid": "CEL000S4",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "DEF", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's DEF by 5%"]
+    },
+    {
+      "sid": "CEL001S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(215% * ATK)", "damageType": "magic"}],
+          "target": "3,5",
+          "additional": [{"type": "critical", "value": "(50+0.6*DPEN)", "maxValue": 80}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 215% (ATK) magical damage, with an additional (50+0.6*DPEN)% (max 80%) chance of attack being critical hit."]
+    },
+    {
+      "sid": "CEL001S2",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "ATK", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's ATK by 5%"]
+    },
+    {
+      "sid": "CEL001S3",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "DPEN", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's DPEN by 5%"]
+    },
+    {
+      "sid": "CEL001S4",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "CRIT", "rate": "(5 * 1)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Raises team's CRIT by 5%"]
+    }
+  ]
+}

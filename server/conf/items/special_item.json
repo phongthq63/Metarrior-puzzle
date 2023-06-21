@@ -1,0 +1,256 @@
+{
+  "listItem": [
+    {
+      "using": true,
+      "name": "Gold-2hours",
+      "id": "SPI1003",
+      "time": "",
+      "desc": "This item, once activated, yields 2 hours worth of gold based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Gold-6hours",
+      "id": "SPI1004",
+      "time": "",
+      "desc": "This item, once activated, yields 6 hours worth of gold based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Gold-12hours",
+      "id": "SPI1005",
+      "time": "",
+      "desc": "This item, once activated, yields 12 hours worth of gold based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Gold-24hours",
+      "id": "SPI1006",
+      "time": "",
+      "desc": "This item, once activated, yields 24 hours worth of gold based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Merits-2hours",
+      "id": "SPI1009",
+      "time": "",
+      "desc": "This item, once activated, yields 2 hours worth of merits based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Merits-6hours",
+      "id": "SPI1010",
+      "time": "",
+      "desc": "This item, once activated, yields 6 hours worth of merits based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Merits-12hours",
+      "id": "SPI1011",
+      "time": "",
+      "desc": "This item, once activated, yields 12 hours worth of merits based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Merits-24hours",
+      "id": "SPI1012",
+      "time": "",
+      "desc": "This item, once activated, yields 24 hours worth of merits based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Elixir-2hours",
+      "id": "SPI1015",
+      "time": "",
+      "desc": "This item, once activated, yields 2 hours worth of advancement elixir based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Elixir-6hours",
+      "id": "SPI1016",
+      "time": "",
+      "desc": "This item, once activated, yields 6 hours worth of advancement elixir based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Elixir-12hours",
+      "id": "SPI1017",
+      "time": "",
+      "desc": "This item, once activated, yields 12 hours worth of advancement elixir based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Elixir-24hours",
+      "id": "SPI1018",
+      "time": "",
+      "desc": "This item, once activated, yields 24 hours worth of advancement elixir based on the current AFK gold rate."
+    },
+    {
+      "using": true,
+      "name": "Small Diamond Chest",
+      "id": "SPI1020",
+      "time": "",
+      "desc": "Opening this chest yields 20 diamond."
+    },
+    {
+      "using": true,
+      "name": "Medium Diamond Chest",
+      "id": "SPI1021",
+      "time": "",
+      "desc": "Opening this chest yields 50 diamond."
+    },
+    {
+      "using": true,
+      "name": "Large Diamond Chest",
+      "id": "SPI1022",
+      "time": "",
+      "desc": "Opening this chest yields 100 diamond."
+    },
+    {
+      "using": true,
+      "name": "Massive Diamond Chest",
+      "id": "SPI1023",
+      "time": "",
+      "desc": "Opening this chest yields 250 diamond."
+    },
+    {
+      "using": true,
+      "name": "Choose Hero Chest",
+      "id": "SPI1048",
+      "time": "",
+      "desc": "Activating this item allows player to choose any hero available in this chest."
+    },
+    {
+      "using": true,
+      "name": "Epic Hero Fragments",
+      "id": "SPI1049",
+      "time": "",
+      "desc": "Combining 60 Epic Hero Fragments will yield a random epic hero."
+    },
+    {
+      "using": true,
+      "name": "Legendary Hero Fragments",
+      "id": "SPI1050",
+      "time": "",
+      "desc": "Combining 60 Legendary Hero Fragments will yield a legendary epic hero."
+    },
+    {
+      "using": true,
+      "name": "Dwarven Epic Hero Card",
+      "id": "SPI1053",
+      "time": "",
+      "desc": "Activating this item yields a random epic hero of the Dwarf Kingdom."
+    },
+    {
+      "using": true,
+      "name": "Druidic Epic Hero Card",
+      "id": "SPI1054",
+      "time": "",
+      "desc": "Activating this item yields a random epic hero of the Druid Kingdom."
+    },
+    {
+      "using": true,
+      "name": "Banished Epic Hero Card",
+      "id": "SPI1055",
+      "time": "",
+      "desc": "Activating this item yields a random epic hero of the Banished Kingdom."
+    },
+    {
+      "using": true,
+      "name": "Common Equipment Chest",
+      "id": "SPI1077",
+      "time": "",
+      "desc": "Activating this item yields a random common hero equipment."
+    },
+    {
+      "using": true,
+      "name": "Rare Equipment Chest",
+      "id": "SPI1078",
+      "time": "",
+      "desc": "Activating this item yields a random rare hero equipment."
+    },
+    {
+      "using": true,
+      "name": "Elite Equipment Chest",
+      "id": "SPI1079",
+      "time": "",
+      "desc": "Activating this item yields a random elite hero equipment."
+    },
+    {
+      "using": true,
+      "name": "Epic Equipment Chest",
+      "id": "SPI1080",
+      "time": "",
+      "desc": "Activating this item yields a random epic hero equipment."
+    },
+    {
+      "using": true,
+      "name": "Legendary Equipment Chest",
+      "id": "SPI1081",
+      "time": "",
+      "desc": "Activating this item yields a random legendary hero equipment."
+    },
+    {
+      "using": true,
+      "name": "Common Gem Chest",
+      "id": "SPI1089",
+      "time": "",
+      "desc": "Activating this item yields a random rank 1 gem."
+    },
+    {
+      "using": true,
+      "name": "Rare Gem Chest",
+      "id": "SPI1090",
+      "time": "",
+      "desc": "Activating this item yields a random rank 2 gem."
+    },
+    {
+      "using": true,
+      "name": "Elite Gem Chest",
+      "id": "SPI1091",
+      "time": "",
+      "desc": "Activating this item yields a random rank 3 gem."
+    },
+    {
+      "using": true,
+      "name": "Epic Gem Chest",
+      "id": "SPI1092",
+      "time": "",
+      "desc": "Activating this item yields a random rank 4 gem."
+    },
+    {
+      "using": true,
+      "name": "Legendary Gem Chest",
+      "id": "SPI1093",
+      "time": "",
+      "desc": "Activating this item yields a random rank 5 gem."
+    },
+    {
+      "using": true,
+      "name": "Protector's Emblem - 3 days",
+      "id": "SPI1124",
+      "time": "",
+      "desc": "Activating this item will grant player benefits of the Protector of Asteria for 3 days. Once activated, activation of further items of this type will lengthen remaining time of benefits by total time of activated items."
+    },
+    {
+      "using": true,
+      "name": "Protector's Emblem - 30 days",
+      "id": "SPI1125",
+      "time": "",
+      "desc": "Activating this item will grant player benefits of the Protector of Asteria for 30 days. Once activated, activation of further items of this type will lengthen remaining time of benefits by total time of activated items."
+    },
+    {
+      "using": true,
+      "name": "Archmage's Emblem - 3 days",
+      "id": "SPI1126",
+      "time": "",
+      "desc": "Activating this item will grant player benefits of the Archmage of Asteria for 30 days. Once activated, activation of further items of this type will lengthen remaining time of benefits by total time of activated items."
+    },
+    {
+      "using": true,
+      "name": "Archmage's Emblem - 30 days",
+      "id": "SPI1127",
+      "time": "",
+      "desc": "Activating this item will grant player benefits of the Archmage of Asteria for 30 days. Once activated, activation of further items of this type will lengthen remaining time of benefits by total time of activated items."
+    }
+  ]
+}

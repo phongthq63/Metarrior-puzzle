@@ -1,0 +1,212 @@
+{
+  "list": [
+    {
+      "attr": 0,
+      "listLevel":
+      [
+        {"param": 200},
+        {"param": 400},
+        {"param": 1000},
+        {"param": 2000},
+        {"param": 4000},
+        {"param": 6500},
+        {"param": 9500},
+        {"param": 13000},
+        {"param": 17500},
+        {"param": 22000}
+      ]
+    },
+    {
+      "attr": 1,
+      "listLevel":
+      [
+        {"param": 40},
+        {"param": 78},
+        {"param": 133},
+        {"param": 188},
+        {"param": 275},
+        {"param": 366},
+        {"param": 462},
+        {"param": 565},
+        {"param": 670},
+        {"param": 800}
+      ]
+    },
+    {
+      "attr": 2,
+      "listLevel":
+      [
+        {"param": 40},
+        {"param": 78},
+        {"param": 133},
+        {"param": 188},
+        {"param": 275},
+        {"param": 366},
+        {"param": 462},
+        {"param": 565},
+        {"param": 670},
+        {"param": 800}
+      ]
+    },
+    {
+      "attr": 3,
+      "listLevel":
+      [
+        {"param": 2},
+        {"param": 3},
+        {"param": 4},
+        {"param": 5},
+        {"param": 6},
+        {"param": 7},
+        {"param": 8},
+        {"param": 9},
+        {"param": 10},
+        {"param": 11}
+      ]
+    },
+    {
+      "attr": 4,
+      "listLevel":
+      [
+        {"param": 25},
+        {"param": 47},
+        {"param": 68},
+        {"param": 92},
+        {"param": 128},
+        {"param": 173},
+        {"param": 228},
+        {"param": 279},
+        {"param": 325},
+        {"param": 394}
+      ]
+    },
+    {
+      "attr": 5,
+      "listLevel":
+      [
+        {"param": 25},
+        {"param": 47},
+        {"param": 68},
+        {"param": 92},
+        {"param": 128},
+        {"param": 173},
+        {"param": 228},
+        {"param": 279},
+        {"param": 325},
+        {"param": 394}
+      ]
+    },
+    {
+      "attr": 6,
+      "listLevel":
+      [
+        {"param": 87},
+        {"param": 125},
+        {"param": 170},
+        {"param": 220},
+        {"param": 280},
+        {"param": 355},
+        {"param": 440},
+        {"param": 535},
+        {"param": 640},
+        {"param": 800}
+      ]
+    },
+    {
+      "attr": 7,
+      "listLevel":
+      [
+        {"param": 2},
+        {"param": 3},
+        {"param": 4},
+        {"param": 5},
+        {"param": 6},
+        {"param": 7},
+        {"param": 8},
+        {"param": 9},
+        {"param": 10},
+        {"param": 11}
+      ]
+    },
+    {
+      "attr": 8,
+      "listLevel":
+      [
+        {"param": 2},
+        {"param": 3},
+        {"param": 4},
+        {"param": 5},
+        {"param": 6},
+        {"param": 7},
+        {"param": 8},
+        {"param": 9},
+        {"param": 10},
+        {"param": 11}
+      ]
+    },
+    {
+      "attr": 9,
+      "listLevel":
+      [
+        {"param": 10},
+        {"param": 17},
+        {"param": 28},
+        {"param": 40},
+        {"param": 52},
+        {"param": 67},
+        {"param": 79},
+        {"param": 95},
+        {"param": 122},
+        {"param": 150}
+      ]
+    },
+    {
+      "attr": 10,
+      "listLevel":
+      [
+        {"param": 10},
+        {"param": 17},
+        {"param": 28},
+        {"param": 40},
+        {"param": 52},
+        {"param": 67},
+        {"param": 79},
+        {"param": 95},
+        {"param": 122},
+        {"param": 150}
+      ]
+    },
+    {
+      "attr": 10,
+      "listLevel":
+      [
+        {"param": 10},
+        {"param": 17},
+        {"param": 28},
+        {"param": 40},
+        {"param": 52},
+        {"param": 67},
+        {"param": 79},
+        {"param": 95},
+        {"param": 122},
+        {"param": 150}
+      ]
+    },
+    {
+      "attr": 11,
+      "listLevel":
+      [
+        {"param": 2},
+        {"param": 3},
+        {"param": 4},
+        {"param": 5},
+        {"param": 6},
+        {"param": 7},
+        {"param": 8},
+        {"param": 9},
+        {"param": 10},
+        {"param": 11}
+      ]
+    }
+  ]
+}

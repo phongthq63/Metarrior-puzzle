@@ -1,0 +1,896 @@
+===========================handleMoveDot
+
+(int) cmdid: 23001
+(sfs_array) move_list:
+(sfs_object)
+(sfs_array) before_next_turn:
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 3
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE011
+
+
+(sfs_object)
+(utf_string) actor: 10
+(int) id: 3
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE011
+
+
+(sfs_object)
+(utf_string) actor: 11
+(int) id: 3
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE011
+
+
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -4549
+(bool) False
+
+
+
+(int) next_turn: 0
+(sfs_array) action:
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 12084
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 6610
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 5
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+
+(sfs_array) props:
+(int) 1
+(sfs_array)
+
+
+(bool) False
+(sfs_array)
+(utf_string) 4
+(utf_string) 0
+
+(sfs_object)
+(sfs_array) nonElement:
+
+
+(utf_string) target:
+
+
+
+
+(int) current_turn: 0
+(int) target: 1
+
+(sfs_object)
+(sfs_array) before_next_turn:
+
+
+(int) next_turn: 1
+(sfs_array) action:
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 4
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -15533
+(bool) True
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -14635
+(bool) True
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 2
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE011
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 1
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -12095
+(bool) True
+
+
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 6
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 10
+(int) id: 9
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 10
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -3825
+(bool) False
+
+
+
+(sfs_array) props:
+(utf_string) 7
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 5
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+
+(sfs_array) props:
+(int) 1
+(sfs_array)
+(utf_string) 7
+
+(bool) False
+(sfs_array)
+
+
+(sfs_object)
+(sfs_array) nonElement:
+
+
+(utf_string) target:
+
+
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -20541
+(bool) True
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 9
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -4878
+(bool) False
+
+
+
+(sfs_array) props:
+(utf_string) 1
+
+
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -100
+
+
+
+(sfs_array) props:
+(int) 3
+(sfs_array)
+(utf_string) 0
+(utf_string) 1
+(utf_string) 3
+(utf_string) 4
+
+(bool) False
+(sfs_array)
+
+
+(sfs_object)
+(sfs_array) nonElement:
+
+
+(utf_string) target:
+
+
+
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -11933
+(bool) True
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 9
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -3753
+(bool) False
+
+
+
+(sfs_array) props:
+(utf_string) 1
+
+
+(sfs_object)
+(utf_string) actor: 7
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+
+(sfs_array) props:
+(int) 1
+(sfs_array)
+(utf_string) 1
+
+(bool) False
+(sfs_array)
+
+
+(sfs_object)
+(sfs_array) nonElement:
+
+
+(utf_string) target:
+
+
+
+(sfs_object)
+(utf_string) actor: 10
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -6624
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 2
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE008
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -12243
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 2
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE008
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -11554
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 2
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE008
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 4
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 9
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -2166
+(bool) False
+
+
+
+(sfs_array) props:
+(utf_string) 0
+
+
+(sfs_object)
+(utf_string) actor: 10
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -100
+
+
+
+(sfs_array) props:
+(int) 3
+(sfs_array)
+(utf_string) 0
+(utf_string) 1
+(utf_string) 3
+(utf_string) 4
+
+(bool) False
+(sfs_array)
+
+
+(sfs_object)
+(sfs_array) nonElement:
+
+
+(utf_string) target:
+
+
+
+(sfs_object)
+(utf_string) actor: 11
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -8833
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 0
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -12243
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 2
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(utf_string) SE008
+
+
+(sfs_object)
+(utf_string) actor: 1
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 20
+
+
+(sfs_object)
+(utf_string) actor: 6
+(int) id: 8
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) 10
+
+
+(sfs_object)
+(utf_string) actor: 3
+(int) id: 4
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 1
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 0
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 1
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -7409
+(bool) False
+
+
+(sfs_object)
+(utf_string) actor: 9
+(int) id: 6
+(sfs_array) actions:
+
+
+(sfs_array) props:
+
+
+
+(sfs_object)
+(utf_string) actor: 11
+(int) id: 9
+(sfs_array) actions:
+(sfs_object)
+(utf_string) actor: 11
+(int) id: 7
+(sfs_array) actions:
+
+
+(sfs_array) props:
+(int) -1885
+(bool) False
+
+
+
+(sfs_array) props:
+(utf_string) 9
+
+
+(sfs_object)
+(utf_string) actor: 4
+(int) id: 8
+(sfs_array) actions:
+<message truncated>

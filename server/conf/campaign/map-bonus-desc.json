@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "elementID": "E401",
+      "desc": ["Fire characters receive a 10% buff to HP, ATK, DEF. Forest characters suffer a 10% debuff to HP, ATK, DEF"]
+    },
+    {
+      "elementID": "E402",
+      "desc": ["Ice characters receive a 10% buff to HP, ATK, DEF. Fire characters suffer a 10% debuff to HP, ATK, DEF"]
+    },
+    {
+      "elementID": "E403",
+      "desc": ["Lightning characters receive a 10% buff to HP, ATK, DEF. Ice characters suffer a 10% debuff to HP, ATK, DEF"]
+    },
+    {
+      "elementID": "E404",
+      "desc": ["Ground characters receive a 10% buff to HP, ATK, DEF. Lightning characters suffer a 10% debuff to HP, ATK, DEF"]
+    },
+    {
+      "elementID": "E405",
+      "desc": ["Forest characters receive a 10% buff to HP, ATK, DEF. Ground characters suffer a 10% debuff to HP, ATK, DEF"]
+    }
+  ]
+}

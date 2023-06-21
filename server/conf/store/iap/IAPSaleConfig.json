@@ -1,0 +1,28 @@
+{
+  "start": [
+    {"id": "vip1_2m",
+      "idSale": "vip1_2m_sale",
+      "cost": 6.99,
+      "timeStamp": -1,
+      "target": []
+    },
+    {"id": "vip1_3m",
+      "idSale": "vip1_3m_sale",
+      "cost": 8.99,
+      "timeStamp": -1,
+      "target": []
+    },
+    {"id": "vip2_2m",
+      "idSale": "vip2_2m_sale",
+      "cost": 12.99,
+      "timeStamp": -1,
+      "target": []
+    },
+    {"id": "vip2_3m",
+      "idSale": "vip2_3m_sale",
+      "cost": 17.99,
+      "timeStamp": -1,
+      "target": []
+    }
+  ]
+}

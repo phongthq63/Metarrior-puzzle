@@ -1,0 +1,885 @@
+{
+  "list": [
+    {
+      "sid": "M1000S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1000S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1001S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1001S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1002S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "similar_position",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1002S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "bleed", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage and causes bleeding. Bleed is 5% max HP per turn for 2 turns. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1003S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "similar_position",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1003S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "bleed", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage and causes bleeding. Bleed is 5% max HP per turn for 2 turns. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1004S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1004S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1005S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1005S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1006S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1006S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1007S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1007S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1008S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1008S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1009S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1009S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1010S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1010S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "Poisoned", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage and causes poison. Poison is 5% max HP per turn for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1011S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1011S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "bleed", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage and causes bleeding. Bleed is 5% max HP per turn for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1012S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1012S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1013S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1013S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1014S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1014S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [50]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage and decreases enemy's HIT chance by 50% for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1015S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1015S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [50]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage and decreases enemy's HIT chance by 50% for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1016S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * STR)", "damageType": "physical"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (STR) physical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1016S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}],
+          "target": "similar_position",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 175% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1017S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1017S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(225% * STR)", "damageType": "physical"}],
+          "target": "similar_position",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(10*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 225% (STR) physical damage and decreases enemy's defense by 10% for 1 turn. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1018S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1018S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [50]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 150% (INT) magical damage and decreases enemy's HIT chance by 50% for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1019S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1019S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "similar_position",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [50]}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (INT) magical damage and decreases enemy's HIT chance by 50% for 2 turns. (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1020S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": []
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1020S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage and causes stun for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1021S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(250% * STR)", "damageType": "physical"}],
+          "target": "similar_position"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 250% (INT) magical damage (with priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1021S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(250% * STR)", "damageType": "physical"}],
+          "target": "similar_position",
+          "se": [{"se": "Confused", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 250% (INT) magical damage and causes confusion for 1 turn. (priority on enemy with similar position on the opposite team)"]
+    },
+    {
+      "sid": "M1022S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1"
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage (with priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1022S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}],
+          "target": "front_1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 1 enemy for 200% (STR) physical damage and causes stun for 1 turn. (priority on front-line enemies)"]
+    },
+    {
+      "sid": "M1023S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(140% * STR)", "damageType": "physical"}],
+          "target": "back_2,3"
+        }
+      ],
+      "desc": ["Attacks 2-3 backline enemies for 140% (STR) physical damage"]
+    },
+    {
+      "sid": "M1023S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(140% * STR)", "damageType": "physical"}],
+          "target": "back_3",
+          "se": [{"se": "bleed", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks all backline enemies for 140% (STR) physical damage and causes bleeding. Bleed is 5% max HP per turn for 2 turns."]
+    },
+    {
+      "sid": "M1024S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(140% * INT)", "damageType": "physical"}],
+          "target": "back_2,3"
+        }
+      ],
+      "desc": ["Attacks 2-3 backline enemies for 140% (INT) magical damage"]
+    },
+    {
+      "sid": "M1024S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(140% * INT)", "damageType": "physical"}],
+          "target": "5",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [50]}]
+        }
+      ],
+      "desc": ["Attacks all backline enemies for 140% (INT) magical damage and decreases enemy's HIT chance by 50% for 2 turns."]
+    },
+    {
+      "sid": "M1025S1",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR + 2% * EMAXHP)", "damageType": "physical"}],
+          "target": "1"
+        }
+      ],
+      "desc": ["Attacks one random enemy. Damage is physical and equivalent to 200% (STR) plus 2% of enemy's max HP."]
+    },
+    {
+      "sid": "M1025S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(300% * STR + 2% * EMAXHP)", "damageType": "physical"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(15 * 1)", "maxRate": 15, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Attacks one random enemy. Damage is physical and equivalent to 300% (STR) plus 3% of enemy's max HP. Enemy hit suffers a 15% chance of being stunned."]
+    },
+    {
+      "sid": "MBS1000S1",
+      "template": 100,
+      "template_props": [
+        {
+          "tank": { "absorbRate": 40 }
+        }
+      ],
+      "desc": ["Absorb 40% of incoming damage for one random ally hero."]
+    },
+    {
+      "sid": "MBS1000S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(300% * STR)", "damageType": "physical"}],
+          "target": "1",
+          "se": [{"se": "Cripple", "rate": "(30+0.0005*ARM)", "maxRate": 50, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks one random enemy for 300% (STR) physical damage with (30+0.0005*ARM)% (max 50%) of causing cripple"]
+    },
+    {
+      "sid": "MBS1000S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(300% * STR)", "damageType": "physical"}],
+          "target": "2,4",
+          "se": [{"se": "Confused", "rate": "(25+0.01*ARM)", "maxRate": 60, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 2-4 random enemies for 300% (STR) physical damage with (25+0.01*ARM)% (max 60%) of causing confusion"]
+    },
+    {
+      "sid": "MBS1000S4",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(300% * STR)", "damageType": "physical"}],
+          "target": "3,5",
+          "se": [{"se": "Stun", "rate": "(40+0.001*ARM)", "maxRate": 60, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 300% (STR) physical damage with (40+0.001*ARM)% (max 60%) of causing stun."]
+    },
+    {
+      "sid": "MBS1001S1",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "ATK", "rate": "(40 * 1)", "target": "me"}]
+        }
+      ],
+      "desc": ["Receive extra 40% ATK. (self)"]
+    },
+    {
+      "sid": "MBS1001S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}, {"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Cripple", "rate": "(30+0.0005*ARM)", "maxRate": 50, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks one random enemy for 200% (STR) physical damage and 200% (INT) magical damage with (30+0.0005*ARM)% (max 50%) of causing cripple."]
+    },
+    {
+      "sid": "MBS1001S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(175% * STR)", "damageType": "physical"}, {"damageRate": "(175% * INT)", "damageType": "magic"}],
+          "target": "2,4",
+          "se": [{"se": "Confused", "rate": "(25+0.01*ARM)", "maxRate": 60, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 2-4 random enemies for 175% (STR) physical damage and 175% (INT) magical damage with (25+0.01*ARM)% (max 60%) of causing confusion."]
+    },
+    {
+      "sid": "MBS1001S4",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR)", "damageType": "physical"}, {"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "3,5",
+          "se": [{"se": "Stun", "rate": "(40+0.001*ARM)", "maxRate": 60, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 200% (STR) physical damage and 200% (INT) magical damage with (40+0.001*ARM)% (max 60%) of causing stun."]
+    },
+    {
+      "sid": "MBS1002S1",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "MPEN", "rate": "(30+0.005*AGI)", "max": "(50*1)", "target": "me"}]
+        }
+      ],
+      "desc": ["MPEN increase by (30+0.005*AGI)% (max 50%)"]
+    },
+    {
+      "sid": "MBS1002S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(350% * INT)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Cripple", "rate": "(30+0.0005*ARM)", "maxRate": 60, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks one random enemy for 350% (INT) magical damage with (30+0.0005*ARM)% (max 60%) of causing cripple."]
+    },
+    {
+      "sid": "MBS1002S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(400% * INT)", "damageType": "magic"}],
+          "target": "2,4",
+          "se": [{"se": "Confused", "rate": "(25+0.01*MR)", "maxRate": 60, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 2-4 random enemies for 400% (INT) magical damage with (25+0.01*MR)% (max 60%) of causing confusion."]
+    },
+    {
+      "sid": "MBS1002S4",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(450% * INT)", "damageType": "magic"}],
+          "target": "3,5",
+          "se": [{"se": "Stun", "rate": "(25+0.01*MR)", "maxRate": 60, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 450% (INT) magical damage with (25+0.01*MR)% (max 60%) of causing stun."]
+    },
+    {
+      "sid": "MBS1003S1",
+      "template": 100,
+      "template_props": [
+        {
+          "skillingOnAllyDie": "MBS1003S11"
+        }
+      ],
+      "desc": ["Every battle, when an ally faints (0 HP), Evil Ektar is able to resurrect that ally to (100%) HP. Evil Ektar is unable to resurrect himself. If Evil Ektar is fainted, this skill cannot be activated. (Max use per battle = No Limit)"]
+    },
+    {
+      "sid": "MBS1003S2",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "hp", "value": "(150% * INT)", "target": "ally_lowest_hp_1,me"}]
+        }
+      ],
+      "desc": ["Heals self and ally with lowest HP for 150% (INT)."]
+    },
+    {
+      "sid": "MBS1003S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * INT)", "damageType": "magic"}],
+          "target": "3,5",
+          "heals": [{"type": "hp", "value": "(150% * INT)", "target": "me_random_3_5"}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies for 200% (INT) magical damage and heals 3-5 random allies for 150% (INT)."]
+    },
+    {
+      "sid": "MBS1003S4",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "hp", "value": "(200% * INT)", "target": "me_random_5", "se": [{"se": "CleanAllSE", "rate": "(40 + 0.0015 * MR)", "maxRate": 75, "turn": 1, "props": []}]}]
+        }
+      ],
+      "desc": ["Heals all allies for 200% (INT) and have a (40 + 0.0015*MR) (max 75%) chance of cleansing all SE from his allies."]
+    },
+    {
+      "sid": "MBS1004S1",
+      "template": 100,
+      "template_props": [
+        {
+          "skillingOnAllyDie": "MBS1004S11"
+        }
+      ],
+      "desc": ["Every battle, when an ally faints (0 HP), Berbegazi is able to resurrect that ally to (100%) HP. Resurrected ally also gains 25% DEF buff for 1 turn. Berbegazi is unable to resurrect himself. If Berbegazi is fainted, this skill cannot be activated. (Max use per battle = No Limit)"]
+    },
+    {
+      "sid": "MBS1004S2",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "hp", "value": "max_hp_(20%)", "target": "me_random_5"},{"type": "shield_all", "value": "max_hp_(20%)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Heals all allies for 20% max HP of ally and creates a shield (all-damage) equivalent to 20% max HP of ally. Shield lasts 2 turns. New shields refresh old shields."]
+    },
+    {
+      "sid": "MBS1004S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(300% * INT)", "damageType": "magic"}],
+          "target": "3",
+          "se": [{"se": "Frozen", "rate": "(40 * 1)", "maxRate": 25, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3 random enemies. Damage is magical and equal to 300% (INT). Enemy hit suffers 25% chance of being frozen."]
+    },
+    {
+      "sid": "MBS1004S4",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(20% * EMAXHP)", "damageType": "magic"}],
+          "target": "back_3",
+          "heals": [{"type": "hp", "value": "max_hp_(25%)", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Attacks 3 random enemies, prioritizing backline enemies. Damage is magical and is equivalent to 20% of enemies' max HP. At the end of the attack, each ally is healed for 25% max HP."]
+    },
+    {
+      "sid": "MBS1005S1",
+      "template": 100,
+      "template_props": [
+        {
+          "statbuff": [{"attr": "APEN", "rate": "(40*1)", "max": "(40*1)", "target": "me"}],
+          "immunity": "hard"
+        }
+      ],
+      "desc": ["APEN increase by 40%. Hard crowd control effects do not affect Amarok."]
+    },
+    {
+      "sid": "MBS1005S2",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * STR + 10% * EMAXHP)", "damageType": "physical"}],
+          "target": "back_1",
+          "se": [{"se": "Cripple", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks one random backline enemy. Damage is physical and equal to 200% (STR) plus 10% of max HP of enemy. Enemy hit is crippled for 2 turns."]
+    },
+    {
+      "sid": "MBS1005S3",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(250% * STR + 5% * EMAXHP)", "damageType": "physical"}],
+          "target": "2,4",
+          "se": [{"se": "bleed", "rate": "(100 * 1)", "maxRate": 100, "turn": 3, "props": [5]}]
+        }
+      ],
+      "desc": ["Attacks 2-4 random enemies. Damage is physical and equal to 250% (STR) plus 5% max HP of enemy hit. Enemy hit suffers bleed of 5% HP per turn for 3 turns."]
+    },
+    {
+      "sid": "MBS1005S4",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(15% * EMAXHP)", "damageType": "physical"}],
+          "target": "back_3,5",
+          "se": [{"se": "Confused", "rate": "(40 * 1)", "maxRate": 40, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Attacks 3-5 random enemies, prioritizing backline enemies. Damage is physical and is equivalent to 15% of enemies' max HP. Enemy hit suffers a 40% chance of being confused. SE008"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kingdom": [
+    {
+      "id": 0,
+      "desc": ["Tăng chỉ số của tất cả các anh hùng đồng minh khi 3 anh hùng cùng phe được sử dụng cùng nhau", "Công + 10%", "Sinh lực + 10%"],
+      "statbuff": [{"attr": "ATK", "rate": "(10 * 1)"}, {"attr": "HP", "rate": "(10 * 1)"}]
+    },
+    {
+      "id": 1,
+      "desc": ["Tăng chỉ số của tất cả các anh hùng đồng minh khi 3 anh hùng cùng phe và 2 anh hùng của phe còn lại được sử dụng cùng nhau", "Công + 15%", "Sinh lực + 15%"],
+      "statbuff": [{"attr": "ATK", "rate": "(15 * 1)"}, {"attr": "HP", "rate": "(15 * 1)"}]
+    },
+    {
+      "id": 2,
+      "desc": ["Tăng chỉ số của tất cả các anh hùng đồng minh khi 4 anh hùng cùng phe được sử dụng cùng nhau", "Công + 15%", "Sinh lực + 20%"],
+      "statbuff": [{"attr": "ATK", "rate": "(15 * 1)"}, {"attr": "HP", "rate": "(20 * 1)"}]
+    },
+    {
+      "id": 3,
+      "desc": ["Tăng chỉ số của tất cả các anh hùng đồng minh khi 5 anh hùng cùng phe được sử dụng cùng nhau", "Công + 25%", "Sinh lực + 25%"],
+      "statbuff": [{"attr": "ATK", "rate": "(25 * 1)"}, {"attr": "HP", "rate": "(25 * 1)"}]
+    }
+  ],
+
+  "light": {
+    "desc": ["Anh hùng thần thánh có thể được xem là anh hùng xác ướp, người mang ánh sáng, người rừng hoặc người thú khi thưởng phe phái"]
+  },
+
+  "dark": {
+    "desc": ["Anh hùng bóng tối có thể được xem là anh hùng xác ướp, người mang ánh sáng, người rừng hoặc người thú khi thưởng phe phái"]
+  }
+}

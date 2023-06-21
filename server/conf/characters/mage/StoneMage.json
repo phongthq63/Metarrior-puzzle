@@ -1,0 +1,20 @@
+{
+  "listStone": [
+    {"id": "atk",
+      "name": "test",
+      "listAttr": [{"attr": 1, "param": 10}]
+    },
+    {"id": "df",
+      "name": "test",
+      "listAttr": [{"attr": 9, "param": 10}]
+    },
+    {"id": "crit",
+      "name": "test",
+      "listAttr": [{"attr": 7, "param": 10}]
+    },
+    {"id": "critd",
+      "name": "test",
+      "listAttr": [{"attr": 8, "param": 10}]
+    }
+  ]
+}

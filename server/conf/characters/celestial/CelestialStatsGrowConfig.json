@@ -1,0 +1,28 @@
+{
+  "method": "base + (base * enhanceLevel * level)",
+  "params": {
+    "base": 0,
+    "level": 1,
+    "enhanceLevel": 2
+  },
+  "list": [
+    {
+      "id": "CEL000",
+      "enhanceLevel": {
+        "attack": 0.1,
+        "defensePenetration": 0.15,
+        "crit": 0.025,
+        "critDmg": 0.03
+      }
+    },
+    {
+      "id": "CEL001",
+      "enhanceLevel": {
+        "attack": 0.1,
+        "defensePenetration": 0.15,
+        "crit": 0.025,
+        "critDmg": 0.03
+      }
+    }
+  ]
+}

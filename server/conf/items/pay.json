@@ -1,0 +1,14 @@
+{
+  "payEquip": [
+    {"star": 1, "money": {"id": "MON1001", "amount": 100000}},
+    {"star": 2, "money": {"id": "MON1001", "amount": 1000000}},
+    {"star": 3, "money": {"id": "MON1001", "amount": 2000000}},
+    {"star": 4, "money": {"id": "MON1001", "amount": 4000000}}
+  ],
+  "payGem": [
+    {"level": 1, "money": {"id": "MON1001", "amount": 150000}},
+    {"level": 2, "money": {"id": "MON1001", "amount": 1500000}},
+    {"level": 3, "money": {"id": "MON1001", "amount": 3000000}},
+    {"level": 4, "money": {"id": "MON1001", "amount": 6000000}}
+  ]
+}

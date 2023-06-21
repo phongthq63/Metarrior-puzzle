@@ -1,0 +1,6 @@
+{
+  "cacheRefresh": 60,
+  "timeAssignRefresh": "1",
+  "maxAssign": 30,
+  "countAssign": {"0": 1, "1": 1, "2": 1, "3": 1}
+}

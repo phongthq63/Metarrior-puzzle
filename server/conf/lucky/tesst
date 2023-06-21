@@ -1,0 +1,144 @@
+{
+	"lucky_items": [
+		{
+			"item_id": "1",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 2
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.1",
+			"description": ""
+		},
+		{
+			"item_id": "2",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 5
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.07",
+			"description": ""
+		},
+		{
+			"item_id": "3",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 8
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "4",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 75
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.03",
+			"description": ""
+		},
+		{
+			"item_id": "5",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 150
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.02",
+			"description": ""
+		},
+		{
+			"item_id": "6",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "MON1025",
+					"amount": 300
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.01",
+			"description": ""
+		},
+		{
+			"item_id": "7",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"amount": 150
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.4",
+			"description": ""
+		},
+		{
+			"item_id": "8",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"amount": 750
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.24",
+			"description": ""
+		},
+		{
+			"item_id": "9",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"amount": 1500
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "10",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"amount": 3750
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.03",
+			"description": ""
+		}
+	]
+}

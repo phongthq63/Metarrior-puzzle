@@ -1,0 +1,381 @@
+{
+  "list":[
+    {"id": "sky_daily_free", "giftName": "Daily - Free", "name": "Gói sản phẩm \"Daily\" - miễn phí - FREE",
+      "cost": 0,
+      "reward": [
+        {"id": "SPI1049", "amount": 10},
+        {"id": "SPI1128", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", "13"],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_daily_1", "giftName": "Daily 1", "name": "Gói sản phẩm \"Daily\" - 1$",
+      "cost": 0.99,
+      "reward": [
+        {"id": "SPI1050", "amount": 5},
+        {"id": "SPI1049", "amount": 180},
+        {"id": "SPI1130", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "300% bonus"
+    },
+    {"id": "sky_daily_3", "giftName": "Daily 3", "name": "Gói sản phẩm \"Daily\" - 3$",
+      "cost": 2.99,
+      "reward": [
+        {"id": "MON1003", "amount": 3000},
+        {"id": "SPI1131", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "165% bonus"
+    },
+    {"id": "sky_daily_6", "giftName": "Daily 6", "name": "Gói sản phẩm \"Daily\" - 6$",
+      "cost": 5.99,
+      "reward": [
+        {"id": "MON1001", "amount": 3000000},
+        {"id": "MON1002", "amount": 3000000},
+        {"id": "SPI1132", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "125% bonus"
+    },
+    {"id": "AUN001", "giftName": "Daily - Ad 1", "name": "Gói sản phẩm \"Daily\" - xem ad",
+      "cost": -1,
+      "reward": [
+        {"id": "SPI1049", "amount": 20},
+        {"id": "SPI1128", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", "14"],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "AUN002", "giftName": "Daily - Ad 2", "name": "Gói diamond \"daily\" - xem ad",
+      "cost": -1,
+      "reward": [
+        {"id": "SPI1079", "amount": 1},
+        {"id": "SPI1128", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["0", "13"],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_weekly_free", "giftName": "Weekly - Free", "name": "Gói sản phẩm \"Weekly\" - miễn phí",
+      "cost": 0,
+      "reward": [
+        {"id": "SPI1050", "amount": 10},
+        {"id": "SPI1049", "amount": 180},
+        {"id": "SPI1129", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_weekly_1", "giftName": "Weekly 1", "name": "Gói sản phẩm \"Weekly\" - 1$",
+      "cost": 0.99,
+      "reward": [
+        {"id": "SPI1050", "amount": 15},
+        {"id": "SPI1049", "amount": 60},
+        {"id": "SPI1130", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "700% bonus"
+    },
+    {"id": "sky_weekly_5", "giftName": "Weekly 5_1", "name": "Gói sản phẩm \"Weekly\" - 5$",
+      "cost": 4.99,
+      "reward": [
+        {"id": "MON1001", "amount": 4000000},
+        {"id": "MON1002", "amount": 4000000},
+        {"id": "SPI1132", "amount": 1}
+      ],
+      "maxBuy": 2,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "200% bonus"
+    },
+    {"id": "sky_weekly_10", "giftName": "Weekly 10", "name": "Gói sản phẩm \"Weekly\" - 10$",
+      "cost": 9.99,
+      "reward": [
+        {"id": "SPI1081", "amount": 1},
+        {"id": "SPI1049", "amount": 600},
+        {"id": "SPI1133", "amount": 1}
+      ],
+      "maxBuy": 2,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "160% bonus"
+    },
+    {"id": "sky_weekly_diamond_5", "giftName": "Weekly 5_2", "name": "Gói diamond \"weekly\" - 5$",
+      "cost": 4.99,
+      "reward": [
+        {"id": "MON1003", "amount": 5000},
+        {"id": "SPI1092", "amount": 1},
+        {"id": "SPI1132", "amount": 1}
+      ],
+      "maxBuy": 2,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "233% bonus"
+    },
+    {"id": "AUN003", "giftName": "", "name": "Gói sản phẩm \"Weekly\" - xem ad",
+      "cost": -1,
+      "reward": [
+        {"id": "SPI1050", "amount": 5},
+        {"id": "MON1000", "amount": 100}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["1", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_monthly_free", "giftName": "Monthly - Free", "name": "Gói sản phẩm \"Monthly\" - miễn phí",
+      "cost": 0,
+      "reward": [
+        {"id": "SPI1050", "amount": 15},
+        {"id": "MON1000", "amount": 1000},
+        {"id": "SPI1130", "amount": 1}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_monthly_1", "giftName": "Monthly 1", "name": "Gói sản phẩm \"Monthly\" - 1$",
+      "cost": 0.99,
+      "reward": [
+        {"id": "SPI1050", "amount": 20},
+        {"id": "SPI1049", "amount": 240},
+        {"id": "SPI1130", "amount": 1}
+      ],
+      "maxBuy": 2,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "1100% bonus"
+    },
+    {"id": "sky_monthly_5", "giftName": "Monthly 5", "name": "Gói sản phẩm \"Monthly\" - 5$",
+      "cost": 4.99,
+      "reward": [
+        {"id": "MON1001", "amount": 5000000},
+        {"id": "MON1002", "amount": 5000000},
+        {"id": "SPI1132", "amount": 1}
+      ],
+      "maxBuy": 2,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "700% bonus"
+    },
+    {"id": "sky_monthly_10", "giftName": "Monthly 10", "name": "Gói sản phẩm \"Monthly\" - 10$",
+      "cost": 9.99,
+      "reward": [
+        {"id": "MON1003", "amount": 7500},
+        {"id": "SPI1081", "amount": 10},
+        {"id": "SPI1133", "amount": 1}
+      ],
+      "maxBuy": 4,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "500% bonus"
+    },
+    {"id": "sky_monthly_15", "giftName": "Monthly 15_1", "name": "Gói sản phẩm \"Monthly\" - 15$",
+      "cost": 14.99,
+      "reward": [
+        {"id": "SPI1050", "amount": 20},
+        {"id": "SPI1049", "amount": 900},
+        {"id": "SPI1134", "amount": 1}
+      ],
+      "maxBuy": 4,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "500% bonus"
+    },
+    {"id": "sky_monthly_15_2", "giftName": "Monthly 15_2", "name": "Gói diamond \"monthly\" - 15$",
+      "cost": 14.99,
+      "reward": [
+        {"id": "MON1008", "amount": 30},
+        {"id": "SPI1093", "amount": 1},
+        {"id": "SPI1134", "amount": 1}
+      ],
+      "maxBuy": 4,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "300% bonus"
+    },
+    {"id": "AUN004", "giftName": "", "name": "Gói sản phẩm \"Monthly\" - xem ad",
+      "cost": -1,
+      "reward": [
+        {"id": "SPI1050", "amount": 10},
+        {"id": "MON1000", "amount": 300}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["2", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "MAX"
+    },
+    {"id": "sky_diamond_25", "giftName": "Diamond 25", "name": "Gói diamond bình thường - 25$",
+      "cost": 24.99,
+      "reward": [
+        {"id": "MON1000", "amount": 7500},
+        {"id": "SPI1135", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "0% bonus"
+    },
+    {"id": "sky_diamond_50", "giftName": "Diamond 50", "name": "Gói diamond bình thường - 50$",
+      "cost": 49.99,
+      "reward": [
+        {"id": "MON1000", "amount": 16500},
+        {"id": "SPI1136", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "10% bonus"
+    },
+    {"id": "sky_diamond_100", "giftName": "Diamond 100", "name": "Gói diamond bình thường - 100$",
+      "cost": 99.99,
+      "reward": [
+        {"id": "MON1000", "amount": 36000},
+        {"id": "SPI1137", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "20% bonus"
+    },
+    {"id": "vip1_1m", "giftName": "Archmage 1", "name": "VIP1 badge-1tháng",
+      "cost": 6.99,
+      "reward": [
+        {"id": "SPI1125", "amount": 1},
+        {"id": "SPI1131", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "7500_bonus"
+    },
+    {"id": "vip1_2m", "giftName": "Archmage 2", "name": "VIP1 badge-2tháng",
+      "cost": 13.99,
+      "reward": [
+        {"id": "SPI1125", "amount": 2},
+        {"id": "SPI1132", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "tag_30sale"
+    },
+    {"id": "vip1_3m", "giftName": "Archmage 3", "name": "VIP1 badge-3tháng",
+      "cost": 20.99,
+      "reward": [
+        {"id": "SPI1125", "amount": 3},
+        {"id": "SPI1133", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "tag_40sale"
+    },
+    {"id": "vip2_1m", "giftName": "Protector 1", "name": "VIP2 badge-1tháng",
+      "cost": 14.99,
+      "reward": [
+        {"id": "SPI1127", "amount": 1},
+        {"id": "SPI1133", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "9000_bonus"
+    },
+    {"id": "vip2_2m", "giftName": "Protector 2", "name": "VIP2 badge-2tháng",
+      "cost": 29.99,
+      "reward": [
+        {"id": "SPI1127", "amount": 2},
+        {"id": "SPI1134", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "tag_33sale"
+    },
+    {"id": "vip2_3m", "giftName": "Protector 3", "name": "VIP2 badge-3tháng",
+      "cost": 44.99,
+      "reward": [
+        {"id": "SPI1127", "amount": 3},
+        {"id": "SPI1135", "amount": 1}
+      ],
+      "maxBuy": 0,
+      "timeExsist": ["", "", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": [],
+      "description": "tag_45sale"
+    }
+  ]
+}

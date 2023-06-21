@@ -1,0 +1,57 @@
+{
+  "cmdid": 34000,
+  "ec": 0,
+  "table": [
+    {
+      "chest": {
+        "complete": [],
+        "point": 0
+      },
+      "id": 0,
+      "time": 4643,
+      "list": [
+        {
+          "count": 4,
+          "id": "daily0",
+          "complete": 0
+        },
+        {
+          "count": 3,
+          "id": "weekly1",
+          "complete": 0
+        }
+      ]
+    },
+    {
+      "chest": {
+        "complete": [],
+        "point": 0
+      },
+      "id": 1,
+      "time": 436643,
+      "list": [
+        {
+          "count": 1,
+          "id": "weekly1",
+          "complete": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "time": -1,
+      "list": [
+        {
+          "count": 3,
+          "id": "all5",
+          "complete": 0
+        },
+        {
+          "count": 14,
+          "id": "all10",
+          "complete": 0
+        }
+      ]
+    }
+  ]
+}

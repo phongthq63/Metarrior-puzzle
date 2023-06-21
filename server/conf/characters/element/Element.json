@@ -1,0 +1,9 @@
+{
+  "listElement": [
+    {"id": "E401", "name": "Fire", "cost": [{"id": "MON1000", "amount": 300}]},
+    {"id": "E402", "name": "Ice", "cost": [{"id": "MON1000", "amount": 300}]},
+    {"id": "E403", "name": "Forest", "cost": [{"id": "MON1000", "amount": 300}]},
+    {"id": "E404", "name": "Ground", "cost": [{"id": "MON1000", "amount": 300}]},
+    {"id": "E405", "name": "Lightning", "cost": [{"id": "MON1000", "amount": 300}]}
+  ]
+}

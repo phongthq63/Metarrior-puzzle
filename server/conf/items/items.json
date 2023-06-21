@@ -1,0 +1,1656 @@
+{
+  "sizeBag": 200,
+  "listEquip": [
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Helm",
+      "id": "EQU1001",
+      "position": 2,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Shirt",
+      "id": "EQU1002",
+      "position": 3,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Pants",
+      "id": "EQU1003",
+      "position": 4,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Belt",
+      "id": "EQU1004",
+      "position": 5,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Gloves",
+      "id": "EQU1005",
+      "position": 6,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 1,
+      "name": "Leather Boots",
+      "id": "EQU1006",
+      "position": 7,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Bandana",
+      "id": "EQU1007",
+      "position": 2,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Shirt",
+      "id": "EQU1008",
+      "position": 3,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Pants",
+      "id": "EQU1009",
+      "position": 4,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Belt",
+      "id": "EQU1010",
+      "position": 5,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Gloves",
+      "id": "EQU1011",
+      "position": 6,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 1,
+      "name": "Cloth Boots",
+      "id": "EQU1012",
+      "position": 7,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Hat",
+      "id": "EQU1013",
+      "position": 2,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Tunic",
+      "id": "EQU1014",
+      "position": 3,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Legging",
+      "id": "EQU1015",
+      "position": 4,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Belt",
+      "id": "EQU1016",
+      "position": 5,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Gloves",
+      "id": "EQU1017",
+      "position": 6,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 1,
+      "name": "Tattered Boots",
+      "id": "EQU1018",
+      "position": 7,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Sword",
+      "id": "EQU1019",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL001",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Dagger",
+      "id": "EQU1020",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL002",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Wooden Axe",
+      "id": "EQU1021",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL003",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Wooden Hammer",
+      "id": "EQU1022",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL004",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Wooden Mace",
+      "id": "EQU1023",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL005",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Longbow",
+      "id": "EQU1025",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL007",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Crossbow",
+      "id": "EQU1026",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL008",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Firecracker",
+      "id": "EQU1027",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL009",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Staff",
+      "id": "EQU1028",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL010",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Book",
+      "id": "EQU1029",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL011",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Orb",
+      "id": "EQU1030",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL012",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Ring",
+      "id": "EQU1031",
+      "position": 1,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Fang Necklace",
+      "id": "EQU1032",
+      "position": 1,
+      "expFis": 125,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Helm",
+      "id": "EQU1033",
+      "position": 2,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Chest Armor",
+      "id": "EQU1034",
+      "position": 3,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Leg Armor",
+      "id": "EQU1035",
+      "position": 4,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Belt",
+      "id": "EQU1036",
+      "position": 5,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Gloves",
+      "id": "EQU1037",
+      "position": 6,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 2,
+      "name": "Sturdy Boots",
+      "id": "EQU1038",
+      "position": 7,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Hood of the Cunning",
+      "id": "EQU1039",
+      "position": 2,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Shirt of the Cunning",
+      "id": "EQU1040",
+      "position": 3,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Pants of the Cunning",
+      "id": "EQU1041",
+      "position": 4,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Belt of the Cunning",
+      "id": "EQU1042",
+      "position": 5,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Gloves of the Cunning",
+      "id": "EQU1043",
+      "position": 6,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 2,
+      "name": "Boots of the Cunning",
+      "id": "EQU1044",
+      "position": 7,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble Hat",
+      "id": "EQU1045",
+      "position": 2,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble Tunic",
+      "id": "EQU1046",
+      "position": 3,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble Legging",
+      "id": "EQU1047",
+      "position": 4,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble Belt",
+      "id": "EQU1048",
+      "position": 5,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble gloves",
+      "id": "EQU1049",
+      "position": 6,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 2,
+      "name": "Nimble Boots",
+      "id": "EQU1050",
+      "position": 7,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Broad Sword",
+      "id": "EQU1051",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL001",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Short Dagger",
+      "id": "EQU1052",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL002",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Axe",
+      "id": "EQU1053",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL003",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Hammer",
+      "id": "EQU1054",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL004",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Rare Equipment 24",
+      "id": "EQU1056",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL006",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Longbow",
+      "id": "EQU1057",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL007",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Crossbow",
+      "id": "EQU1058",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL008",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Chain Firecracker",
+      "id": "EQU1059",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL009",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Staff",
+      "id": "EQU1060",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL010",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Book of Simple Spells",
+      "id": "EQU1061",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL011",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Mysterious Orb",
+      "id": "EQU1062",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL012",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Ring",
+      "id": "EQU1063",
+      "position": 1,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Ruby Necklace",
+      "id": "EQU1064",
+      "position": 1,
+      "expFis": 250,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Helm",
+      "id": "EQU1065",
+      "position": 2,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Chest Plate",
+      "id": "EQU1066",
+      "position": 3,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Leg Armor",
+      "id": "EQU1067",
+      "position": 4,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Belt",
+      "id": "EQU1068",
+      "position": 5,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Gauntlets",
+      "id": "EQU1069",
+      "position": 6,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 3,
+      "name": "Rugged Boots",
+      "id": "EQU1070",
+      "position": 7,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Hood of the Deceitful",
+      "id": "EQU1071",
+      "position": 2,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Shirt of the Deceitful",
+      "id": "EQU1072",
+      "position": 3,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Pants of the Deceitful",
+      "id": "EQU1073",
+      "position": 4,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Belt of the Deceitful",
+      "id": "EQU1074",
+      "position": 5,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Gloves of the Deceitful",
+      "id": "EQU1075",
+      "position": 6,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 3,
+      "name": "Boots of the Deceitful",
+      "id": "EQU1076",
+      "position": 7,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Hat",
+      "id": "EQU1077",
+      "position": 2,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Tunic",
+      "id": "EQU1078",
+      "position": 3,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Legging",
+      "id": "EQU1079",
+      "position": 4,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Belt",
+      "id": "EQU1080",
+      "position": 5,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Gloves",
+      "id": "EQU1081",
+      "position": 6,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 3,
+      "name": "Clever Boots",
+      "id": "EQU1082",
+      "position": 7,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Sharp Sword",
+      "id": "EQU1083",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL001",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Sharp Dagger",
+      "id": "EQU1084",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL002",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Axe",
+      "id": "EQU1085",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL003",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Hammer",
+      "id": "EQU1086",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL004",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Mace",
+      "id": "EQU1087",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL005",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Precise Longbow",
+      "id": "EQU1089",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL007",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Precise Crossbow",
+      "id": "EQU1090",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL008",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Small Bomb",
+      "id": "EQU1091",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL009",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Refined Staff",
+      "id": "EQU1092",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL010",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Book of Expert Spells",
+      "id": "EQU1093",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL011",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Mystifying Orb",
+      "id": "EQU1094",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL012",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Ring",
+      "id": "EQU1095",
+      "position": 1,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Gold Necklace",
+      "id": "EQU1096",
+      "position": 1,
+      "expFis": 500,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Helm",
+      "id": "EQU1097",
+      "position": 2,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Chest Plate",
+      "id": "EQU1098",
+      "position": 3,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Leg Armor",
+      "id": "EQU1099",
+      "position": 4,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Belt",
+      "id": "EQU1100",
+      "position": 5,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Gauntlets",
+      "id": "EQU1101",
+      "position": 6,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 4,
+      "name": "Reinforced Greaves",
+      "id": "EQU1102",
+      "position": 7,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Hood of the Exalted",
+      "id": "EQU1103",
+      "position": 2,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Cape of the Exalted",
+      "id": "EQU1104",
+      "position": 3,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Pants of the Exalted",
+      "id": "EQU1105",
+      "position": 4,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Belt of the Exalted",
+      "id": "EQU1106",
+      "position": 5,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Gloves of the Exalted",
+      "id": "EQU1107",
+      "position": 6,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 4,
+      "name": "Boots of the Exalted",
+      "id": "EQU1108",
+      "position": 7,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Hat",
+      "id": "EQU1109",
+      "position": 2,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Tunic",
+      "id": "EQU1110",
+      "position": 3,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Legging",
+      "id": "EQU1111",
+      "position": 4,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Belt",
+      "id": "EQU1112",
+      "position": 5,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Gloves",
+      "id": "EQU1113",
+      "position": 6,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 4,
+      "name": "Apprentice Mage's Boots",
+      "id": "EQU1114",
+      "position": 7,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Sword",
+      "id": "EQU1115",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL001",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Dagger",
+      "id": "EQU1116",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL002",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced War Axe",
+      "id": "EQU1117",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL003",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Battle Hammer",
+      "id": "EQU1118",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL004",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Epic Equipment 24",
+      "id": "EQU1120",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL006",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Longbow",
+      "id": "EQU1121",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL007",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Crossbow",
+      "id": "EQU1122",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL008",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Medium Bomb",
+      "id": "EQU1123",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL009",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Jeweled Staff",
+      "id": "EQU1124",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL010",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Book of the Apprentice Mage",
+      "id": "EQU1125",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL011",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Blessed Orb",
+      "id": "EQU1126",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL012",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Blessed Ring",
+      "id": "EQU1127",
+      "position": 1,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Blessed Necklace",
+      "id": "EQU1128",
+      "position": 1,
+      "expFis": 1000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Helm",
+      "id": "EQU1129",
+      "position": 2,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Chest Plate",
+      "id": "EQU1130",
+      "position": 3,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Leg Armor",
+      "id": "EQU1131",
+      "position": 4,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Belt",
+      "id": "EQU1132",
+      "position": 5,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Gauntlets",
+      "id": "EQU1133",
+      "position": 6,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS201",
+      "star": 5,
+      "name": "Magnificent Greaves",
+      "id": "EQU1134",
+      "position": 7,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Headgear of the Assassin",
+      "id": "EQU1135",
+      "position": 2,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Chest Armor of the Assassin",
+      "id": "EQU1136",
+      "position": 3,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Leg Armor of the Assassin",
+      "id": "EQU1137",
+      "position": 4,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Belt of the Assassin",
+      "id": "EQU1138",
+      "position": 5,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Gloves of the Assassin",
+      "id": "EQU1139",
+      "position": 6,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS203",
+      "star": 5,
+      "name": "Boots of the Assassin",
+      "id": "EQU1140",
+      "position": 7,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Hat",
+      "id": "EQU1141",
+      "position": 2,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Tunic",
+      "id": "EQU1142",
+      "position": 3,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Legging",
+      "id": "EQU1143",
+      "position": 4,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Belt",
+      "id": "EQU1144",
+      "position": 5,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Gloves",
+      "id": "EQU1145",
+      "position": 6,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "CLS206",
+      "star": 5,
+      "name": "Grand Mage's Boots",
+      "id": "EQU1146",
+      "position": 7,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Sword",
+      "id": "EQU1147",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL001",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Dagger",
+      "id": "EQU1148",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL002",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent War Axe",
+      "id": "EQU1149",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL003",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Battle Hammer",
+      "id": "EQU1150",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL004",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Mace",
+      "id": "EQU1151",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL005",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Longbow",
+      "id": "EQU1153",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL007",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Crossbow",
+      "id": "EQU1154",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL008",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Bomb",
+      "id": "EQU1155",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL009",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Staff",
+      "id": "EQU1156",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL010",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Book of the Magnificent",
+      "id": "EQU1157",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL011",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Orb",
+      "id": "EQU1158",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL012",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Ring",
+      "id": "EQU1159",
+      "position": 1,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Necklace",
+      "id": "EQU1160",
+      "position": 1,
+      "expFis": 2000,
+      "type": "0",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Spear",
+      "id": "EQU1289",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL014",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Spear",
+      "id": "EQU1290",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL014",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Spear",
+      "id": "EQU1291",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL014",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Spear",
+      "id": "EQU1292",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL014",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Spear",
+      "id": "EQU1293",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL014",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 1,
+      "name": "Old Rifle",
+      "id": "EQU1298",
+      "position": 0,
+      "expFis": 125,
+      "type": "WCL013",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 2,
+      "name": "Sturdy Rifle",
+      "id": "EQU1299",
+      "position": 0,
+      "expFis": 250,
+      "type": "WCL013",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 3,
+      "name": "Rugged Rifle",
+      "id": "EQU1300",
+      "position": 0,
+      "expFis": 500,
+      "type": "WCL013",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 4,
+      "name": "Reinforced Rifle",
+      "id": "EQU1301",
+      "position": 0,
+      "expFis": 1000,
+      "type": "WCL013",
+      "kingdom": ""
+    },
+    {
+      "profession": "",
+      "star": 5,
+      "name": "Magnificent Rifle",
+      "id": "EQU1302",
+      "position": 0,
+      "expFis": 2000,
+      "type": "WCL013",
+      "kingdom": ""
+    }
+  ],
+  "maxStar": 5
+}

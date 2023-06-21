@@ -1,0 +1,54 @@
+{
+  "list": [
+    {"id": "invite",
+      "conditionReward": {
+        "type": "35",
+        "formula": [
+          {"f": 1, "s": 1},
+          {"f": 5, "s": 5},
+          {"f": 10, "s": 20},
+          {"f": 0, "s": 50}
+        ]
+      },
+      "condition": {
+        "type": "35",
+        "formula": [
+          {"f": 1, "s": 1}
+        ]
+      }
+    },
+    {"id": "link-account",
+      "conditionReward": {
+        "type": "34",
+        "formula": [
+          {"f": 1, "s": 1},
+          {"f": 5, "s": 5},
+          {"f": 10, "s": 20},
+          {"f": 0, "s": 100}
+        ]
+      },
+      "condition": {
+        "type": "34",
+        "formula": [
+          {"f": 1, "s": 1}
+        ]
+      }
+    },
+    {"id": "lever-50",
+      "conditionReward": {
+        "type": "36",
+        "formula": [
+          {"f": 1, "s": 1},
+          {"f": 5, "s": 5},
+          {"f": 10, "s": 20}
+        ]
+      },
+      "condition": {
+        "type": "36",
+        "formula": [
+          {"f": 0, "s": 50}
+        ]
+      }
+    }
+  ]
+}

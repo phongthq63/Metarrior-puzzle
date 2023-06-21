@@ -1,0 +1,132 @@
+{
+  "win": [
+    {"id": "MON1001", "amount": 100},
+    {"id": "MON1002", "amount": 100}
+  ],
+  "lose": [
+    {"id": "MON1001", "amount": 100},
+    {"id": "MON1002", "amount": 100}
+  ],
+  "powers": [
+    {
+      "range": [1, 30],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 2500}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 100}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 5000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 5}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 1}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 1}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 1}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 1}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 1}}
+      ]
+    },
+    {
+      "range": [31, 60],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 3500}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 100}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 5000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 5}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 1}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 1}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 1}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 1}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 1}}
+      ]
+    },
+    {
+      "range": [61, 90],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 6500}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 150}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 10000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 5}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 2}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 1}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 1}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 1}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 1}}
+      ]
+    },
+    {
+      "range": [91, 120],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 12000}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 200}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 15000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 10}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 2}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 2}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 2}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 2}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 2}}
+      ]
+    },
+    {
+      "range": [121, 150],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 15000}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 250}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 20000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 10}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 3}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 3}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 3}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 3}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 3}}
+      ]
+    },
+    {
+      "range": [151, 175],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 20000}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 300}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 25000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 15}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 3}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 3}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 3}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 3}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 3}}
+      ]
+    },
+    {
+      "range": [176, 200],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 30000}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 350}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 30000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 15}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 4}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 4}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 4}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 4}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 4}}
+      ]
+    },
+    {
+      "range": [201, 240],
+      "slot": [
+        {"slot": 1, "reward": {"rate": 100, "id": "MON1001", "amount": 40000}},
+        {"slot": 2, "reward": {"rate": 100, "id": "SOG", "amount": 400}},
+        {"slot": 3, "reward": {"rate": 100, "id": "MON1002", "amount": 35000}},
+        {"slot": 4, "reward": {"rate": 100, "id": "SPI1049", "amount": 15}},
+        {"slot": 5, "reward": {"rate": 100, "id": "SPI1050", "amount": 4}},
+        {"slot": 6, "reward": {"rate": 100, "id": "MON1024", "amount": 1}},
+        {"slot": 7, "reward": {"rate": 100, "id": "FRAT1039", "amount": 4}},
+        {"slot": 8, "reward": {"rate": 100, "id": "FRAT1038", "amount": 4}},
+        {"slot": 9, "reward": {"rate": 100, "id": "FRAT1001", "amount": 4}},
+        {"slot": 10, "reward": {"rate": 100, "id": "FRAT1037", "amount": 4}}
+      ]
+    }
+  ]
+}

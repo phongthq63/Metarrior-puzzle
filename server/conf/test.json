@@ -1,0 +1,116 @@
+{
+  "maxBagHero": 75,
+  "cmdid": 16000,
+  "listHero": [
+    {
+      "skills": [
+        {
+          "level": 1,
+          "id": "T1040S1"
+        },
+        {
+          "level": 1,
+          "id": "T1040S2"
+        },
+        {
+          "level": 1,
+          "id": "T1040S3"
+        },
+        {
+          "level": 1,
+          "id": "T1040S4"
+        }
+      ],
+      "star": 3,
+      "level": 2,
+      "hashHero": "hero1616680433787_jgr5T-NGEK6",
+      "equipment": [],
+      "id": "T1040",
+      "power": 33822,
+      "blessing": false
+    },
+    {
+      "skills": [
+        {
+          "level": 1,
+          "id": "T1006S1"
+        },
+        {
+          "level": 1,
+          "id": "T1006S2"
+        },
+        {
+          "level": 1,
+          "id": "T1006S3"
+        },
+        {
+          "level": 1,
+          "id": "T1006S4"
+        }
+      ],
+      "star": 1,
+      "level": 2,
+      "hashHero": "hero1616680433797_0Zrdr-UE3BY",
+      "equipment": [],
+      "id": "T1006",
+      "power": 21908,
+      "blessing": false
+    },
+    {
+      "skills": [
+        {
+          "level": 1,
+          "id": "T1018S1"
+        },
+        {
+          "level": 1,
+          "id": "T1018S2"
+        },
+        {
+          "level": 1,
+          "id": "T1018S3"
+        },
+        {
+          "level": 1,
+          "id": "T1018S4"
+        }
+      ],
+      "star": 1,
+      "level": 2,
+      "hashHero": "hero1616680433798_2sAI9-qf1uN",
+      "equipment": [],
+      "id": "T1018",
+      "power": 26476,
+      "blessing": false
+    },
+    {
+      "skills": [
+        {
+          "level": 1,
+          "id": "T1021S1"
+        },
+        {
+          "level": 1,
+          "id": "T1021S2"
+        },
+        {
+          "level": 1,
+          "id": "T1021S3"
+        },
+        {
+          "level": 1,
+          "id": "T1021S4"
+        }
+      ],
+      "star": 3,
+      "level": 1,
+      "hashHero": "hero1616680433798_s6ANF-IzAGn",
+      "equipment": [],
+      "id": "T1021",
+      "power": 25399,
+      "blessing": false
+    }
+  ],
+  "count": 0,
+  "ec": 0
+}

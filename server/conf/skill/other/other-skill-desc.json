@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "sid": "T1011S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"target": "me_random_5", "se": [{"se": "Stat Buff", "rate": "(100*1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(15 + 0.0005*ARM)", "(30*1)"]}]}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Anese buffs and increases ally's defense by (15 + 0.0005*ARM)% (max 30%). "]
+    },
+    {
+      "sid": "T1020S11",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(100% * INT)", "damageType": "magic"}],
+          "target": "2,3",
+          "se": [{"se": "Cripple,Sleep,Stun,Paralyzed", "rate": "(25 + 0.0005*INT)", "maxRate": 40, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Thelgrimm casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 40%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1026S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"target": "me_random_5", "se": [{"se": "Stat Buff", "rate": "(100*1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(15 + 0.0003*INT)", "(30*1)"]}]}]
+        }
+      ],
+      "desc": ["Every turn, Lilia casts a spell on ally team, buffing ally's attack by (15 + 0.0003*INT)% (max 30%) for 2 turns."]
+    },
+    {
+      "sid": "T1028S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"target": "me_random_5", "se": [{"se": "CleanAllSENegative", "rate": "(40+0.00075*ARM)", "maxRate": 80, "turn": 1, "props": []}]}]
+        }
+      ],
+      "desc": ["Every turn, Minnu casts a spell on all members of ally team, giving a (40+0.00075*ARM)% (max 80%) chance of cleansing ally team of all negative SE."]
+    },
+    {
+      "sid": "T1034S11",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "5",
+          "se": [{"se": "Cripple", "rate": "(25 + 0.00075*MR)", "maxRate": 50, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Receive extra 40% INT. (self) Every turn, Elara casts a spell on enemy team, with (25 + 0.00075*MR)% (max 50%) chance of crippling each enemy."]
+    },
+    {
+      "sid": "T1041S11",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "5",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["DEF", "(15 + 0.0003*INT)", "(30*1)"]}]
+        }
+      ],
+      "desc": ["Every turn, Arathorn casts a spell on enemy team, lowering enemy's defense by (15 + 0.0003*INT)% (max 30%) for 2 turns."]
+    },
+    {
+      "sid": "T1055S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "16 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 16 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S12",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "17 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 17 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S13",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "18 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 18 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S14",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "19 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 19 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S15",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "20 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 20 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S16",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "21 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 21 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S17",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "22 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 22 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S18",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "23 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 23 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S19",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "24 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 24 mana to each ally member."]
+    },
+    {
+      "sid": "T1055S110",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "ep", "value": "25 * 1", "target": "me_random_5"}]
+        }
+      ],
+      "desc": ["Every turn, Olga casts a spell on all members of ally team, adding 25 mana to each ally member."]
+    },
+    {
+      "sid": "T1057S11",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(100% * INT)", "damageType": "magic"}],
+          "target": "2,3",
+          "se": [{"se": "Cripple,Sleep,Stun,Paralyzed", "rate": "(25 + 0.0005*INT)", "maxRate": 40, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 40%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "41"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 41%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S12",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "42"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 42%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S13",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "43"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 43%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S14",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "44"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 44%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S15",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "45"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 45%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S16",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "46"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 46%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S17",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "47"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 47%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S18",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "48"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 48%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S19",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "49"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 49%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "T1033S110",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 2, "target": "just_die", "hpRate": "(20+0.001*ARM)", "hpMaxRate": "50"}]
+        }
+      ],
+      "desc": ["At the beginning of every turn, Sheila casts a spell on 2-3 random enemies causing 100% (INT damage) with a (25 + 0.0005*INT)% (max 50%) chance of causing (cripple, sleep, stun, or paralyze of equal chance) "]
+    },
+    {
+      "sid": "MBS1003S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 1000000, "target": "just_die", "hpRate": "(100*1)", "hpMaxRate": "100"}]
+        }
+      ],
+      "desc": ["Every battle, when an ally faints (0 HP), Evil Ektar is able to resurrect that ally to (100%) HP. Evil Ektar is unable to resurrect himself. If Evil Ektar is fainted, this skill cannot be activated. (Max use per battle = No Limit)"]
+    },
+    {
+      "sid": "MBS1004S11",
+      "template": 0,
+      "template_props": [
+        {
+          "heals": [{"type": "revival", "useTime": 1000000, "target": "just_die", "hpRate": "(100*1)", "hpMaxRate": "100"}]
+        }
+      ],
+      "desc": ["Every battle, when an ally faints (0 HP), Berbegazi is able to resurrect that ally to (100%) HP. Resurrected ally also gains 25% DEF buff for 1 turn. Berbegazi is unable to resurrect himself. If Berbegazi is fainted, this skill cannot be activated. (Max use per battle = No Limit)"]
+    }
+  ]
+}
+
+

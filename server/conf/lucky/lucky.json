@@ -1,0 +1,284 @@
+{
+	"lucky_items": [
+		{
+			"item_id": "1",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 0.3
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "20",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 1500
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "9",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 20.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "12",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 200
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "3",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 0.8
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "18",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 1000
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "6",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 3.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "15",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 500
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "7",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 5.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "14",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 400
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "2",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 0.5
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "19",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 1300
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "5",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 2.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "16",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 650
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "8",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 10.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "13",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 300
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "4",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 1.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "17",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 800
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "10",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 30.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		},
+		{
+			"item_id": "11",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "SOG",
+					"value": 100
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.05",
+			"description": ""
+		}
+	]
+}

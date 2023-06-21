@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "id": "CEL000S1",
+      "type": 1,
+      "name": "Divine Fury"
+    },
+    {
+      "id": "CEL000S2",
+      "type": 0,
+      "name": "Fortitude"
+    },
+    {
+      "id": "CEL000S3",
+      "type": 0,
+      "name": "Grit"
+    },
+    {
+      "id": "CEL000S4",
+      "type": 0,
+      "name": "Fortune"
+    },
+    {
+      "id": "CEL001S1",
+      "type": 1,
+      "name": "Blazing Firestorm"
+    },
+    {
+      "id": "CEL001S2",
+      "type": 0,
+      "name": "Amplify"
+    },
+    {
+      "id": "CEL001S3",
+      "type": 0,
+      "name": "Defilement"
+    },
+    {
+      "id": "CEL001S4",
+      "type": 0,
+      "name": "Destiny"
+    }
+  ]
+}

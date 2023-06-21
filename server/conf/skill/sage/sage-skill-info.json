@@ -1,0 +1,809 @@
+{
+  "list": [
+    {
+      "sid": "SS0001",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(50% * ATK)", "damageType": "magic"}],
+          "target": "3,5"
+        }
+      ],
+      "desc": ["(Ultimate) Damage 3-5 enemies for 50% ATK magical damage."]
+    },
+    {
+      "sid": "SS0002",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "ATK", "rate": "(0.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(0.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(0.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(2 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(2.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(5.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(6.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(6.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(9 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(10 * 1)", "target": "me_random_5,sage,celestial"}]}
+      ],
+      "desc": ["Increase ally team's Attack by 0.25%. (all heroes, sage and celestial beast)"]
+    },
+    {
+      "sid": "SS0003",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(2 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(2.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(5.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(6.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(6.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(9 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(10 * 1)", "target": "me_random_5,sage,celestial"}]}
+      ],
+      "desc": ["Increase ally team's Defense Penetration by 0.25%. (all heroes, sage and celestial beast)"]
+    },
+    {
+      "sid": "SS0004",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "CRIT", "rate": "(0.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(0.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(0.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(1 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(1.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(1.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(1.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(2 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(2.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(3 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(3.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(3.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(3.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(4 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(4.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(4.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(4.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(5.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(6.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(6.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(7 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(7.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(7.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(7.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(8 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(8.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(8.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(9 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRIT", "rate": "(10 * 1)", "target": "me_random_5,sage,celestial"}]}
+      ],
+      "desc": ["Increase ally team's Critical Chance by 0.25%. (all heroes, sage and celestial beast)"]
+    },
+    {
+      "sid": "SS0005",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.1 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(2 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(2.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(5.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(6.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(6.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.75 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8.25 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8.5 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(9 * 1)", "target": "me_random_5,sage,celestial"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(10 * 1)", "target": "me_random_5,sage,celestial"}]}
+      ],
+      "desc": ["Increase ally team's Critical Damage Bonus by 0.25%. (all heroes, sage and celestial beast)"]
+    },
+    {
+      "sid": "SS0006",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"target": "me_random_1", "se": [{"se": "CleanAllSENegative", "rate": "50*1", "maxRate": 50, "turn": 2, "props": []}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "CleanAllSENegative", "rate": "60*1", "maxRate": 60, "turn": 2, "props": []}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "CleanAllSENegative", "rate": "70*1", "maxRate": 70, "turn": 2, "props": []}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "CleanAllSENegative", "rate": "80*1", "maxRate": 80, "turn": 2, "props": []}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "CleanAllSENegative", "rate": "100*1", "maxRate": 100, "turn": 2, "props": []}]}]}
+      ],
+      "desc": ["Has 50% chance of cleansing all negative status effects from target ally hero. "]
+    },
+    {
+      "sid": "SS0007",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"type": "hp", "value": "max_hp_(10%)", "target": "me_random_1"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(12%)", "target": "me_random_1"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(16%)", "target": "me_random_1"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(20%)", "target": "me_random_1"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(25%)", "target": "me_random_1"}]}
+      ],
+      "desc": ["Heal target ally for 10% max HP."]
+    },
+    {
+      "sid": "SS0008",
+      "template": 0,
+      "template_props": [
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(15*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(17*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(19*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(21*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(23*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(25*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(27*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(29*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(31*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(33*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(35*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(37*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(39*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(41*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(43*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(45*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(47*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(50*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(54*1)", "(1000*1)"]}]}]},
+        { "heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["ATK", "(60*1)", "(1000*1)"]}]}]}
+      ],
+      "desc": ["Increase Attack of target ally by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0009",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(15*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(17*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(19*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(21*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(23*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(25*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(27*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(29*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(31*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(33*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(35*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(37*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(39*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(41*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(43*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(45*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(47*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(50*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(54*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DEF", "(60*1)", "(1000*1)"]}]}]}
+      ],
+      "desc": ["Increase Defense of target ally by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0010",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(15*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(17*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(19*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(21*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(23*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(25*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(27*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(29*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(31*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(33*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(35*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(37*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(39*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(41*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(43*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(45*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(47*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(50*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(54*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["DPEN", "(60*1)", "(1000*1)"]}]}]}
+      ],
+      "desc": ["Increase Defense Penetration of target ally by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0011",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(15*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(17*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(19*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(21*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(23*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(25*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(27*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(29*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(31*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(33*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(35*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(37*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(39*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(41*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(43*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(45*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(47*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(50*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(54*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRIT", "(60*1)", "(1000*1)"]}]}]}
+      ],
+      "desc": ["Increase Critical Chance of target ally by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0012",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(15*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(17*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(19*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(21*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(23*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(25*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(27*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(29*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(31*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(33*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(35*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(37*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(39*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(41*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(43*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(45*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(47*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(50*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(54*1)", "(1000*1)"]}]}]},
+        {"heals": [{"target": "me_random_1", "se": [{"se": "Stat Buff", "rate": "100*1", "maxRate": 100, "turn": 2, "props": ["CRITBONUS", "(60*1)", "(1000*1)"]}]}]}
+      ],
+      "desc": ["Increase Critical Strike Damage of target ally by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0013",
+      "template": 0,
+      "template_props": [
+        {"heals": [{"type": "hp", "value": "max_hp_(15%)", "target": "ally_lowest_hp_2"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(18%)", "target": "ally_lowest_hp_2"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(21%)", "target": "ally_lowest_hp_2"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(22%)", "target": "ally_lowest_hp_2"}]},
+        {"heals": [{"type": "hp", "value": "max_hp_(30%)", "target": "ally_lowest_hp_2"}]
+        }
+      ],
+      "desc": ["(Ultimate) Heal 2 allies with lowest HP for 15% max HP."]
+    },
+    {
+      "sid": "SS0014",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(150% * ATK)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[{"damageRate": "(175% * ATK)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[{"damageRate": "(200% * ATK)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[{"damageRate": "(225% * ATK)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[{"damageRate": "(250% * ATK)", "damageType": "magic"}],
+          "target": "1",
+          "se": [{"se": "Stun", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["(Ultimate) Damages target enemy for 150% ATK magical damage with a 100% chance of stunning each enemy hit."]
+    },
+    {
+      "sid": "SS0015",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(80% * ATK)", "damageType": "magic"}],
+          "target": "5"
+        },
+        {
+          "damage":[{"damageRate": "(85% * ATK)", "damageType": "magic"}],
+          "target": "5"
+        },
+        {
+          "damage":[{"damageRate": "(90% * ATK)", "damageType": "magic"}],
+          "target": "5"
+        },
+        {
+          "damage":[{"damageRate": "(95% * ATK)", "damageType": "magic"}],
+          "target": "5"
+        },
+        {
+          "damage":[{"damageRate": "(110% * ATK)", "damageType": "magic"}],
+          "target": "5"
+        }
+      ],
+      "desc": ["(Ultimate) Damages all enemies for 80% ATK magical damage."]
+    },
+    {
+      "sid": "SS0016",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[{"damageRate": "(200% * ATK)", "damageType": "magic"}],
+          "suddenDie": {"percentHP": "(30 * 1)", "maxpercentHP": 30},
+          "target": "1"
+        },
+        {
+          "damage":[{"damageRate": "(225% * ATK)", "damageType": "magic"}],
+          "suddenDie": {"percentHP": "(20 * 1)", "maxpercentHP": 20},
+          "target": "1"
+        },
+        {
+          "damage":[{"damageRate": "(250% * ATK)", "damageType": "magic"}],
+          "suddenDie": {"percentHP": "(20 * 1)", "maxpercentHP": 20},
+          "target": "1"
+        },
+        {
+          "damage":[{"damageRate": "(275% * ATK)", "damageType": "magic"}],
+          "suddenDie": {"percentHP": "(20 * 1)", "maxpercentHP": 20},
+          "target": "1"
+        },
+        {
+          "damage":[{"damageRate": "(300% * ATK)", "damageType": "magic"}],
+          "suddenDie": {"percentHP": "(20 * 1)", "maxpercentHP": 20},
+          "target": "1"
+        }
+      ],
+      "desc": ["(Ultimate) If target enemy is below 30% of max HP, instantly executes it. If not, damages this enemy for 200% ATK magical damage."]
+    },
+    {
+      "sid": "SS0017",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "HP", "rate": "(0.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(0.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(1 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(1.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(1.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(1.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(2 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(2.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(3 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(3.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(3.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(3.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(4 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(4.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(4.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(4.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(5.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(6.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(6.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(7 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(7.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(7.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(7.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(8 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(8.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(8.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(9 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "HP", "rate": "(10 * 1)", "target": "me_random_5"}]}
+      ],
+      "desc": ["Increase ally team's HP by 0.25%. (only heroes)"]
+    },
+    {
+      "sid": "SS0018",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "ATK", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(0.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(1.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(2 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(2.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(3.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(4.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(5.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(6.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(6.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(7.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(8.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(9 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "ATK", "rate": "(10 * 1)", "target": "me_random_5"}]}
+      ],
+      "desc": ["Increase ally team's ATK by 0.25%. (only heroes)"]
+    },
+    {
+      "sid": "SS0019",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "DEF", "rate": "(0.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(0.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(1 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(1.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(1.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(1.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(2 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(2.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(3 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(3.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(3.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(3.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(4 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(4.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(4.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(4.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(5.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(6.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(6.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(7 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(7.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(7.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(7.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(8 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(8.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(8.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(9 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DEF", "rate": "(10 * 1)", "target": "me_random_5"}]}
+      ],
+      "desc": ["Increase ally team's DEF by 0.25%. (only heroes)"]
+    },
+    {
+      "sid": "SS0020",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(0.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(1.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(2 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(2.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(3.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(4.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(5.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(6.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(6.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(7.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(8.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(9 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "DPEN", "rate": "(10 * 1)", "target": "me_random_5"}]}
+      ],
+      "desc": ["Increase ally team's DPEN by 0.25%. (only heroes)"]
+    },
+    {
+      "sid": "SS0021",
+      "template": 100,
+      "template_props": [
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(0.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(1.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(2 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(2.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(3.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(4.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(5.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(6.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(6.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(7.75 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8.25 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(8.5 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(9 * 1)", "target": "me_random_5"}]},
+        {"statbuff": [{"attr": "CRITBONUS", "rate": "(10 * 1)", "target": "me_random_5"}]}
+      ],
+      "desc": ["Increase ally team's CRITBONUS (Critical bonus damage) by 0.25%. (only heroes)"]
+    },
+    {
+      "sid": "SS0022",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(15*1)", "(1000*1)"]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(20*1)", "(1000*1)"]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(25*1)", "(1000*1)"]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(30*1)", "(1000*1)"]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Stat Debuff", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": ["ATK", "(40*1)", "(1000*1)"]}]
+        }
+      ],
+      "desc": ["Decrease target enemy's Attack by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0023",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [15]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [20]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [25]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [30]}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Blind", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": [40]}]
+        }
+      ],
+      "desc": ["Decrease target enemy's Hit chance by 15% for 2 turns."]
+    },
+    {
+      "sid": "SS0024",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "CleanAllSE", "rate": "(50 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "CleanAllSE", "rate": "(60 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "CleanAllSE", "rate": "(70 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "CleanAllSE", "rate": "(80 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "CleanAllSE", "rate": "(100 * 1)", "maxRate": 100, "turn": 1, "props": []}]
+        }
+      ],
+      "desc": ["Has 50% chance of cleansing all positive status effects from target enemy."]
+    },
+    {
+      "sid": "SS0025",
+      "template": 0,
+      "template_props": [
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Silence", "rate": "(50 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Silence", "rate": "(60 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Silence", "rate": "(70 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Silence", "rate": "(80 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        },
+        {
+          "damage":[],
+          "target": "1",
+          "se": [{"se": "Silence", "rate": "(100 * 1)", "maxRate": 100, "turn": 2, "props": []}]
+        }
+      ],
+      "desc": ["Has 50% chance of causing silence on target enemy for 2 turns"]
+    },
+    {
+      "sid": "SS0026",
+      "template": 0,
+      "template_props": [
+        {
+          "replateDiamond": {"nonElement": ["fire"], "target": "ramdom_3"}
+        },
+        {
+          "replateDiamond": {"nonElement": ["fire"], "target": "ramdom_3"}
+        },
+        {
+          "replateDiamond": {"nonElement": ["fire"], "target": "ramdom_3"}
+        },
+        {
+          "replateDiamond": {"nonElement": ["fire"], "target": "ramdom_4"}
+        },
+        {
+          "replateDiamond": {"nonElement": ["fire"], "target": "ramdom_5"}
+        }
+      ],
+      "desc": ["Replace 3 random (non-fire element) puzzle pieces (except special puzzle pieces) into (fire element) puzzle pieces on the puzzle board."]
+    },
+    {
+      "sid": "SS0027",
+      "template": 0,
+      "template_props": [
+          {"replateDiamond": {"nonElement": ["ice"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ice"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ice"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ice"], "target": "ramdom_4"}},
+          {"replateDiamond": {"nonElement": ["ice"], "target": "ramdom_5"}}
+      ],
+      "desc": ["Replace 3 random (non-ice element) puzzle pieces (except special puzzle pieces) into (ice element) puzzle pieces on the puzzle board."]
+    },
+    {
+      "sid": "SS0028",
+      "template": 0,
+      "template_props": [
+          {"replateDiamond": {"nonElement": ["forest"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["forest"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["forest"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["forest"], "target": "ramdom_4"}},
+          {"replateDiamond": {"nonElement": ["forest"], "target": "ramdom_5"}}
+      ],
+      "desc": ["Replace 3 random (non-forest element) puzzle pieces (except special puzzle pieces) into (forest element) puzzle pieces on the puzzle board."]
+    },
+    {
+      "sid": "SS0029",
+      "template": 0,
+      "template_props": [
+          {"replateDiamond": {"nonElement": ["ground"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ground"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ground"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["ground"], "target": "ramdom_4"}},
+          {"replateDiamond": {"nonElement": ["ground"], "target": "ramdom_5"}}
+      ],
+      "desc": ["Replace 3 random (non-earth element) puzzle pieces (except special puzzle pieces) into (earth element) puzzle pieces on the puzzle board."]
+    },
+    {
+      "sid": "SS0030",
+      "template": 0,
+      "template_props": [
+          {"replateDiamond": {"nonElement": ["Lightning"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["Lightning"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["Lightning"], "target": "ramdom_3"}},
+          {"replateDiamond": {"nonElement": ["Lightning"], "target": "ramdom_4"}},
+          {"replateDiamond": {"nonElement": ["Lightning"], "target": "ramdom_5"}}
+      ],
+      "desc": ["Replace 3 random (non-electric element) puzzle pieces (except special puzzle pieces) into (electric element) puzzle pieces on the puzzle board."]
+    }
+  ]
+}

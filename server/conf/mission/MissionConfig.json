@@ -1,0 +1,136 @@
+{
+  "redo": 10,
+  "fightCost": {"id": "RES1024", "amount": 25},
+  "listMission": [
+    {
+      "id": "ms0",
+      "star": 1,
+      "rate": 10,
+      "win": {"time": 30, "target": 85000},
+      "unlock": {"point": 1},
+      "reward": [
+        {"id": "MON1000", "amount": 10},
+        {"id": "MON1001", "amount": 20000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms1",
+      "star": 2,
+      "rate": 20,
+      "win": {"time": 45, "target": 130000},
+      "unlock": {"point": 3},
+      "reward": [
+        {"id": "MON1000", "amount": 15},
+        {"id": "MON1001", "amount": 40000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms2",
+      "star": 3,
+      "rate": 30,
+      "win": {"time": 60, "target": 185000},
+      "unlock": {"point": 5},
+      "reward": [
+        {"id": "MON1000", "amount": 25},
+        {"id": "MON1001", "amount": 60000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms3",
+      "star": 4,
+      "rate": 15,
+      "win": {"time": 75, "target": 250000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 40},
+        {"id": "MON1001", "amount": 80000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms4",
+      "star": 5,
+      "rate": 9,
+      "win": {"time": 90, "target": 310000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 50},
+        {"id": "MON1001", "amount": 100000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms5",
+      "star": 6,
+      "rate": 6,
+      "win": {"time": 120, "target": 420000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 75},
+        {"id": "MON1001", "amount": 150000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms6",
+      "star": 7,
+      "rate": 4,
+      "win": {"time": 120, "target": 440000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 150},
+        {"id": "MON1001", "amount": 200000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms7",
+      "star": 8,
+      "rate": 3,
+      "win": {"time": 120, "target": 460000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 250},
+        {"id": "MON1001", "amount": 250000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms8",
+      "star": 9,
+      "rate": 2,
+      "win": {"time": 120, "target": 480000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 500},
+        {"id": "MON1001", "amount": 300000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    },
+    {
+      "id": "ms9",
+      "star": 10,
+      "rate": 1,
+      "win": {"time": 120, "target": 500000},
+      "unlock": {"point": 10},
+      "reward": [
+        {"id": "MON1000", "amount": 1000},
+        {"id": "MON1001", "amount": 500000},
+        {"id": "RES1018", "amount": 75},
+        {"id": "MON1016", "amount": 75}
+      ]
+    }
+  ]
+}

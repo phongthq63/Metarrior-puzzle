@@ -1,0 +1,9 @@
+{
+  "show": 25,
+  "fight": [{"id": "MON1020", "amount": 1}],
+  "buyFight":
+    {
+      "reward": {"id": "MON1020", "amount": 1},
+      "cost": {"id": "MON1000", "amount": 250}
+    }
+}

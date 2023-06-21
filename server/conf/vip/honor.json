@@ -1,0 +1,306 @@
+{
+  "listHonor":
+  [
+    {
+      "id": 0,
+      "name": "Honor 0",
+      "requirement": 0,
+      "rewards_1": [{"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 50}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 0}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 0}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 0}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 0}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "", "reward":{"id": "1", "amount": 0}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 6}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Honor 1",
+      "requirement": 100,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1001", "amount": 20000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1002", "amount": 20000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1003", "amount": 50}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 5}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 5}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 5}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 0}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 0}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 6}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Honor 2",
+      "requirement": 400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1001", "amount": 50000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1002", "amount": 50000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1003", "amount": 100}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 10}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 10}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 10}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 10}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 10}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 8}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Honor 3",
+      "requirement": 1400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1001", "amount": 100000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1002", "amount": 100000}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1003", "amount": 200}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 20}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 20}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 20}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 15}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 15}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 8}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Honor 4",
+      "requirement": 3400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1080", "amount": 5}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 60}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 10}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 100}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 25}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 25}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 25}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 20}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 25}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 8}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Honor 5",
+      "requirement": 7400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1080", "amount": 10}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 120}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 20}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 250}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 30}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 30}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 30}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 25}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 35}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 10}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 20}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Honor 6",
+      "requirement": 14400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1081", "amount": 2}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 240}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 30}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 500}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 50}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 50}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 50}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 30}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 50}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 5}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 10}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 21}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Honor 7",
+      "requirement": 24400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1081", "amount": 4}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 300}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 60}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 1000}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 55}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 55}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 55}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 35}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 75}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 5}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 12}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 21}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Honor 8",
+      "requirement": 38400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1081", "amount": 6}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 360}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 60}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 1500}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 60}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 60}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 60}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 40}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 100}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 5}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 1}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 12}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 21}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Honor 9",
+      "requirement": 58400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1081", "amount": 8}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 360}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 60}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 2000}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 90}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 90}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 90}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 45}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 150}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 5}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 14}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 21}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Honor 10",
+      "requirement": 88400,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1081", "amount": 10}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1049", "amount": 360}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1050", "amount": 60}},
+        {"desc":"Gift", "time": "", "reward":{"id": "MON1000", "amount": 2500}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 100}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 100}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 100}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 50}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 200}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 5}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 2}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 14}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship scrolls per day", "time": "", "reward": {"id": "7", "amount": 22}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":2 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":3 }}
+      ]
+    }
+  ]
+}

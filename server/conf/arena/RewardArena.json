@@ -1,0 +1,178 @@
+{
+  "lose": [],
+  "win": [{"id": "SPI1003", "amount": 1}, {"id": "SPI1009", "amount": 1}, {"id": "MON1016", "amount": 100}],
+  "daily": [
+    {
+      "top": [],
+      "range": [0, 1000],
+      "reward": []
+    },
+    {
+      "top": [],
+      "range": [1001, 1200],
+      "reward": [{"id": "MON1000", "amount": 30}, {"id": "MON1016", "amount": 50}]
+    },
+    {
+      "top": [],
+      "range": [1201, 1400],
+      "reward": [{"id": "MON1000", "amount": 35}, {"id": "MON1016", "amount": 60}]
+    },
+    {
+      "top": [],
+      "range": [1401, 1600],
+      "reward": [{"id": "MON1000", "amount": 40}, {"id": "MON1016", "amount": 75}]
+    },
+    {
+      "top": [],
+      "range": [1601, 1800],
+      "reward": [{"id": "MON1000", "amount": 45}, {"id": "MON1016", "amount": 100}]
+    },
+    {
+      "top": [],
+      "range": [1801, 2000],
+      "reward": [{"id": "MON1000", "amount": 50}, {"id": "MON1016", "amount": 125}]
+    },
+    {
+      "top": [],
+      "range": [2001, 2200],
+      "reward": [{"id": "MON1000", "amount": 55}, {"id": "MON1016", "amount": 150}]
+    },
+    {
+      "top": [],
+      "range": [2201, 2400],
+      "reward": [{"id": "MON1000", "amount": 60}, {"id": "MON1016", "amount": 175}]
+    },
+    {
+      "top": [],
+      "range": [2401, 2600],
+      "reward": [{"id": "MON1000", "amount": 80}, {"id": "MON1016", "amount": 200}]
+    },
+    {
+      "top": [],
+      "range": [2601],
+      "reward": [{"id": "MON1000", "amount": 100}, {"id": "MON1016", "amount": 250}]
+    },
+    {
+      "top": [51, 100],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 50}, {"id": "SPI1049", "amount": 2}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 50}]
+    },
+    {
+      "top": [26, 50],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 75}, {"id": "SPI1049", "amount": 3}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 75}]
+    },
+    {
+      "top": [11, 25],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 80}, {"id": "SPI1049", "amount": 4}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 100}]
+    },
+    {
+      "top": [6, 10],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 90}, {"id": "SPI1049", "amount": 5}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 125}]
+    },
+    {
+      "top": [3, 5],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 100}, {"id": "SPI1049", "amount": 6}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 150}]
+    },
+    {
+      "top": [2],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 125}, {"id": "SPI1049", "amount": 8}, {"id": "SPI1050", "amount": 1}, {"id": "MON1016", "amount": 200}]
+    },
+    {
+      "top": [1],
+      "range": [],
+      "reward": [{"id": "MON1000", "amount": 150}, {"id": "SPI1049", "amount": 10}, {"id": "SPI1050", "amount": 2}, {"id": "MON1016", "amount": 250}]
+    }
+  ],
+  "season": [
+    {
+      "top": [],
+      "range": [0, 1000],
+      "reward": []
+    },
+    {
+      "top": [],
+      "range": [1001, 1200],
+      "reward": [{"id": "SPI1016", "amount": 2}, {"id": "MON1000", "amount": 450}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 10}, {"id": "MON1016", "amount": 750}]
+    },
+    {
+      "top": [],
+      "range": [1201, 1400],
+      "reward": [{"id": "SPI1016", "amount": 2}, {"id": "MON1000", "amount": 525}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 10}, {"id": "MON1016", "amount": 900}]
+    },
+    {
+      "top": [],
+      "range": [1401, 1600],
+      "reward": [{"id": "SPI1016", "amount": 3}, {"id": "MON1000", "amount": 600}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 15}, {"id": "MON1016", "amount": 1200}]
+    },
+    {
+      "top": [],
+      "range": [1601, 1800],
+      "reward": [{"id": "SPI1016", "amount": 3}, {"id": "MON1000", "amount": 675}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 15}, {"id": "MON1016", "amount": 1500}]
+    },
+    {
+      "top": [],
+      "range": [1801, 2000],
+      "reward": [{"id": "SPI1016", "amount": 4}, {"id": "MON1000", "amount": 750}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}, {"id": "MON1016", "amount": 2000}]
+    },
+    {
+      "top": [],
+      "range": [2001, 2200],
+      "reward":  [{"id": "SPI1016", "amount": 4}, {"id": "MON1000", "amount": 825}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}, {"id": "MON1016", "amount": 3000}]
+    },
+    {
+      "top": [],
+      "range": [2201, 2400],
+      "reward": [{"id": "SPI1016", "amount": 5}, {"id": "MON1000", "amount": 1000}, {"id": "SPI1049", "amount": 240}, {"id": "SPI1050", "amount": 30}, {"id": "MON1016", "amount": 4500}]
+    },
+    {
+      "top": [],
+      "range": [2401, 2600],
+      "reward": [{"id": "SPI1016", "amount": 6}, {"id": "MON1000", "amount": 1500}, {"id": "SPI1049", "amount": 300}, {"id": "SPI1050", "amount": 45}, {"id": "MON1016", "amount": 6000}]
+    },
+    {
+      "top": [],
+      "range": [2601],
+      "reward": [{"id": "SPI1016", "amount": 8}, {"id": "MON1000", "amount": 2000}, {"id": "SPI1049", "amount": 360}, {"id": "SPI1050", "amount": 60}, {"id": "MON1016", "amount": 7500}]
+    },
+    {
+      "top": [51, 100],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 1}, {"id": "MON1000", "amount": 500}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 10}, {"id": "MON1016", "amount": 2500}]
+    },
+    {
+      "top": [26, 50],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 2}, {"id": "MON1000", "amount": 750}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 15}, {"id": "MON1016", "amount": 3000}]
+    },
+    {
+      "top": [11, 25],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 3}, {"id": "MON1000", "amount": 1000}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 20}, {"id": "MON1016", "amount": 4000}]
+    },
+    {
+      "top": [6, 10],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 4}, {"id": "MON1000", "amount": 1250}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 25}, {"id": "MON1016", "amount": 5000}]
+    },
+    {
+      "top": [3, 5],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 5}, {"id": "MON1000", "amount": 1500}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 30}, {"id": "MON1016", "amount": 7500}]
+    },
+    {
+      "top": [2],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 6}, {"id": "MON1000", "amount": 2000}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 45}, {"id": "MON1016", "amount": 10000}]
+    },
+    {
+      "top": [1],
+      "range": [],
+      "reward": [{"id": "SPI1016", "amount": 8}, {"id": "MON1000", "amount": 2500}, {"id": "SPI1049", "amount": 240}, {"id": "SPI1050", "amount": 60}, {"id": "SPI1048", "amount": 1}, {"id": "MON1016", "amount": 15000}]
+    }
+  ]
+}

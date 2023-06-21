@@ -1,0 +1,158 @@
+package com.bamisu.log.sdk.module.public_api;
+
+import com.bamisu.gamelib.encryption.Encrypter;
+import com.bamisu.log.sdk.module.account.AccountManager;
+import com.bamisu.log.sdk.module.account.exception.SocialAccountAlreadyExist;
+import com.bamisu.log.sdk.module.account.model.AccountLinkedModel;
+import com.bamisu.log.sdk.module.account.model.AccountModel;
+import com.bamisu.log.sdk.module.account.model.LoginTokenModel;
+import com.bamisu.log.sdk.module.account.model.SocialAccountModel;
+import com.bamisu.log.sdk.module.auth.SocialNetworkUtils;
+import com.bamisu.log.sdk.module.data.SDKDatacontroler;
+import com.bamisu.log.sdk.module.multiserver.MultiServerManager;
+import com.bamisu.gamelib.entities.Params;
+import com.bamisu.gamelib.httpserver.ServletBase;
+import com.bamisu.gamelib.socialnetwork.ESocialNetwork;
+import com.bamisu.gamelib.utils.ServletUtil;
+import com.mysql.fabric.xmlrpc.base.Param;
+import com.smartfoxserver.v2.SmartFoxServer;
+import com.smartfoxserver.v2.entities.data.ISFSObject;
+import com.smartfoxserver.v2.entities.data.SFSObject;
+import org.apache.log4j.Logger;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Create by Popeye on 11:43 AM, 4/23/2020
+ */
+public class PublicHttp extends ServletBase {
+
+    private SmartFoxServer sfs;
+
+    @Override
+    public void init() throws ServletException {
+        sfs = SmartFoxServer.getInstance();
+    }
+
+    @Override
+    protected void process(HttpServletRequest req, HttpServletResponse resp) {
+        super.process(req, resp);
+        fixHeaders(resp);
+        String method = ServletUtil.getStringParameter(req, "cmd", "");
+        switch (method) {
+            case "get_login_info":
+                getLoginInfo(req, resp);
+                break;
+            default:
+                responseJson("404", resp);
+        }
+    }
+
+    /**
+     * lấy thông tin login khi mở game
+     * @param req
+     * @param resp
+     */
+    private void getLoginInfo(HttpServletRequest req, HttpServletResponse resp) {
+        Logger logger = Logger.getLogger("sdklogin");
+        String jsonEncrypted = req.getParameter(Params.DATA);
+        String token = "";
+        int socialNetwork = 0;
+        try {
+            ISFSObject data = SFSObject.newFromJsonData(Encrypter.getInstance().decrypt(jsonEncrypted));
+            token = data.getUtfString(Params.TOKEN);
+            if(data.containsKey(Params.TYPE)){
+                socialNetwork = data.getInt(Params.TYPE);
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+            System.out.println(jsonEncrypted);
+            responseJson("404", resp);
+            return;
+        }
+        logger.info("=getLoginInfo=");
+        logger.info("rec " + token);
+
+        //login bằng game token
+        ISFSObject sendPack = new SFSObject();
+        LoginTokenModel loginTokenModel;
+        if(socialNetwork == 0){
+            String accountID = "";
+            String loginKey = "";
+            if(token == null ||token.isEmpty()){
+                loginKey = "";
+                sendPack = MultiServerManager.getInstance().getNewServer().toSFSObject();
+            }else {
+                loginTokenModel = LoginTokenModel.copyFromDBtoObject(token, SDKDatacontroler.getInstance());
+                if(loginTokenModel == null){
+                    loginKey = "";
+                    sendPack = MultiServerManager.getInstance().getNewServer().toSFSObject();
+                }else {
+                    loginKey = loginTokenModel.token;
+                    accountID = loginTokenModel.accountID;
+                    sendPack = MultiServerManager.getInstance().getServerForToken(accountID).toSFSObject();
+                }
+            }
+            sendPack.putUtfString(Params.LOGIN_KEY, loginKey);
+            logger.info("send " + loginKey);
+            responseJson(sendPack.toJson(), resp);
+        }else { //login bằng tài khoản mạng xã hội
+            String socialNetworkKey = "";
+            SocialAccountModel socialAccountModel;
+            switch (ESocialNetwork.fromIntValue(socialNetwork)){
+                case FACEBOOK:
+                    socialNetworkKey = SocialNetworkUtils.getIDforAppFacebook(token);
+                    break;
+                case GOOGLE:
+                    socialNetworkKey = SocialNetworkUtils.getIDforAppGoogle(token);
+                    break;
+                default:
+                    break;
+            }
+            socialAccountModel = SocialAccountModel.copyFromDB(socialNetwork, socialNetworkKey, SDKDatacontroler.getInstance());
+            if(socialAccountModel != null){
+                //Đã có account
+                loginTokenModel = LoginTokenModel.create(socialAccountModel.accountID, SDKDatacontroler.getInstance());
+                sendPack = MultiServerManager.getInstance().getServerForToken(socialAccountModel.accountID).toSFSObject();
+                sendPack.putUtfString(Params.LOGIN_KEY, loginTokenModel.token);
+                responseJson(sendPack.toJson(), resp);
+                return;
+            }else {
+                //chưa có account, tạo mới account
+                AccountModel accountModel = AccountManager.getInstance().creatAccount();
+                if (accountModel == null) {
+                    responseJson(sendPack.toJson(), resp);
+                    return;
+                }
+
+                //link với SocialAccount
+                //tạo SocialAccountModel
+                try {
+                    socialAccountModel = SocialAccountModel.create(accountModel, socialNetwork, socialNetworkKey, SDKDatacontroler.getInstance());
+                } catch (SocialAccountAlreadyExist socialAccountAlreadyExist) {
+                    responseJson(sendPack.toJson(), resp);
+                    return;
+                }
+
+                //cập nhật AccountLinkedModel
+                AccountLinkedModel accountLinkedModel = AccountLinkedModel.copyFromDB(accountModel.id, SDKDatacontroler.getInstance());
+                accountLinkedModel.link(socialAccountModel.socialNetwork, socialAccountModel.socialNetworkKey);
+
+                //tạo login key
+                loginTokenModel = LoginTokenModel.create(accountModel.id, SDKDatacontroler.getInstance());
+                if (loginTokenModel == null) {
+                    //tạo token thất bại
+                    responseJson(sendPack.toJson(), resp);
+                    return;
+                }
+                sendPack = MultiServerManager.getInstance().getServerForToken(accountModel.id).toSFSObject();
+                sendPack.putUtfString(Params.LOGIN_KEY, loginTokenModel.token);
+                logger.info("send " + loginTokenModel.token);
+                responseJson(sendPack.toJson(), resp);
+                return;
+            }
+        }
+    }
+}

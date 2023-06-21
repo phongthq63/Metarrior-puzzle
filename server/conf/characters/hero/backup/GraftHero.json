@@ -1,0 +1,50 @@
+{
+  "condition": [
+    {"star": 2,
+      "resource": [
+        {"id": "same", "star": 1, "amount": 2}
+      ]
+    },
+    {"star": 3,
+      "resource": [
+        {"id": "any", "star": 2, "kingdom": "same", "amount": 2}
+      ]
+    },
+    {
+      "star": 4,
+      "resource": [
+        {"id": "same", "star": 3, "amount": 1}
+      ]
+    },
+    {
+      "star": 5,
+      "resource": [
+        {"id": "any", "star": 4, "kingdom": "same", "amount": 2}
+      ]
+    },
+    {
+      "star": 6,
+      "resource": [
+        {"id": "same", "star": 4, "amount": 1}
+      ]
+    },
+    {
+      "star": 7,
+      "resource": [
+        {"id": "any", "star": 6, "kingdom": "same", "amount": 1}
+      ]
+    },
+    {
+      "star": 8,
+      "resource": [
+        {"id": "any", "star": 6, "kingdom": "same", "amount": 1}
+      ]
+    },
+    {
+      "star": 9,
+      "resource": [
+        {"id": "same", "star": 4, "amount": 2}
+      ]
+    }
+  ]
+}

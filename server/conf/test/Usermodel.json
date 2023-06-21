@@ -1,0 +1,214 @@
+{
+  "uId": 20002980,
+  "listEquip": [
+    {
+      "id": "EQU1023",
+      "hash": "item1621476414832_6D9wo-SVEoR",
+      "level": 0,
+      "exp": 0,
+      "expFis": 125,
+      "hashHero": null,
+      "star": 1,
+      "position": 0,
+      "listSlotStone": [
+        {
+          "position": 0,
+          "status": false,
+          "stoneVO": null
+        }
+      ],
+      "count": 1
+    },
+    {
+      "id": "EQU1019",
+      "hash": "item1621476414832_2m8tN-vw3hM",
+      "level": 0,
+      "exp": 0,
+      "expFis": 125,
+      "hashHero": null,
+      "star": 1,
+      "position": 0,
+      "listSlotStone": [
+        {
+          "position": 0,
+          "status": false,
+          "stoneVO": null
+        }
+      ],
+      "count": 1
+    },
+    {
+      "id": "EQU1044",
+      "hash": "item1621216805495_eTKbT-Yqq8G",
+      "level": 0,
+      "exp": 0,
+      "expFis": 250,
+      "hashHero": null,
+      "star": 2,
+      "position": 7,
+      "listSlotStone": [
+        {
+          "position": 0,
+          "status": false,
+          "stoneVO": null
+        }
+      ],
+      "count": 1
+    },
+    {
+      "id": "EQU1013",
+      "hash": "item1621151570112_cKc4F-QKhbb",
+      "level": 0,
+      "exp": 0,
+      "expFis": 125,
+      "hashHero": null,
+      "star": 1,
+      "position": 2,
+      "listSlotStone": [
+        {
+          "position": 0,
+          "status": false,
+          "stoneVO": null
+        }
+      ],
+      "count": 3
+    }
+  ],
+  "listFragment": [],
+  "listSageEquip": [],
+  "listCelestial": [],
+  "listStone": [],
+  "mapMoney": {
+    "MON1016": {
+      "id": "MON1016",
+      "amount": 2600
+    },
+    "MON1006": {
+      "id": "MON1006",
+      "amount": 0
+    },
+    "MON1017": {
+      "id": "MON1017",
+      "amount": 0
+    },
+    "MON1007": {
+      "id": "MON1007",
+      "amount": 0
+    },
+    "MON1018": {
+      "id": "MON1018",
+      "amount": 990000
+    },
+    "MON1008": {
+      "id": "MON1008",
+      "amount": 0
+    },
+    "MON1019": {
+      "id": "MON1019",
+      "amount": 0
+    },
+    "MON1009": {
+      "id": "MON1009",
+      "amount": 0
+    },
+    "MON1020": {
+      "id": "MON1020",
+      "amount": 0
+    },
+    "MON1010": {
+      "id": "MON1010",
+      "amount": 0
+    },
+    "MON1021": {
+      "id": "MON1021",
+      "amount": 0
+    },
+    "MON1000": {
+      "id": "MON1000",
+      "amount": 1780
+    },
+    "MON1022": {
+      "id": "MON1022",
+      "amount": 0
+    },
+    "MON1001": {
+      "id": "MON1001",
+      "amount": 1654023
+    },
+    "MON1012": {
+      "id": "MON1012",
+      "amount": 24
+    },
+    "MON1002": {
+      "id": "MON1002",
+      "amount": 616883
+    },
+    "MON1013": {
+      "id": "MON1013",
+      "amount": 100
+    },
+    "MON1003": {
+      "id": "MON1003",
+      "amount": 1429
+    },
+    "MON1014": {
+      "id": "MON1014",
+      "amount": 2820
+    },
+    "MON1015": {
+      "id": "MON1015",
+      "amount": 2080
+    }
+  },
+  "mapSpecialItem": {
+    "SPI1126": {
+      "id": "SPI1126",
+      "amount": 0
+    },
+    "SPI1124": {
+      "id": "SPI1124",
+      "amount": 0
+    },
+    "SPI1077": {
+      "id": "SPI1077",
+      "amount": 0
+    },
+    "SPI1089": {
+      "id": "SPI1089",
+      "amount": 0
+    },
+    "SPI1078": {
+      "id": "SPI1078",
+      "amount": 0
+    },
+    "SPI1003": {
+      "id": "SPI1003",
+      "amount": 0
+    },
+    "SPI1009": {
+      "id": "SPI1009",
+      "amount": 0
+    },
+    "SPI1049": {
+      "id": "SPI1049",
+      "amount": 16
+    },
+    "SPI1050": {
+      "id": "SPI1050",
+      "amount": 49
+    },
+    "SPI1016": {
+      "id": "SPI1016",
+      "amount": 0
+    }
+  },
+  "listHammer": [],
+  "energy": {
+    "point": 100,
+    "timeOdd": 0,
+    "timeStamp": 1621482296,
+    "use": {}
+  },
+  "timeStamp": 1621476188,
+  "newDay": false
+}

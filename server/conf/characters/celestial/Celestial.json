@@ -1,0 +1,20 @@
+{
+  "list": [
+    {"id": "CEL000", "name": "Galatea", "description": "Harvester of Light",
+      "atk": 2000,
+      "crit": 5,
+      "critDmg": 15,
+      "pierce": 1,
+      "skill": ["CEL000S1", "CEL000S2", "CEL000S3", "CEL000S4"],
+      "unlock": [{"id": "0", "type": "0", "amount": 1}]
+    },
+    {"id": "CEL001", "name": "Orion", "description": "The Night Star",
+      "atk": 2100,
+      "crit": 5,
+      "critDmg": 15,
+      "pierce": 1,
+      "skill": ["CEL001S1", "CEL001S2", "CEL001S3", "CEL001S4"],
+      "unlock": [{"id": "0", "type": "0", "amount": 1}]
+    }
+  ]
+}

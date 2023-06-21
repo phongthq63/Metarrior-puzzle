@@ -1,0 +1,326 @@
+{
+  "listFragment": [
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1018",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1006",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1040",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1025",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1015",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1046",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1047",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1048",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1049",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1050",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1020",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1051",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1052",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1053",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1055",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1008",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1017",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1044",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1021",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1007",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1011",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1033",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1022",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1023",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1026",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1041",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1034",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1036",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1029",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1009",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC002",
+      "star": 0,
+      "need": 60,
+      "id": "FRAT1024",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1004",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1005",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC004",
+      "star": 1,
+      "need": 60,
+      "id": "FRAT1027",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1043",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1057",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1028",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1013",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1012",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1042",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1031",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1014",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1038",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1039",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1037",
+      "desc": "Describe something"
+    },
+    {
+      "border": "IBC005",
+      "star": 3,
+      "need": 60,
+      "id": "FRAT1001",
+      "desc": "Describe something"
+    }
+  ]
+}

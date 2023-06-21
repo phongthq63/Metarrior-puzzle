@@ -1,0 +1,219 @@
+{
+  "condition": [
+    {
+      "star": 1,
+      "hero": [
+        {
+          "id": "same",
+          "star": 0,
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 50
+        },
+        {
+          "id": "BUSD",
+          "amount": 1
+        }
+      ],
+      "time": 15
+    },
+    {
+      "star": 2,
+      "hero": [
+        {
+          "id": "any",
+          "star": 1,
+          "kingdom": "same",
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 100
+        },
+        {
+          "id": "BUSD",
+          "amount": 1
+        }
+      ],
+      "time": 15
+    },
+    {
+      "star": 3,
+      "hero": [
+        {
+          "id": "same",
+          "star": 2,
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 150
+        },
+        {
+          "id": "BUSD",
+          "amount": 1
+        }
+      ],
+      "time": 30
+    },
+    {
+      "star": 4,
+      "hero": [
+        {
+          "id": "any",
+          "star": 3,
+          "kingdom": "same",
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 250
+        },
+        {
+          "id": "BUSD",
+          "amount": 2
+        }
+      ],
+      "time": 30
+    },
+    {
+      "star": 5,
+      "hero": [
+        {
+          "id": "same",
+          "star": 4,
+          "amount": 1
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 400
+        },
+        {
+          "id": "BUSD",
+          "amount": 3
+        }
+      ],
+      "time": 45
+    },
+    {
+      "star": 6,
+      "hero": [
+        {
+          "id": "any",
+          "star": 5,
+          "kingdom": "same",
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 650
+        },
+        {
+          "id": "BUSD",
+          "amount": 5
+        }
+      ],
+      "time": 60
+    },
+    {
+      "star": 7,
+      "hero": [
+        {
+          "id": "same",
+          "star": 5,
+          "amount": 1
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 1050
+        },
+        {
+          "id": "BUSD",
+          "amount": 8
+        }
+      ],
+      "time": 75
+    },
+    {
+      "star": 8,
+      "hero": [
+        {
+          "id": "any",
+          "star": 7,
+          "kingdom": "same",
+          "amount": 1
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 1700
+        },
+        {
+          "id": "BUSD",
+          "amount": 13
+        }
+      ],
+      "time": 90
+    },
+    {
+      "star": 9,
+      "hero": [
+        {
+          "id": "any",
+          "star": 7,
+          "kingdom": "same",
+          "amount": 1
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 2750
+        },
+        {
+          "id": "BUSD",
+          "amount": 21
+        }
+      ],
+      "time": 120
+    },
+    {
+      "star": 10,
+      "hero": [
+        {
+          "id": "same",
+          "star": 5,
+          "amount": 2
+        }
+      ],
+      "resource": [
+        {
+          "id": "SOG",
+          "amount": 4450
+        },
+        {
+          "id": "BUSD",
+          "amount": 34
+        }
+      ],
+      "time": 150
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "size": 5,
+  "listFusion": [
+    {
+      "listStar": [{"star": 1}],
+      "up": 2
+    },
+    {
+      "listStar": [{"star": 2}],
+      "up": 3
+    },
+    {
+      "listStar": [{"star": 3}],
+      "up": 4
+    },
+    {
+      "listStar": [{"star": 4}],
+      "up": 5
+    }
+  ]
+}

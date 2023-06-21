@@ -1,0 +1,12 @@
+{"listId":[
+  {"id": "1", "name": "Vitality"},
+  {"id": "2", "name": "Might"},
+  {"id": "3", "name": "Sight"},
+  {"id": "4", "name": "Protection"},
+  {"id": "5", "name": "Swiftness"},
+  {"id": "6", "name": "Fortune"},
+  {"id": "7", "name": "Ferocity"},
+  {"id": "8", "name": "Tenacity"},
+  {"id": "9", "name": "Lethality"}
+]
+}

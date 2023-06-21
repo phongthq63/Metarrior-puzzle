@@ -1,0 +1,48 @@
+{
+  "bgList": [
+    {
+      "id": "BBG001",
+      "terrain": "E403"
+    },
+    {
+      "id": "BBG002",
+      "terrain": "E403"
+    },
+    {
+      "id": "BBG003",
+      "terrain": "E403"
+    },
+    {
+      "id": "BBG004",
+      "terrain": "E404"
+    },
+    {
+      "id": "BBG005",
+      "terrain": "E404"
+    },
+    {
+      "id": "BBG006",
+      "terrain": "E404"
+    },
+    {
+      "id": "BBG007",
+      "terrain": "E403"
+    },
+    {
+      "id": "BBG008",
+      "terrain": "E405"
+    },
+    {
+      "id": "BBG009",
+      "terrain": "E405"
+    },
+    {
+      "id": "BBG012",
+      "terrain": ""
+    },
+    {
+      "id": "BBG013",
+      "terrain": ""
+    }
+  ]
+}

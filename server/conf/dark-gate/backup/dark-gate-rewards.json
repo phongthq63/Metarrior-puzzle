@@ -1,0 +1,168 @@
+{
+  "darkRealm": {
+    "challenge" : [{"id": "MON1001", "amount": 50000}, {"id": "MON1002", "amount": 50000}, {"id": "MON1000", "amount": 50}],
+    "solo": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "MON1000", "amount": 1000}, {"id": "MON1003", "amount": 250}, {"id": "SPI1049", "amount": 360}, {"id": "MON1010", "amount": 1}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "MON1000", "amount": 750}, {"id": "MON1003", "amount": 200}, {"id": "SPI1049", "amount": 300}, {"id": "SPI1050", "amount": 30}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "MON1000", "amount": 600}, {"id": "MON1003", "amount": 150}, {"id": "SPI1049", "amount": 240}, {"id": "SPI1050", "amount": 30}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "MON1000", "amount": 500}, {"id": "MON1003", "amount": 100}, {"id": "SPI1049", "amount": 210}, {"id": "SPI1050", "amount": 25}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "MON1000", "amount": 400}, {"id": "MON1003", "amount": 90}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "MON1000", "amount": 300}, {"id": "MON1003", "amount": 80}, {"id": "SPI1049", "amount": 150}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 100,
+        "rewards": [{"id": "MON1000", "amount": 200}, {"id": "MON1003", "amount": 75}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 999,
+        "rewards": [{"id": "MON1000", "amount": 100}, {"id": "MON1003", "amount": 50}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "MON1000", "amount": 50}, {"id": "MON1003", "amount": 25}, {"id": "SPI1049", "amount": 30}, {"id": "SPI1050", "amount": 2}]
+      }
+    ],
+    "alliance": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "MON1000", "amount": 500}, {"id": "MON1003", "amount": 125}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "MON1000", "amount": 375}, {"id": "MON1003", "amount": 100}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "MON1000", "amount": 300}, {"id": "MON1003", "amount": 75}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 4,
+        "rewards": [{"id": "MON1000", "amount": 250}, {"id": "MON1003", "amount": 50}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 5,
+        "rewards": [{"id": "MON1000", "amount": 200}, {"id": "MON1003", "amount": 45}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "MON1000", "amount": 150}, {"id": "MON1003", "amount": 40}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "MON1000", "amount": 100}, {"id": "MON1003", "amount": 30}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "MON1000", "amount": 50}, {"id": "MON1003", "amount": 25}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 99,
+        "rewards": [{"id": "MON1000", "amount": 25}, {"id": "MON1003", "amount": 15}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "MON1000", "amount": 20}, {"id": "MON1003", "amount": 10}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 2}]
+      }
+    ]
+  },
+  "endlessNights": {
+    "challenge" : [{"id": "MON1001", "amount": 50000}, {"id": "MON1002", "amount": 50000}, {"id": "MON1000", "amount": 50}],
+    "solo": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "MON1000", "amount": 1000}, {"id": "MON1003", "amount": 250}, {"id": "SPI1049", "amount": 360}, {"id": "MON1010", "amount": 1}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "MON1000", "amount": 750}, {"id": "MON1003", "amount": 200}, {"id": "SPI1049", "amount": 300}, {"id": "SPI1050", "amount": 30}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "MON1000", "amount": 600}, {"id": "MON1003", "amount": 150}, {"id": "SPI1049", "amount": 240}, {"id": "SPI1050", "amount": 30}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "MON1000", "amount": 500}, {"id": "MON1003", "amount": 100}, {"id": "SPI1049", "amount": 210}, {"id": "SPI1050", "amount": 25}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "MON1000", "amount": 400}, {"id": "MON1003", "amount": 90}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "MON1000", "amount": 300}, {"id": "MON1003", "amount": 80}, {"id": "SPI1049", "amount": 150}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 100,
+        "rewards": [{"id": "MON1000", "amount": 200}, {"id": "MON1003", "amount": 75}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 999,
+        "rewards": [{"id": "MON1000", "amount": 100}, {"id": "MON1003", "amount": 50}, {"id": "SPI1049", "amount": 60}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "MON1000", "amount": 50}, {"id": "MON1003", "amount": 25}, {"id": "SPI1049", "amount": 30}, {"id": "SPI1050", "amount": 2}]
+      }
+    ],
+    "alliance": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "MON1000", "amount": 500}, {"id": "MON1003", "amount": 125}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "MON1000", "amount": 375}, {"id": "MON1003", "amount": 100}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "MON1000", "amount": 300}, {"id": "MON1003", "amount": 75}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 20}]
+      },
+      {
+        "rank": 4,
+        "rewards": [{"id": "MON1000", "amount": 250}, {"id": "MON1003", "amount": 50}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 5,
+        "rewards": [{"id": "MON1000", "amount": 200}, {"id": "MON1003", "amount": 45}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 15}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "MON1000", "amount": 150}, {"id": "MON1003", "amount": 40}, {"id": "SPI1049", "amount": 180}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "MON1000", "amount": 100}, {"id": "MON1003", "amount": 30}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 10}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "MON1000", "amount": 50}, {"id": "MON1003", "amount": 25}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 99,
+        "rewards": [{"id": "MON1000", "amount": 25}, {"id": "MON1003", "amount": 15}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 5}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "MON1000", "amount": 20}, {"id": "MON1003", "amount": 10}, {"id": "SPI1049", "amount": 120}, {"id": "SPI1050", "amount": 2}]
+      }
+    ]
+  }
+}

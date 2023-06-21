@@ -1,0 +1,144 @@
+{
+	"lucky_items": [
+		{
+			"item_id": "1",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 0.5
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.58",
+			"description": ""
+		},
+		{
+			"item_id": "2",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 0.8
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.3886",
+			"description": ""
+		},
+		{
+			"item_id": "3",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 2.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.03",
+			"description": ""
+		},
+		{
+			"item_id": "4",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 4.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0001",
+			"description": ""
+		},
+		{
+			"item_id": "5",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 6.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0003",
+			"description": ""
+		},
+		{
+			"item_id": "6",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 8.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0002",
+			"description": ""
+		},
+		{
+			"item_id": "7",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 10.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0002",
+			"description": ""
+		},
+		{
+			"item_id": "8",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 15.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0002",
+			"description": ""
+		},
+		{
+			"item_id": "9",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 30.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0002",
+			"description": ""
+		},
+		{
+			"item_id": "10",
+			"type": "0",
+			"status": 0,
+			"reward": [
+				{
+					"id": "BUSD",
+					"value": 45.0
+				}
+			],
+			"item_img": "abc.png",
+			"item_win_rate": "0.0002",
+			"description": ""
+		}
+	]
+}

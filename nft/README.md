@@ -1,0 +1,1 @@
+web3j truffle generate --javaTypes ../../contract-abi/MyNFT.json -o ../../src/ -p com.bamisu.log.nft.contract

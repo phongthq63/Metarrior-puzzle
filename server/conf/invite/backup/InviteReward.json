@@ -1,0 +1,68 @@
+{
+  "list": [
+    {"id": "reward-invite",
+      "list": [
+        [{"id": "MON1000", "amount": 100}],
+        [{"id": "MON1000", "amount": 100}],
+        [{"id": "MON1000", "amount": 100}],
+        [{"id": "MON1000", "amount": 100}],
+        [{"id": "MON1000", "amount": 200}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1007", "amount": 5}],
+        [{"id": "MON1007", "amount": 5}],
+        [{"id": "MON1010", "amount": 1}]
+      ],
+      "limit": 10
+    },
+    {"id": "reward-link",
+      "list": [
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 500}],
+        [{"id": "MON1000", "amount": 2000}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "SPI1049", "amount": 1200}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1010", "amount": 1}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "SPI1049", "amount": 1200}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1010", "amount": 1}]
+      ],
+      "limit": 15
+    },
+    {"id": "reward-level-50",
+      "list": [
+        [{"id": "MON1000", "amount": 2000}],
+        [{"id": "MON1000", "amount": 2000}],
+        [{"id": "MON1000", "amount": 2000}],
+        [{"id": "MON1000", "amount": 2000}],
+        [{"id": "MON1000", "amount": 5000}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "MON1007", "amount": 10}],
+        [{"id": "SPI1049", "amount": 2400}],
+        [{"id": "MON1010", "amount": 1}],
+        [{"id": "MON1010", "amount": 3}],
+        [{"id": "SPI1048", "amount": 1}],
+        [{"id": "MON1007", "amount": 20}],
+        [{"id": "SPI1049", "amount": 2400}],
+        [{"id": "MON1010", "amount": 1}],
+        [{"id": "MON1010", "amount": 3}],
+        [{"id": "SPI1048", "amount": 1}],
+        [{"id": "MON1007", "amount": 20}],
+        [{"id": "SPI1049", "amount": 2400}],
+        [{"id": "MON1010", "amount": 1}],
+        [{"id": "MON1010", "amount": 3}],
+        [{"id": "SPI1048", "amount": 1}]
+      ],
+      "limit": -1,
+      "formula": {"f": 5, "s": 20}
+    }
+  ]
+}

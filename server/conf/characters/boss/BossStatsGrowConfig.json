@@ -1,0 +1,46 @@
+{
+  "method": "base * (1 + (100 * enhanceStar * star)) * (100 + enhanceLevel * level) + base * (1 + (100 * enhanceStar * star)) * (0.1 * breakThought)",
+  "params": {
+    "base": 0,
+    "level": 1,
+    "enhanceLevel": 2,
+    "star": 3,
+    "enhanceStar": 4,
+    "breakThought": 5
+  },
+  "list": [
+    {
+      "id": "T1000",
+      "enhanceLevel": {
+        "hp": 0.035,
+        "strength": 0.035,
+        "intelligence": 0.035,
+        "armor": 0.025,
+        "magicResistance": 0.025,
+        "dexterity": 0.0001,
+        "agility": 0.02,
+        "elusiveness": 0.0001,
+        "armorPenetration": 0.005,
+        "magicPenetration": 0.005,
+        "crit": 0.0001,
+        "critDmg": 0.01,
+        "tenacity": 0.02
+      },
+      "enhanceStar": {
+        "hp": 0.1,
+        "strength": 0.1,
+        "intelligence": 0.1,
+        "armor": 0.1,
+        "magicResistance": 0.1,
+        "dexterity": 0.1,
+        "agility": 0.1,
+        "elusiveness": 0.1,
+        "armorPenetration": 0.1,
+        "magicPenetration": 0.1,
+        "crit": 0.1,
+        "critDmg": 0.1,
+        "tenacity": 0.1
+      }
+    }
+  ]
+}

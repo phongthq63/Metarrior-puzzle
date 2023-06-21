@@ -1,0 +1,12 @@
+{
+  "list": [
+    {"id": "event0", "name": "30-day Check-in", "timeEnd": "11", "timeShow": "11"},
+    {"id": "event1", "name": "Link Account", "timeEnd": "", "timeShow": ""},
+    {"id": "event2", "name": "Referral Code", "timeEnd": "", "timeShow": "7"}
+  ],
+  "event": {
+    "black_friday": 1609459199,
+    "christmas": 1611014399,
+    "new_year": 0
+  }
+}

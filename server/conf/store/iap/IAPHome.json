@@ -1,0 +1,12 @@
+{
+  "special": [
+    {"id": "anese_7_day", "name": "Special", "type": 1, "packages": ["anese_7_day"]},
+    {"id": "ektar_7_day", "name": "Special", "type": 1, "packages": ["ektar_7_day"]},
+    {"id": "samson_7_day", "name": "Special", "type": 1, "packages": ["samson_7_day"]},
+    {"id": "gandaar_7_day", "name": "Special", "type": 1, "packages": ["gandaar_7_day"]},
+    {"id": "first_purchase", "name": "Special", "type": 0, "packages": ["first_purchase"]}
+  ],
+  "checkin": [
+    {"id": "welcome", "name": "Checin", "type": 1, "packages": ["welcome"]}
+  ]
+}

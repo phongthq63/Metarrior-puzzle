@@ -1,0 +1,1000 @@
+{
+  "listWoL": [
+    {
+      "area": 0,
+      "name": "Campaign",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Campaign Progression",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên đến chapter 3",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3
+            },
+            {
+              "desc": "Người chơi đầu tiên đến chapter 5",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 5
+            },
+            {
+              "desc": "Người chơi đầu tiên đến chapter 7",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 7
+            },
+            {
+              "desc": "Người chơi đầu tiên đến chapter 9",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 9
+            },
+            {
+              "desc": "Người chơi đầu tiên đến chapter 11",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 11
+            }
+          ]
+        },
+        {
+          "stage": 1,
+          "name": "Campaign Damage",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên gây tổng 250K sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 500K sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 1M sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 3M sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 6M sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 10M sát thương trên các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 2,
+          "name": "Campaign Heal",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên heal tổng 250K máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 500K máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 1M máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 3M máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 6M máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 10M máu cho các ally trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 3,
+          "name": "Campaign Tank",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 250K sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 500K sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 1M sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 3M sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 6M sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 10M sát thương từ các enemy trong campaign",
+              "reward1": {
+                "id": "MON1000",
+                "amount": 200
+              },
+              "reward2": {
+                "id": "MON1000",
+                "amount": 50
+              },
+              "condition": 10000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": 1,
+      "name": "Tower",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Tower Progression",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên đến Tower level 50",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 50
+            },
+            {
+              "desc": "Người chơi đầu tiên đến Tower level 75",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 75
+            },
+            {
+              "desc": "Người chơi đầu tiên đến Tower level 100",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 100
+            }
+          ]
+        },
+        {
+          "stage": 1,
+          "name": "Tower Damage",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên gây tổng 250K sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 500K sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 1M sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 3M sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 6M sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 10M sát thương trên các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 2,
+          "name": "Tower Heal",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên heal tổng 250K máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 500K máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 1M máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 3M máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 6M máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 10M máu cho các ally trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 3,
+          "name": "Tower Tank",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 250K sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 500K sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 1M sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 3M sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 6M sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 10M sát thương từ các enemy trong Tower",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": 2,
+      "name": "Missions",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Missions Progression",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 100 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 100
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 200 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 200
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 300 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 300
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 500 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 750 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 750
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 1000 trận đấu trong \"Missions\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000
+            }
+          ]
+        },
+        {
+          "stage": 1,
+          "name": "Missions Damage",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên gây tổng 250K sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 500K sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 1M sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 3M sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 6M sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 10M sát thương trên các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 2,
+          "name": "Missions Heal",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên heal tổng 250K máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 500K máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 1M máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 3M máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 6M máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 10M máu cho các ally trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 3,
+          "name": "Missions Tank",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 250K sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 500K sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },{
+              "desc": "Người chơi đầu tiên nhận tổng 1M sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 3M sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 6M sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận tổng 10M sát thương từ các enemy trong Missions",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "name": "Treasure",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Treasure Hunt Progression",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 100 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 100
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 200 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 200
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 300 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 300
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 500 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 750 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 750
+            },
+            {
+              "desc": "Người chơi đầu tiên đánh thắng 1000 trận đấu trong \"Treasure Hunt\"",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000
+            }
+          ]
+        },
+        {
+          "stage": 1,
+          "name": "Treasure Hunt Damage",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên gây tổng 250K sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 500K sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 1M sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 3M sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 6M sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên gây tổng 10M sát thương trên các enemy trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 2,
+          "name": "Treasure Hunt Heal",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên heal tổng 250K máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 500K máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 1M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 3M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 6M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 10M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        },
+        {
+          "stage": 3,
+          "name": "Treasure Hunt Tank",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên heal tổng 250K máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 500K máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 1M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 1000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 3M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 3000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 6M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 6000000
+            },
+            {
+              "desc": "Người chơi đầu tiên heal tổng 10M máu cho các ally trong Treasure Hunt",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "name": "Hero",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Hero Summons",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên summon được 25 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 25
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 50 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 50
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 100 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 100
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 150 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 150
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 200 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 200
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 250 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 250
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 300 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 300
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 400 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 400
+            },
+            {
+              "desc": "Người chơi đầu tiên summon được 500 hero tím",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 500
+            }
+          ]
+        },
+        {
+          "stage": 1,
+          "name": "Hero Ascension",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên đạt được 5 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 5
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 10 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 15 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 15
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 20 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 20
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 25 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 25
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 30 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 30
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 35 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 35
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 40 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 40
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 45 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 45
+            },
+            {
+              "desc": "Người chơi đầu tiên đạt được 50 hero viền đỏ",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 50
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "area": 5,
+      "name": "Alliance",
+      "list": [
+        {
+          "stage": 0,
+          "name": "Alliance Contributions",
+          "listChallenges": [
+            {
+              "desc": "Người chơi đầu tiên nhận được 5000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 5000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 10000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 10000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 20000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 20000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 30000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 30000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 40000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 40000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 50000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 50000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 75000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 75000
+            },
+            {
+              "desc": "Người chơi đầu tiên nhận được 100000 alliance coins",
+              "reward1": {"id": "MON1000", "amount": 200},
+              "reward2": {"id": "MON1000", "amount": 50},
+              "condition": 100000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

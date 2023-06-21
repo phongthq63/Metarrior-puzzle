@@ -1,0 +1,11 @@
+{
+  "cluster_list": [
+    {
+      "id": "1",
+      "server_list": [1,2],
+      "addr": "192.168.1.75",
+      "socket_port": 9933,
+      "proxy_port": 9933
+    }
+  ]
+}

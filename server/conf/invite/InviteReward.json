@@ -1,0 +1,47 @@
+{
+  "list": [
+    {"id": "reward-invite",
+      "list": [
+        [{"id": "SOG", "amount": 10}],
+        [{"id": "SOG", "amount": 10}],
+        [{"id": "SOG", "amount": 10}],
+        [{"id": "SOG", "amount": 10}],
+        [{"id": "SOG", "amount": 10}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 100}],
+        [{"id": "SOG", "amount": 100}],
+        [{"id": "SOG", "amount": 100}]
+      ],
+      "limit": 10
+    },
+    {"id": "reward-level-50",
+      "list": [
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 50}],
+        [{"id": "SOG", "amount": 100}],
+        [{"id": "SOG", "amount": 150}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}],
+        [{"id": "SOG", "amount": 200}]
+      ],
+      "limit": 21
+    }
+  ]
+}

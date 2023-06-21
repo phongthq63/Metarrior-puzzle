@@ -1,0 +1,379 @@
+{
+  "list": [
+    {
+      "id": "M1000S1",
+      "type": 1,
+      "name": "skill M1000S1"
+    },
+    {
+      "id": "M1000S2",
+      "type": 1,
+      "name": "skill M1000S2"
+    },
+    {
+      "id": "M1001S1",
+      "type": 1,
+      "name": "skill M1001S1"
+    },
+    {
+      "id": "M1001S2",
+      "type": 1,
+      "name": "skill M1001S2"
+    },
+    {
+      "id": "M1002S1",
+      "type": 1,
+      "name": "skill M1002S1"
+    },
+    {
+      "id": "M1002S2",
+      "type": 1,
+      "name": "skill M1002S2"
+    },
+    {
+      "id": "M1003S1",
+      "type": 1,
+      "name": "skill M1003S1"
+    },
+    {
+      "id": "M1003S2",
+      "type": 1,
+      "name": "skill M1003S2"
+    },
+    {
+      "id": "M1004S1",
+      "type": 1,
+      "name": "skill M1004S1"
+    },
+    {
+      "id": "M1004S2",
+      "type": 1,
+      "name": "skill M1004S2"
+    },
+    {
+      "id": "M1005S1",
+      "type": 1,
+      "name": "skill M1005S1"
+    },
+    {
+      "id": "M1005S2",
+      "type": 1,
+      "name": "skill M1005S2"
+    },
+    {
+      "id": "M1006S1",
+      "type": 1,
+      "name": "skill M1006S1"
+    },
+    {
+      "id": "M1006S2",
+      "type": 1,
+      "name": "skill M1006S2"
+    },
+    {
+      "id": "M1007S1",
+      "type": 1,
+      "name": "skill M1007S1"
+    },
+    {
+      "id": "M1007S2",
+      "type": 1,
+      "name": "skill M1007S2"
+    },
+    {
+      "id": "M1008S1",
+      "type": 1,
+      "name": "skill M1008S1"
+    },
+    {
+      "id": "M1008S2",
+      "type": 1,
+      "name": "skill M1008S2"
+    },
+    {
+      "id": "M1009S1",
+      "type": 1,
+      "name": "skill M1009S1"
+    },
+    {
+      "id": "M1009S2",
+      "type": 1,
+      "name": "skill M1009S2"
+    },
+    {
+      "id": "M1010S1",
+      "type": 1,
+      "name": "skill M1010S1"
+    },
+    {
+      "id": "M1010S2",
+      "type": 1,
+      "name": "skill M1010S2"
+    },
+    {
+      "id": "M1011S1",
+      "type": 1,
+      "name": "skill M1011S1"
+    },
+    {
+      "id": "M1011S2",
+      "type": 1,
+      "name": "skill M1011S2"
+    },
+    {
+      "id": "M1012S1",
+      "type": 1,
+      "name": "skill M1012S1"
+    },
+    {
+      "id": "M1012S2",
+      "type": 1,
+      "name": "skill M1012S2"
+    },
+    {
+      "id": "M1013S1",
+      "type": 1,
+      "name": "skill M1013S1"
+    },
+    {
+      "id": "M1013S2",
+      "type": 1,
+      "name": "skill M1013S2"
+    },
+    {
+      "id": "M1014S1",
+      "type": 1,
+      "name": "skill M1014S1"
+    },
+    {
+      "id": "M1014S2",
+      "type": 1,
+      "name": "skill M1014S2"
+    },
+    {
+      "id": "M1015S1",
+      "type": 1,
+      "name": "skill M1015S1"
+    },
+    {
+      "id": "M1015S2",
+      "type": 1,
+      "name": "skill M1015S2"
+    },
+    {
+      "id": "M1016S1",
+      "type": 1,
+      "name": "skill M1016S1"
+    },
+    {
+      "id": "M1016S2",
+      "type": 1,
+      "name": "skill M1016S2"
+    },
+    {
+      "id": "M1017S1",
+      "type": 1,
+      "name": "skill M1017S1"
+    },
+    {
+      "id": "M1017S2",
+      "type": 1,
+      "name": "skill M1017S2"
+    },
+    {
+      "id": "M1018S1",
+      "type": 1,
+      "name": "skill M1018S1"
+    },
+    {
+      "id": "M1018S2",
+      "type": 1,
+      "name": "skill M1018S2"
+    },
+    {
+      "id": "M1019S1",
+      "type": 1,
+      "name": "skill M1019S1"
+    },
+    {
+      "id": "M1019S2",
+      "type": 1,
+      "name": "skill M1019S2"
+    },
+    {
+      "id": "M1020S1",
+      "type": 1,
+      "name": "skill M1020S1"
+    },
+    {
+      "id": "M1020S2",
+      "type": 1,
+      "name": "skill M1020S2"
+    },
+    {
+      "id": "M1021S1",
+      "type": 1,
+      "name": "skill M1021S1"
+    },
+    {
+      "id": "M1021S2",
+      "type": 1,
+      "name": "skill M1021S2"
+    },
+    {
+      "id": "M1022S1",
+      "type": 1,
+      "name": "skill M1022S1"
+    },
+    {
+      "id": "M1022S2",
+      "type": 1,
+      "name": "skill M1022S2"
+    },
+    {
+      "id": "M1023S1",
+      "type": 1,
+      "name": "skill M1023S1"
+    },
+    {
+      "id": "M1023S2",
+      "type": 1,
+      "name": "skill M1023S2"
+    },
+    {
+      "id": "M1024S1",
+      "type": 1,
+      "name": "skill M1024S1"
+    },
+    {
+      "id": "M1024S2",
+      "type": 1,
+      "name": "skill M1024S2"
+    },
+    {
+      "id": "M1025S1",
+      "type": 1,
+      "name": "skill M1025S1"
+    },
+    {
+      "id": "M1025S2",
+      "type": 1,
+      "name": "skill M1025S2"
+    },
+    {
+      "id": "MBS1000S1",
+      "type": 0,
+      "name": "skill MBS1000S1"
+    },
+    {
+      "id": "MBS1000S2",
+      "type": 1,
+      "name": "skill MBS1000S2"
+    },
+    {
+      "id": "MBS1000S3",
+      "type": 1,
+      "name": "skill MBS1000S3"
+    },
+    {
+      "id": "MBS1000S4",
+      "type": 1,
+      "name": "skill MBS1000S4"
+    },
+    {
+      "id": "MBS1001S2",
+      "type": 1,
+      "name": "skill MBS1001S2"
+    },
+    {
+      "id": "MBS1001S3",
+      "type": 1,
+      "name": "skill MBS1001S3"
+    },
+    {
+      "id": "MBS1001S4",
+      "type": 1,
+      "name": "skill MBS1001S4"
+    },
+    {
+      "id": "MBS1002S1",
+      "type": 1,
+      "name": "skill MBS1001S1"
+    },
+    {
+      "id": "MBS1002S2",
+      "type": 1,
+      "name": "skill MBS1001S4"
+    },
+    {
+      "id": "MBS1002S3",
+      "type": 1,
+      "name": "skill MBS1002S3"
+    },
+    {
+      "id": "MBS1002S4",
+      "type": 1,
+      "name": "skill MBS1002S4"
+    },
+    {
+      "id": "MBS1003S1",
+      "type": 0,
+      "name": "Resurrection"
+    },
+    {
+      "id": "MBS1003S2",
+      "type": 1,
+      "name": "Nature's Elixir"
+    },
+    {
+      "id": "MBS1003S3",
+      "type": 1,
+      "name": "Ether Strike"
+    },
+    {
+      "id": "MBS1003S4",
+      "type": 1,
+      "name": "Life Bloom"
+    },
+    {
+      "id": "MBS1004S1",
+      "type": 0,
+      "name": "Resurrection"
+    },
+    {
+      "id": "MBS1004S2",
+      "type": 1,
+      "name": "Nature's Elixir"
+    },
+    {
+      "id": "MBS1004S3",
+      "type": 1,
+      "name": "Ether Strike"
+    },
+    {
+      "id": "MBS1004S4",
+      "type": 1,
+      "name": "Life Bloom"
+    },
+    {
+      "id": "MBS1005S1",
+      "type": 0,
+      "name": "Resurrection"
+    },
+    {
+      "id": "MBS1005S2",
+      "type": 1,
+      "name": "Nature's Elixir"
+    },
+    {
+      "id": "MBS1005S3",
+      "type": 1,
+      "name": "Ether Strike"
+    },
+    {
+      "id": "MBS1005S4",
+      "type": 1,
+      "name": "Life Bloom"
+    }
+  ]
+}

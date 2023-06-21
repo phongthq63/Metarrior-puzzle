@@ -1,0 +1,361 @@
+{
+  "list": [
+    {"id": "send-1-friend-point",
+      "condition": {
+        "type": "6",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "enhandce-1",
+      "condition": {
+        "type": "7",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-mission-1",
+      "condition": {
+        "type": "8",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-guild-hunt-1",
+      "condition": {
+        "type": "9",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "collect-afk-1",
+      "condition": {
+        "type": "10",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "uplevel-hero-1",
+      "condition": {
+        "type": "11",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-hunt-1",
+      "condition": {
+        "type": "12",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-tower-1",
+      "condition": {
+        "type": "13",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "use-fast-reward-1",
+      "condition": {
+        "type": "14",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "summon-tavern-1",
+      "condition": {
+        "type": "15",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-arena-1",
+      "condition": {
+        "type": "16",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "do-campaign-1",
+      "condition": {
+        "type": "17",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "victory-arena-5",
+      "condition": {
+        "type": "18",
+        "formula": [
+          {"f": 0, "s": 5}
+        ]
+      }
+    },
+    {"id": "enhance-4",
+      "condition": {
+        "type": "7",
+        "formula": [
+          {"f": 0, "s": 4}
+        ]
+      }
+    },
+    {"id": "win-mission-10",
+      "condition": {
+        "type": "19",
+        "formula": [
+          {"f": 0, "s": 10}
+        ]
+      }
+    },
+    {"id": "win-hunt-3",
+      "condition": {
+        "type": "20",
+        "formula": [
+          {"f": 0, "s": 3}
+        ]
+      }
+    },
+    {"id": "buy-general-store-5",
+      "condition": {
+        "type": "21",
+        "formula": [
+          {"f": 0, "s": 5}
+        ]
+      }
+    },
+    {"id": "buy-guild-store-1",
+      "condition": {
+        "type": "22",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "buy-hunter-store-1",
+      "condition": {
+        "type": "23",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "get-guild-coin-1000",
+      "condition": {
+        "type": "24",
+        "formula": [
+          {"f": 0, "s": 1000}
+        ]
+      }
+    },
+    {"id": "upstar-2",
+      "condition": {
+        "type": "38",
+        "formula": [
+          {"f": 0, "s": 2}
+        ]
+      }
+    },
+    {"id": "summon-tavern-5",
+      "condition": {
+        "type": "15",
+        "formula": [
+          {"f": 0, "s": 5}
+        ]
+      }
+    },
+    {"id": "get-hero",
+      "condition": {
+        "type": "26",
+        "formula": [
+          {"f": 1, "s": 3},
+          {"f": 4, "s": 6},
+          {"f": 10, "s": 10},
+          {"f": 20, "s": 30},
+          {"f": 25, "s": 50},
+          {"f": 30, "s": 100},
+          {"f": 40, "s": 160},
+          {"f": 80, "s": 280},
+          {"f": 140, "s": 360},
+          {"f": 250, "s": 500},
+          {"f": 500, "s": 1000},
+          {"f": 1000, "s": 2000},
+          {"f": 2000, "s": 3000},
+          {"f": 0, "s": 5000}
+        ]
+      }
+    },
+    {"id": "level-hero",
+      "condition": {
+        "type": "27",
+        "formula": [
+          {"f": 10, "s": 10},
+          {"f": 0, "s": 240}
+        ]
+      }
+    },
+    {"id": "level-user",
+      "condition": {
+        "type": "0",
+        "formula": [
+          {"f": 10, "s": 10},
+          {"f": 0, "s": 200}
+        ]
+      }
+    },
+    {"id": "blessing-level",
+      "condition": {
+        "type": "28",
+        "formula": [
+          {"f": 20, "s": 40},
+          {"f": 0, "s": 200}
+        ]
+      }
+    },
+    {"id": "win-arena",
+      "condition": {
+        "type": "18",
+        "formula": [
+          {"f": 30, "s": 20},
+          {"f": 50, "s": 50},
+          {"f": 100, "s": 100},
+          {"f": 200, "s": 300},
+          {"f": 0, "s": 500}
+        ]
+      }
+    },
+    {"id": "arena-point",
+      "condition": {
+        "type": "29",
+        "formula": [
+          {"f": 20, "s": 1010},
+          {"f": 50, "s": 1050},
+          {"f": 100, "s": 1100},
+          {"f": 200, "s": 1200},
+          {"f": 0, "s": 1800}
+        ]
+      }
+    },
+    {"id": "eat-gold-afk",
+      "condition": {
+        "type": "30",
+        "formula": [
+          {"f": 50000, "s": 50000},
+          {"f": 150000, "s": 100000},
+          {"f": 250000, "s": 250000},
+          {"f": 500000, "s": 500000},
+          {"f": 1000000, "s": 1000000},
+          {"f": 3000000, "s": 2000000},
+          {"f": 5000000, "s": 5000000},
+          {"f": 10000000, "s": 10000000},
+          {"f": 30000000, "s": 20000000},
+          {"f": 0, "s": 50000000}
+        ]
+      }
+    },
+    {"id": "boss-dungeon",
+      "condition": {
+        "type": "37",
+        "formula": [
+          {"f": 6, "s": 6},
+          {"f": 0, "s": 492}
+        ]
+      }
+    },
+    {"id": "floor-tower",
+      "condition": {
+        "type": "2",
+        "formula": [
+          {"f": 10, "s": 10},
+          {"f": 0, "s": 300}
+        ]
+      }
+    },
+    {"id": "chap-dungeon",
+      "condition": {
+        "type": "1",
+        "formula": [
+          {"f": 1, "s": 1},
+          {"f": 0, "s": 21}
+        ]
+      }
+    },
+    {"id": "link-fb",
+      "condition": {
+        "type": "31",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "link-gg",
+      "condition": {
+        "type": "32",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "link-gc",
+      "condition": {
+        "type": "33",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "open-slot-blessing",
+      "condition": {
+        "type": "34",
+        "formula": [
+          {"f": 10, "s": 10},
+          {"f": 0, "s": 60}
+        ]
+      }
+    },
+    {"id": "send-friend-request-10",
+      "condition": {
+        "type": "39",
+        "formula": [
+          {"f": 0, "s": 10}
+        ]
+      }
+    },
+    {"id": "send-friend-request-10",
+      "condition": {
+        "type": "39",
+        "formula": [
+          {"f": 0, "s": 10}
+        ]
+      }
+    },
+    {"id": "join-guild",
+      "condition": {
+        "type": "40",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "chat",
+      "condition": {
+        "type": "41",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    }
+  ]
+}

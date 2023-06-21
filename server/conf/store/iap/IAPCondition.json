@@ -1,0 +1,109 @@
+{
+  "list": [
+    {"id": "level",
+      "condition": {
+        "type": "0",
+        "formula": [
+          {"f": 20, "s": 20},
+          {"f": 10, "s": 40}
+        ]
+      }
+    },
+    {"id": "chap",
+      "condition": {
+        "type": "1",
+        "formula": [
+          {"f": 1, "s": 1}
+        ]
+      }
+    },
+    {"id": "floor",
+      "condition": {
+        "type": "2",
+        "formula": [
+          {"f": 20, "s": 20}
+        ]
+      }
+    },
+    {"id": "mythicHero",
+      "condition": {
+        "type": "3",
+        "formula": [
+          {"f": 5, "s": 5}
+        ]
+      }
+    },
+    {"id": "ascendedHero",
+      "condition": {
+        "type": "4",
+        "formula": [
+          {"f": 1, "s": 1}
+        ]
+      }
+    },
+    {"id": "buy",
+      "condition": {
+        "type": "5",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "to-state-2-24",
+      "condition": {
+        "type": "37",
+        "formula": [
+          {"f": 0, "s": 30}
+        ]
+      }
+    },
+    {"id": "to-state-2-18",
+      "condition": {
+        "type": "37",
+        "formula": [
+          {"f": 0, "s": 24}
+        ]
+      }
+    },
+    {"id": "to-state-2-12",
+      "condition": {
+        "type": "37",
+        "formula": [
+          {"f": 0, "s": 18}
+        ]
+      }
+    },
+    {"id": "lose-battle-2",
+      "condition": {
+        "type": "42",
+        "formula": [
+          {"f": 0, "s": 2}
+        ]
+      }
+    },
+    {"id": "to-chap-2",
+      "condition": {
+        "type": "37",
+        "formula": [
+          {"f": 0, "s": 6}
+        ]
+      }
+    },
+    {"id": "have-vip",
+      "condition": {
+        "type": "44",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    },
+    {"id": "vip-2",
+      "condition": {
+        "type": "46",
+        "formula": [
+          {"f": 0, "s": 1}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//model/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- <property name="connection.provider_class">org.hibernate.service.jdbc.connections.internal.C3P0ConnectionProvider</property> -->
+        <!-- <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property> -->
+
+        <property name="hibernate.hikari.dataSourceClassName">com.mysql.jdbc.jdbc2.optional.MysqlDataSource</property>
+        <property name="hibernate.connection.provider_class">
+            org.hibernate.hikaricp.internal.HikariCPConnectionProvider
+        </property>
+
+        <!--local phong-->
+        <property name="hibernate.hikari.dataSource.url">jdbc:mysql://127.0.0.1:3306/sdk?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;jdbcCompliantTruncation=false</property>
+        <property name="hibernate.connection.autoReconnect">true</property>
+        <property name="hibernate.connection.autoReconnectForPools">true</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password"></property>
+
+        <property name="hibernate.connection.autocommit">false</property>
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="current_session_context_class">managed</property>
+        <property name="hibernate.search.autoregister_listeners">false</property>
+        <!-- <property name="hibernate.c3p0.acquire_increment">5</property> -->
+        <!-- <property name="hibernate.c3p0.min_size">15</property> -->
+        <!-- <property name="hibernate.c3p0.max_size">200</property> -->
+        <!-- <property name="hibernate.c3p0.max_statements">0</property> -->
+        <!-- <property name="hibernate.c3p0.timeout">300</property> -->
+        <property name="hibernate.hikari.autoCommit">false</property>
+        <property name="hibernate.hikari.dataSource.cachePrepStmts">true</property>
+        <property name="hibernate.hikari.dataSource.prepStmtCacheSize">250</property>
+        <property name="hibernate.hikari.dataSource.prepStmtCacheSqlLimit">2048</property>
+        <property name="hibernate.hikari.minimumIdle">10</property>
+        <property name="hibernate.hikari.maximumPoolSize">200</property>
+        <property name="hibernate.hikari.idleTimeout">600000</property>
+        <property name="hibernate.hikari.connectionTimeout">5000</property>
+
+
+        <property name="hibernate.jdbc.batch_size">100</property>
+
+
+        <property name="hibernate.hikari.leakDetectionThreshold">60000</property>
+        <!-- <property name="hibernate.c3p0.debugUnreturnedConnectionStackTraces">true</property> -->
+        <!-- <property name="hibernate.c3p0.unreturnedConnectionTimeout">60</property> -->
+
+        <mapping class="com.bamisu.gamelib.sql.sdk.dbo.AccountDBO" />
+        <mapping class="com.bamisu.gamelib.sql.sdk.dbo.LinkDBO" />
+        <mapping class="com.bamisu.gamelib.sql.sdk.dbo.LoginLogDBO" />
+
+        <!--<mapping class="tofu.upsale.base.db.dbo.UserVipDBO"/>-->
+        <!--<mapping class="tofu.upsale.base.db.dbo.ConfigDBO"/>-->
+    </session-factory>
+</hibernate-configuration>

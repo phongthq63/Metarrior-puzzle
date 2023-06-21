@@ -1,0 +1,24 @@
+{
+  "listSetWeapon": [
+    {
+      "kingdom": 1,
+      "set": 4,
+      "listAttr": []
+    },
+    {
+      "kingdom": 2,
+      "set": 5,
+      "listAttr": []
+    },
+    {
+      "kingdom": 1,
+      "set": 4,
+      "listAttr": []
+    },
+    {
+      "kingdom": 0,
+      "set": 5,
+      "listAttr": []
+    }
+  ]
+}

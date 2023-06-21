@@ -1,0 +1,155 @@
+{
+  "listGift": [
+    {
+      "amount": 100000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 1000000,
+      "fx": true,
+      "id": "MON1001"
+    },
+    {
+      "amount": 1000000,
+      "fx": true,
+      "id": "MON1001"
+    },
+    {
+      "amount": 3000,
+      "fx": true,
+      "id": "MON1000"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 60,
+      "fx": true,
+      "id": "SPI1050"
+    },
+    {
+      "amount": 300,
+      "fx": false,
+      "id": "SPI1049"
+    },
+    {
+      "amount": 300,
+      "fx": false,
+      "id": "SPI1049"
+    },
+    {
+      "amount": 1000,
+      "fx": true,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 10,
+      "fx": true,
+      "id": "MON1008"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 60,
+      "fx": true,
+      "id": "SPI1050"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 10,
+      "fx": true,
+      "id": "MON1008"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 200,
+      "fx": false,
+      "id": "MON1003"
+    },
+    {
+      "amount": 500000,
+      "fx": false,
+      "id": "MON1001"
+    },
+    {
+      "amount": 1,
+      "fx": true,
+      "id": "MON1010"
+    }
+  ],
+  "time": 33
+}

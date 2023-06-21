@@ -1,0 +1,25 @@
+{
+  "list": [
+    {"id": "0", "name": "Sky Market",
+      "listTab": [
+        {"id": "tab36", "name": "Daily Deals", "type": 0, "packages": ["sky_daily_free", "sky_daily_1", "sky_daily_3", "sky_daily_6", "AUN001", "AUN002"]},
+        {"id": "tab37", "name": "Weekly Deals", "type": 0, "packages": ["sky_weekly_free", "sky_weekly_1", "sky_weekly_5", "sky_weekly_10", "sky_weekly_diamond_5"]},
+        {"id": "tab38", "name": "Monthly Deals", "type": 0, "packages": ["sky_monthly_free", "sky_monthly_1", "sky_monthly_5", "sky_monthly_10", "sky_monthly_15", "sky_monthly_15_2"]},
+        {"id": "tab39", "name": "", "type": 0, "packages": ["sky_diamond_25", "sky_diamond_50", "sky_diamond_100"]}
+      ]
+    },
+    {"id": "1", "name": "Hall of Magic",
+      "listTab": [
+        {"id": "tab41", "name": "Protector of Asteria", "type": 0, "packages": ["vip1_1m", "vip1_2m", "vip1_3m"]},
+        {"id": "tab42", "name": "Mark of the Archmage", "type": 0, "packages": ["vip2_1m", "vip2_2m", "vip2_3m"]}
+      ]
+    },
+    {"id": "2", "name": "Voyager's League",
+      "listTab": [
+        {"id": "tab43", "name": "Medals of Justice", "type": 1, "packages": ["prestige1"]},
+        {"id": "tab44", "name": "Emblems of Courage", "type": 1, "packages": ["prestige2"]},
+        {"id": "tab45", "name": "Journeyman's Fortune", "type": 1, "packages": ["prestige3"]}
+      ]
+    }
+  ]
+}

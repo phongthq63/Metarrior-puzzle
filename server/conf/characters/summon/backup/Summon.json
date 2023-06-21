@@ -1,0 +1,85 @@
+{
+  "listSummonBanner": [
+    {
+      "id": "0",
+      "name": "Hero Banner",
+      "desc": "Coming soon",
+      "type": "0",
+      "bonusPoint": 1,
+      "timeFree": -1,
+      "cost": [
+        {"money": "MON1008",
+          "value": {"1": 1, "10": 10}},
+        {"money": "MEWA",
+          "value": {"1": 100, "10": 1000}},
+        {"money": "SOG",
+          "value": {"1": 1000, "10": 10000}}
+      ],
+      "rate": [
+        {"rate": 5.0, "star": 3, "type": -1},
+        {"rate": 44.0, "star": 1, "type": -1},
+        {"rate": 51.0, "star": 0, "type": -1}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kingdom Banner",
+      "desc": "Coming soon",
+      "type": "2",
+      "bonusPoint": 1,
+      "timeFree": -1,
+      "cost": [
+        {"money": "MON1007",
+          "value": {"1": 1, "10": 10}}
+      ],
+      "rate": [
+        {"rate": 5.0, "star": 3, "type": -1},
+        {"rate": 44.0, "star": 1, "type": -1},
+        {"rate": 51.0, "star": 0, "type": -1}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Friend Banner",
+      "desc": "Coming soon",
+      "type": "0",
+      "bonusPoint": 0,
+      "timeFree": -1,
+      "cost": [
+        {"money": "MON1009",
+          "value": {"1": 10, "10": 100}}
+      ],
+      "rate": [
+        {"rate": 2.5, "star": 3, "type": -1},
+        {"rate": 44.5, "star": 1, "type": -1},
+        {"rate": 53.0, "star": 0, "type": -1}
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "idChest": "brown",
+      "cost": 30,
+      "reward": [
+        {"id": "SPI1006", "amount": 3}
+    ]},
+    {
+      "idChest": "silver",
+      "cost": 30,
+      "reward": [
+        {"id": "SPI1012", "amount": 3}
+      ]},
+    {
+      "idChest": "gold",
+      "cost": 20,
+      "reward": [
+        {"id": "SPI1018", "amount": 3}
+      ]},
+    {
+      "idChest": "diamond",
+      "cost": 20,
+      "reward": [
+        {"id": "MON1010", "amount": 1}
+      ]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "see": 30,
+  "limitPrivate": 20,
+  "list": [
+    {"id": 0, "description": "Global",
+      "limitMessage": 200,
+      "limitTime": 7200,
+      "distanceSend": 5},
+    {"id": 1, "description": "Channel",
+      "limitMessage": 200,
+      "limitTime": 7200,
+      "distanceSend": 5},
+    {"id": 2, "description": "Guild",
+      "limitMessage": 100,
+      "limitTime": 172800,
+      "distanceSend": 0},
+    {"id": 3, "description": "Private",
+      "limitMessage": 50,
+      "limitTime": 77200,
+      "distanceSend": 0}
+  ]
+}

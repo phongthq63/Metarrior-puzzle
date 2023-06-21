@@ -1,0 +1,53 @@
+<div class="main" style="max-width: 800px;">
+  <div class="container">
+    <div class="logo" style="width: 200px;height: 120px;margin: 0 auto;margin-bottom: 50px;"><img
+        src="./Logo-Metarrior 1.svg" alt=""></div>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;">Dear $username,</p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;">Welcome, and thank you
+      for creating a Metarrior account! </p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin: 0;" class="mt-0">Here is your
+      account activation code:</p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;font-size: 16px;line-height: 22px;font-weight: 600;color: #ebd950 !important;margin-top: 30px;"
+      class="num">$code</p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;">If you did not register
+      our Metarrior account linked with this email address, please proceed to ignore this message. In case you need
+      support, feel free to contact our Support Team. </p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;">Remember:</p>
+    <ul style=" margin: 5px;">
+      <li style="font-size: 16px;line-height: 22px;font-weight: 400;margin-top: 10px;margin-left: 35px;">Don’t share
+        your password with anyone.</li>
+      <li style="font-size: 16px;line-height: 22px;font-weight: 400;margin-top: 10px;margin-left: 35px;">Follow us on
+        our social channels to keep yourself updated with latest news and advices </li>
+      <li style="font-size: 16px;line-height: 22px;font-weight: 400;margin-top: 10px;margin-left: 35px;">Always
+        double-check the recipient's address before transferring tokens or NFTs.</li>
+    </ul>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;">Metarrior’s Official
+      Channels:</p>
+    <div class="socail" style="display: flex;flex-wrap: wrap;align-items: center;margin-top: 10px">
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="http://metarrior.com/">Website</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://twitter.com/metarrior">Twitter</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://t.me/Metarrior_official">Telegram ANN</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://t.me/metarrior_official_group">Telegram Global</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://medium.com/@metarrior">Medium</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://www.facebook.com/Metarrior/">Facebook</a>
+      <div style="height: 12px;width: 1px;background-color: #000;margin: 0 6px;" class="line"></div>
+      <a style="font-size: 16px;line-height: 22px;font-weight: 400;color: #0d99ff;"
+        href="https://linktr.ee/metarrior">Linktree</a>
+    </div>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;" class="note">©Metarrior:
+      Truth Game Development Team</p>
+    <p style="font-size: 16px;line-height: 22px;font-weight: 400;color: #000;margin-top: 20px;" class="note mt-0">This
+      is an automated message, please do not reply.</p>
+  </div>
+</div>

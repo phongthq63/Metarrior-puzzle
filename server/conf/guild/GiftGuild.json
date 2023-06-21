@@ -1,0 +1,212 @@
+{
+  "up": [
+    {"level": 1,
+      "upCost": 20000,
+      "gift": [{"id": "SPI1128", "amount": 1}]
+    },
+    {"level": 2,
+      "upCost": 40000,
+      "gift": [{"id": "SPI1129", "amount": 1}]
+    },
+    {"level": 3,
+      "upCost": 80000,
+      "gift": [{"id": "SPI1128", "amount": 3}]
+    },
+    {"level": 4,
+      "upCost": 150000,
+      "gift": [{"id": "SPI1129", "amount": 1}]
+    },
+    {"level": 5,
+      "upCost": 500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 6,
+      "upCost": 750000,
+      "gift": [{"id": "SPI1128", "amount": 10}]
+    },
+    {"level": 7,
+      "upCost": 750000,
+      "gift": [{"id": "SPI1131", "amount": 1}]
+    },
+    {"level": 8,
+      "upCost": 1000000,
+      "gift": [{"id": "SPI1135", "amount": 1}]
+    },
+    {"level": 9,
+      "upCost": 750000,
+      "gift": [{"id": "SPI1132", "amount": 1}]
+    },
+    {"level": 10,
+      "upCost": 1500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 11,
+      "upCost": 1000000,
+      "gift": [{"id": "SPI1133", "amount": 1}]
+    },
+    {"level": 12,
+      "upCost": 1000000,
+      "gift": [{"id": "SPI1132", "amount": 2}]
+    },
+    {"level": 13,
+      "upCost": 1500000,
+      "gift": [{"id": "SPI1136", "amount": 1}]
+    },
+    {"level": 14,
+      "upCost": 1250000,
+      "gift": [{"id": "SPI1134", "amount": 1}]
+    },
+    {"level": 15,
+      "upCost": 2500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 16,
+      "upCost": 1000000,
+      "gift": [{"id": "SPI1134", "amount": 1}]
+    },
+    {"level": 17,
+      "upCost": 1400000,
+      "gift": [{"id": "SPI1135", "amount": 1}]
+    },
+    {"level": 18,
+      "upCost": 1800000,
+      "gift": [{"id": "SPI1136", "amount": 1}]
+    },
+    {"level": 19,
+      "upCost": 2000000,
+      "gift": [{"id": "SPI1135", "amount": 1}]
+    },
+    {"level": 20,
+      "upCost": 4000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 21,
+      "upCost": 6000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 22,
+      "upCost": 7500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 23,
+      "upCost": 10000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 24,
+      "upCost": 12500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 25,
+      "upCost": 15000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 26,
+      "upCost": 17500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 27,
+      "upCost": 20000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 28,
+      "upCost": 25000000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 29,
+      "upCost": 2500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 30,
+      "upCost": 2500000,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    },
+    {"level": 31,
+      "upCost": 0,
+      "gift": [{"id": "SPI1137", "amount": 1}]
+    }
+  ],
+  "create": [{"id": "SPI1128", "amount": 1}],
+  "daily": [{"id": "SPI1129", "amount": 1}],
+  "gift": [
+    {"id": "SPI1128", "name": "Alliance Gift Box Lv.1",
+      "reward": [
+        {"id": "RES1025", "amount": 300, "gen": []},
+        {"id": "RES1026", "amount": 150, "gen": []},
+        {"id": "MON1014", "amount": 20, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 10000}, {"rate": 20, "id": "MON1003", "amount": 5}, {"rate": 10, "id": "MON1000", "amount": 10}, {"rate": 5, "id": "MON1000", "amount": 50}, {"rate": 10, "id": "SPI1049", "amount": 2}, {"rate": 10, "id": "SPI1050", "amount": 2}, {"rate": 10, "id": "SPI1077", "amount": 1}]}
+      ]
+    },
+    {"id": "SPI1129", "name": "Alliance Gift Box Lv.2",
+      "reward": [
+        {"id": "RES1025", "amount": 1000, "gen": []},
+        {"id": "RES1026", "amount": 500, "gen": []},
+        {"id": "MON1014", "amount": 300, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 100000}, {"rate": 20, "id": "MON1003", "amount": 25}, {"rate": 10, "id": "MON1000", "amount": 100}, {"rate": 5, "id": "MON1000", "amount": 200}, {"rate": 10, "id": "SPI1049", "amount": 30}, {"rate": 6.67, "id": "SPI1050", "amount": 5}, {"rate": 6.67, "id": "SPI1077", "amount": 2}, {"rate": 6.67, "id": "SPI1089", "amount": 1}]}
+      ]
+    },
+    {"id": "SPI1130", "name": "Alliance Gift Box Lv.3",
+      "reward": [
+        {"id": "RES1025", "amount": 3000, "gen": []},
+        {"id": "RES1026", "amount": 1500, "gen": []},
+        {"id": "MON1014", "amount": 1000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 150000}, {"rate": 20, "id": "MON1003", "amount": 50}, {"rate": 10, "id": "MON1000", "amount": 100}, {"rate": 5, "id": "MON1000", "amount": 200}, {"rate": 10, "id": "SPI1049", "amount": 90}, {"rate": 6.67, "id": "SPI1050", "amount": 10}, {"rate": 6.67, "id": "SPI1077", "amount": 3}, {"rate": 6.67, "id": "SPI1089", "amount": 2}]}
+      ]
+    },
+    {"id": "SPI1131", "name": "Alliance Gift Box Lv.4",
+      "reward": [
+        {"id": "RES1025", "amount": 10000, "gen": []},
+        {"id": "RES1026", "amount": 5000, "gen": []},
+        {"id": "MON1014", "amount": 3500, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 250000}, {"rate": 20, "id": "MON1003", "amount": 100}, {"rate": 10, "id": "MON1000", "amount": 250}, {"rate": 5, "id": "MON1000", "amount": 500}, {"rate": 10, "id": "SPI1049", "amount": 120}, {"rate": 6.67, "id": "SPI1050", "amount": 15}, {"rate": 6.67, "id": "SPI1077", "amount": 4}, {"rate": 6.67, "id": "SPI1089", "amount": 3}]}
+      ]
+    },
+    {"id": "SPI1132", "name": "Alliance Gift Box Lv.5",
+      "reward": [
+        {"id": "RES1025", "amount": 18000, "gen": []},
+        {"id": "RES1026", "amount": 9000, "gen": []},
+        {"id": "MON1014", "amount": 6000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 500000}, {"rate": 20, "id": "MON1003", "amount": 200}, {"rate": 10, "id": "MON1000", "amount": 500}, {"rate": 5, "id": "MON1000", "amount": 1000}, {"rate": 10, "id": "SPI1049", "amount": 180}, {"rate": 6.67, "id": "SPI1050", "amount": 20}, {"rate": 6.67, "id": "SPI1078", "amount": 1}, {"rate": 6.67, "id": "SPI1089", "amount": 4}]}
+      ]
+    },
+    {"id": "SPI1133", "name": "Alliance Gift Box Lv.6",
+      "reward": [
+        {"id": "RES1025", "amount": 38000, "gen": []},
+        {"id": "RES1026", "amount": 19000, "gen": []},
+        {"id": "MON1014", "amount": 13000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 750000}, {"rate": 20, "id": "MON1003", "amount": 300}, {"rate": 10, "id": "MON1000", "amount": 750}, {"rate": 5, "id": "MON1000", "amount": 1250}, {"rate": 10, "id": "SPI1049", "amount": 240}, {"rate": 10, "id": "SPI1050", "amount": 30}, {"rate": 5, "id": "SPI1078", "amount": 2}, {"rate": 5, "id": "SPI1090", "amount": 1}]}
+      ]
+    },
+    {"id": "SPI1134", "name": "Alliance Gift Box Lv.7",
+      "reward": [
+        {"id": "RES1025", "amount": 60000, "gen": []},
+        {"id": "RES1026", "amount": 30000, "gen": []},
+        {"id": "MON1014", "amount": 20000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 1000000}, {"rate": 20, "id": "MON1003", "amount": 400}, {"rate": 10, "id": "MON1000", "amount": 1000}, {"rate": 5, "id": "MON1000", "amount": 1500}, {"rate": 10, "id": "SPI1049", "amount": 300}, {"rate": 10, "id": "SPI1050", "amount": 40}, {"rate": 5, "id": "SPI1078", "amount": 3}, {"rate": 5, "id": "SPI1090", "amount": 2}]}
+      ]
+    },
+    {"id": "SPI1135", "name": "Alliance Gift Box Lv.8",
+      "reward": [
+        {"id": "RES1025", "amount": 84000, "gen": []},
+        {"id": "RES1026", "amount": 42000, "gen": []},
+        {"id": "MON1014", "amount": 28000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 1200000}, {"rate": 20, "id": "MON1003", "amount": 500}, {"rate": 10, "id": "MON1000", "amount": 1250}, {"rate": 5, "id": "MON1000", "amount": 2000}, {"rate": 10, "id": "SPI1049", "amount": 360}, {"rate": 10, "id": "SPI1050", "amount": 50}, {"rate": 5, "id": "SPI1078", "amount": 4}, {"rate": 5, "id": "SPI1090", "amount": 3}]}
+      ]
+    },
+    {"id": "SPI1136", "name": "Alliance Gift Box Lv.9",
+      "reward": [
+        {"id": "RES1025", "amount": 230000, "gen": []},
+        {"id": "RES1026", "amount": 120000, "gen": []},
+        {"id": "MON1014", "amount": 80000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 35, "id": "MON1001", "amount": 1300000}, {"rate": 20, "id": "MON1003", "amount": 600}, {"rate": 10, "id": "MON1000", "amount": 1500}, {"rate": 5, "id": "MON1000", "amount": 2500}, {"rate": 10, "id": "SPI1049", "amount": 420}, {"rate": 10, "id": "SPI1050", "amount": 60}, {"rate": 5, "id": "SPI1079", "amount": 1}, {"rate": 5, "id": "SPI1090", "amount": 4}]}
+      ]
+    },
+    {"id": "SPI1137", "name": "Alliance Gift Box Lv.10",
+      "reward": [
+        {"id": "RES1025", "amount": 480000, "gen": []},
+        {"id": "RES1026", "amount": 240000, "gen": []},
+        {"id": "MON1014", "amount": 160000, "gen": []},
+        {"id": "", "amount": 1, "gen": [{"rate": 20, "id": "MON1001", "amount": 3000000}, {"rate": 20, "id": "MON1003", "amount": 2500}, {"rate": 20, "id": "MON1000", "amount": 3000}, {"rate": 20, "id": "SPI1049", "amount": 600}, {"rate": 20, "id": "SPI1050", "amount": 60}]}
+      ]
+    }
+  ]
+}

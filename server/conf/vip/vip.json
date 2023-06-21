@@ -1,0 +1,61 @@
+{
+  "listHonor":
+  [
+    {
+      "id": 0,
+      "name": "Protector's Emblem",
+      "requirement": 0,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1003", "amount": 2}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1004", "amount": 2}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1005", "amount": 2}}
+      ],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 100}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 100}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 100}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 75}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 250}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 4}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 2}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 24}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 4}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 4}},
+        {"desc": "Receive number of friendship hearts per day", "time": "", "reward": {"id": "7", "amount": 10}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":2 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":1 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":2 }}
+      ]
+
+    },
+    {
+      "id": 1,
+      "name": "Archmage's Emblem",
+      "requirement": 0,
+      "rewards_1": [
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1003", "amount": 2}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1004", "amount": 2}},
+        {"desc":"Gift", "time": "", "reward":{"id": "SPI1005", "amount": 2}}],
+      "benefits_1": [
+        {"desc": "AFK Gold +%", "time": "", "reward": {"id": "MON1001", "amount": 45}},
+        {"desc": "AFK Merits +%", "time": "", "reward": {"id": "MON1002", "amount": 45}},
+        {"desc": "AFK Elixir +%", "time": "", "reward": {"id": "MON1003", "amount": 45}}
+      ],
+      "benefits_2": [
+        {"desc": "Max Hero slots (Hero List)", "time": "", "reward":{"id": "0", "amount": 30}},
+        {"desc": "Free diamond (per day) (gift in mail box, expires after 7 days)", "time": "7", "reward":{"id": "1", "amount": 100}},
+        {"desc": "Missions: missions per day", "time": "", "reward": {"id": "2", "amount": 2}},
+        {"desc": "Missions: Free refresh per day", "time": "", "reward": {"id": "3", "amount": 0}},
+        {"desc": "AFK Rewards harvesting time limit (hours)", "time": "", "reward": {"id": "4", "amount": 12}},
+        {"desc": "Treasure Hunt: Hunts per day", "time": "", "reward": {"id": "5", "amount": 2}},
+        {"desc": "Treasure Hunt: Free refresh per day", "time": "", "reward": {"id": "6", "amount": 2}},
+        {"desc": "Receive number of friendship hearts per day", "time": "", "reward": {"id": "7", "amount": 5}},
+        {"desc": "Mercenaries use (per week)", "time": "", "reward": {"id": "8", "amount":1 }},
+        {"desc": "Free Fast Rewards (2 hours time)", "time": "", "reward": {"id": "9", "amount":0 }},
+        {"desc": "\"Free\" battles in Arena", "time": "", "reward": {"id": "10", "amount":1 }}
+      ]
+    }
+  ]
+}

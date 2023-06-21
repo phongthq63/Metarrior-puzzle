@@ -1,0 +1,1914 @@
+{
+  "listAttrStone": [
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 195.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 340.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 580.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1075.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1750.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3100.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 5400.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 9650.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 17000.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 30000.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM100"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 18.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 32.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 55.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 100.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 165.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 295.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 515.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 915.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1625.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2850.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM101"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.075,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.225,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.425,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.675,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.2,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.1,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3.75,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 6.6,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 12.0,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM102"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 8.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 15.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 25.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 45.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 75.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 130.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 225.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 400.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 700.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1250.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM103"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.4,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.7,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3.6,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 6.4,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 11.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 20.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 35.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 60.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM104"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.01,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.015,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.025,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.045,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.075,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.25,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.4,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.75,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM105"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.03,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.05,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.09,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.175,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.275,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.85,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 5.0,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM106"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.875,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.75,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 4.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 8.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 14.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 25.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 45.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 75.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM107"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.01,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.0175,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.03,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.06,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.09,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.3,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.9,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.75,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM108"
+    }
+  ],
+  "listAttrItem": [
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 195.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 340.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 580.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1075.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1750.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3100.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 5400.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 9650.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 17000.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 30000.0,
+              "attr": 0,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM100"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 18.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 32.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 55.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 100.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 165.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 295.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 515.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 915.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1625.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2850.0,
+              "attr": 3,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM101"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.075,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.225,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.425,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.675,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.2,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.1,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3.75,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 6.6,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 12.0,
+              "attr": 7,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM102"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 8.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 15.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 25.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 45.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 75.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 130.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 225.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 400.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 700.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1250.0,
+              "attr": 6,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM103"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.4,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.7,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 3.6,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 6.4,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 11.2,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 20.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 35.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 60.0,
+              "attr": 8,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM104"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.01,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.015,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.025,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.045,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.075,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.25,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.4,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.75,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 13,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM105"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.03,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.05,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.09,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.175,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.275,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.85,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.5,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 5.0,
+              "attr": 14,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM106"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.875,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 2.75,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 4.5,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 8.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 14.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 25.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 45.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 75.0,
+              "attr": 15,
+              "type": 0
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM107"
+    },
+    {
+      "maxLevel": 10,
+      "listLevel": [
+        {
+          "listAttr": [
+            {
+              "param": 0.01,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 1
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.0175,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 2
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.03,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 3
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.06,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 4
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.09,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 5
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.15,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 6
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.3,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 7
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.5,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 8
+        },
+        {
+          "listAttr": [
+            {
+              "param": 0.9,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 9
+        },
+        {
+          "listAttr": [
+            {
+              "param": 1.75,
+              "attr": 12,
+              "type": 1
+            }
+          ],
+          "level": 10
+        }
+      ],
+      "id": "GEM108"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "darkRealm": {
+    "challenge" : [{"id": "MON1001", "amount": 50000}, {"id": "MON1002", "amount": 50000}, {"id": "SOG", "amount": 50}],
+    "solo": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "SOG", "amount": 2000}, {"id": "MEWA", "amount": 1000}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "SOG", "amount": 1000}, {"id": "MEWA", "amount": 800}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "SOG", "amount": 800}, {"id": "MEWA", "amount": 700}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "SOG", "amount": 600}, {"id": "MEWA", "amount": 600}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "SOG", "amount": 500}, {"id": "MEWA", "amount": 500}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "SOG", "amount": 400}, {"id": "MEWA", "amount": 400}]
+      },
+      {
+        "rank": 100,
+        "rewards": [{"id": "SOG", "amount": 300}, {"id": "MEWA", "amount": 300}]
+      },
+      {
+        "rank": 499,
+        "rewards": [{"id": "SOG", "amount": 200}, {"id": "MEWA", "amount": 200}]
+      },
+      {
+        "rank": 999,
+        "rewards": [{"id": "SOG", "amount": 100}, {"id": "MEWA", "amount": 100}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "SOG", "amount": 50}]
+      }
+    ],
+    "alliance": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "SOG", "amount": 500}, {"id": "MEWA", "amount": 500}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "SOG", "amount": 375}, {"id": "MEWA", "amount": 375}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "SOG", "amount": 300}, {"id": "MEWA", "amount": 300}]
+      },
+      {
+        "rank": 4,
+        "rewards": [{"id": "SOG", "amount": 250}, {"id": "MEWA", "amount": 250}]
+      },
+      {
+        "rank": 5,
+        "rewards": [{"id": "SOG", "amount": 200}, {"id": "MEWA", "amount": 200}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "SOG", "amount": 150}, {"id": "MEWA", "amount": 150}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "SOG", "amount": 100}, {"id": "MEWA", "amount": 100}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "SOG", "amount": 50}, {"id": "MEWA", "amount": 50}]
+      },
+      {
+        "rank": 99,
+        "rewards": [{"id": "SOG", "amount": 25}, {"id": "MEWA", "amount": 25}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "SOG", "amount": 20}, {"id": "MEWA", "amount": 20}]
+      }
+    ]
+  },
+  "endlessNights": {
+    "challenge" : [{"id": "MON1001", "amount": 50000}, {"id": "MON1002", "amount": 50000}, {"id": "SOG", "amount": 50}],
+    "solo": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "SOG", "amount": 2000}, {"id": "MEWA", "amount": 1000}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "SOG", "amount": 1000}, {"id": "MEWA", "amount": 800}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "SOG", "amount": 800}, {"id": "MEWA", "amount": 700}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "SOG", "amount": 600}, {"id": "MEWA", "amount": 600}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "SOG", "amount": 500}, {"id": "MEWA", "amount": 500}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "SOG", "amount": 400}, {"id": "MEWA", "amount": 400}]
+      },
+      {
+        "rank": 100,
+        "rewards": [{"id": "SOG", "amount": 300}, {"id": "MEWA", "amount": 300}]
+      },
+      {
+        "rank": 499,
+        "rewards": [{"id": "SOG", "amount": 200}, {"id": "MEWA", "amount": 200}]
+      },
+      {
+        "rank": 999,
+        "rewards": [{"id": "SOG", "amount": 100}, {"id": "MEWA", "amount": 100}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "SOG", "amount": 50}]
+      }
+    ],
+    "alliance": [
+      {
+        "rank": 1,
+        "rewards": [{"id": "SOG", "amount": 500}, {"id": "MEWA", "amount": 500}]
+      },
+      {
+        "rank": 2,
+        "rewards": [{"id": "SOG", "amount": 375}, {"id": "MEWA", "amount": 375}]
+      },
+      {
+        "rank": 3,
+        "rewards": [{"id": "SOG", "amount": 300}, {"id": "MEWA", "amount": 300}]
+      },
+      {
+        "rank": 4,
+        "rewards": [{"id": "SOG", "amount": 250}, {"id": "MEWA", "amount": 250}]
+      },
+      {
+        "rank": 5,
+        "rewards": [{"id": "SOG", "amount": 200}, {"id": "MEWA", "amount": 200}]
+      },
+      {
+        "rank": 10,
+        "rewards": [{"id": "SOG", "amount": 150}, {"id": "MEWA", "amount": 150}]
+      },
+      {
+        "rank": 25,
+        "rewards": [{"id": "SOG", "amount": 100}, {"id": "MEWA", "amount": 100}]
+      },
+      {
+        "rank": 50,
+        "rewards": [{"id": "SOG", "amount": 50}, {"id": "MEWA", "amount": 50}]
+      },
+      {
+        "rank": 99,
+        "rewards": [{"id": "SOG", "amount": 25}, {"id": "MEWA", "amount": 25}]
+      },
+      {
+        "rank": 1000000,
+        "rewards": [{"id": "SOG", "amount": 20}, {"id": "MEWA", "amount": 20}]
+      }
+    ]
+  }
+}

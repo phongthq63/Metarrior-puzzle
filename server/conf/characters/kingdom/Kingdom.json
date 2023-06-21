@@ -1,0 +1,10 @@
+{"listKingdom":[
+    {"id":"K1","name":"Druid", "status": 0},
+    {"id":"K2","name":"Banished","status": 0},
+    {"id":"K3","name":"Dwarf","status": 0},
+    {"id":"K4","name":"Elf","status": 2},
+    {"id":"K5","name":"Human","status": 0},
+    {"id":"K6","name":"Guardian","status": 1},
+    {"id":"K7","name":"Dark","status": 1}
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "list": [
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Wake up, {Player's Name}. We still have quite a long travel ahead of us.\"",
+          "dialog3": "",
+          "dialog2": "Gandaar: \"It has been years since I've traveled to the Druid Kingdom. The roads have changed beyond belief. I hope we're not getting lost.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA001_01",
+      "scene": "Stage 1-1"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "You: \"Gandaar, have you heard anything about the whereabouts of my family?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "You",
+      "active": -1,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA001_02",
+      "scene": "Stage 1-1"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Don't worry too much, I am sure your father has made safe arrangements for your mother and sister.\"",
+          "dialog3": "",
+          "dialog2": "Gandaar: \"We still need to get to the Druid Castle to ensure your safety. Then, I'll tell you more about the events of that night.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA001_03",
+      "scene": "Stage 1-1"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Leif: \"Sir! Looks like we're ambushed!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1040",
+      "name": "Leif",
+      "active": 1,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA001_04",
+      "scene": "Stage 1-1"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Weapons out! They're everywhere!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA001_05",
+      "scene": "Stage 1-1"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Erik: \"I got your back covered!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1040",
+      "name": "Erik",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA001_06",
+      "scene": "Theo KB"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"What's going on around here? Why are there so many dangerous creatures attacking us?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA002_01",
+      "scene": "Stage 1-3"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"This peaceful forest has never been so dangerous throughout all the times I have visited.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA002_02",
+      "scene": "Stage 1-3"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Erik: \"Sir! More of them!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Erik",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA002_03",
+      "scene": "Stage 1-3"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Alright boys, weapons out again! We have to hurry to get to Brynwood, the Druid Castle, before dusk. It's too dangerous around here!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA002_04",
+      "scene": "Stage 1-3"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA003_01",
+      "scene": "Stage 1-6"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"We're coming! Run towards us!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA003_02",
+      "scene": "Stage 1-6"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"Thank you so much for rescuing me. Those monsters just rushed out from the woods.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "Anese",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_01",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Why are there so many monsters in this forest? I don't remember this path being this dangerous when I was here last.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_02",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"I'm not sure myself. I've lived here in this forest with my husband, Ektar, for years! I've never seen monsters like these before!\"",
+          "dialog3": "Anese: \"Please escort me to my cottage to check on my husband.\"",
+          "dialog2": "Anese: \"Oh my gosh! Ektar! He's all alone at our cottage!\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Anese",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_03",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Okay, we can definitely help you. We're actually a little lost trying to find our way to Brynwood ourselves.\"",
+          "dialog3": "",
+          "dialog2": "Gandaar: \"By the way, My Lady, may I ask what your name is?\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_04",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"Silly me! My name is Anese. I'm an herbalist. My husband's name is Ektar. He's the town's healer.\"",
+          "dialog3": "",
+          "dialog2": "Anese: \"And...what are your names?\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Anese",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_05",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"My Lady, my name is Gandaar. I'm originally a Knight from Zion. However, I've settled in Valdurheim for a long time.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Anese",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_06",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Leif: \"M'Lady, my name is Leif. I'm Sir Gandaar's squire.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1018",
+      "name": "Leif",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_07",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Erik: \"My Lady, my name is Erik. I'm also Sir Gandaar's apprentice.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1006",
+      "left": "SAC1018",
+      "name": "Erik",
+      "active": 1,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_08",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "You: \"My Lady, my name is {Player's Name}. It's nice to meet you.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "You",
+      "active": -1,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_09",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"I would love to chat more but let's rush to your cottage and check on your husband before the dusk sets.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA004_10",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"You're absolutely right! We should hurry! I'll show you the way!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Anese",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA004_11",
+      "scene": "Stage 1-7"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"Ektar, my love! Where are you?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "Anese",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA005_01",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"Please help! Monsters are attacking my house!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "Ektar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA005_02",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"Honorable Sir! We're coming! Hold on!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA005_03",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"My love, I'm so glad we got back in time!\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1011",
+      "name": "Anese",
+      "active": 0,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA005_04",
+      "scene": "Stage 1-12\n(map chapter 1, avatar người chơi ở 1-12)"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"I was so happy to hear your voice, my love. I don't think I could have fought off these monsters all by myself.\"",
+          "dialog3": "",
+          "dialog2": "Ektar: \"I was in our garden picking out herbs for my new batch of potions and they ambushed me out of nowhere!\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1011",
+      "name": "Ektar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA005_05",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"I was ambushed as well on the road! If it was not for this wonderful group of travelers, I would have been in trouble myself!\"",
+          "dialog3": "Anese: \"We need to hurry to get to Brynwood.\"",
+          "dialog2": "Anese: \"Let's save our introduction for the road. It's almost dusk. I'm afraid there might be more of these monsters when it gets dark.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1011",
+      "name": "Anese",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA005_06",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"I agree. Let's hurry.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1011",
+      "name": "Ektar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA005_07",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"I have no objection myself.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1040",
+      "name": "Gandaar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA005_08",
+      "scene": "Stage 1-12"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Homer: \"I'm sorry this is a restricted area. What business have you got with King Arathorn?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "Homer",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_01",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"Could you please kindly inform King Arathorn that it's Sir Ektar. I'm one of the village's healer. I'm also an old friend of the King.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1033",
+      "name": "Ektar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_02",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Homer: \"Okay Good Sir, please wait here. I'll be right back.",
+          "dialog3": "Homer: \"Our King has been distraught ever since Princess Lilia has gone missing three days ago.\"",
+          "dialog2": "Homer: \"Sir Ektar and company, please follow me. I'll lead you to King Arathorn.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1033",
+      "name": "Homer",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_03",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"That is horrible! Was she kidnapped or something?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1033",
+      "name": "Ektar",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_04",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "Homer: \"I heard King Arathorn is gathering a group of some of the strongest fighters in Brynnwood\"",
+          "dialog1": "Homer: \"We're not really sure, Sir. The King has sent out many search parties in the last three days.\"",
+          "dialog3": "Homer: \"Some our search parties ventured into the Dark Forest and never returned.\"",
+          "dialog2": "Homer: \"The only clue we've gathered so far is the Princess' trinket near the entrance of the Dark Forest.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1033",
+      "name": "Homer",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_05",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Anese: \"That just sounds terrible...\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1011",
+      "name": "Anese",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1044",
+      "id_dialog": "DIA006_06",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"Sir Ektar! It is so good to see you here!\"",
+          "dialog3": "",
+          "dialog2": "Arathorn: \"I have been receiving reports of unusual monster appearances in our forests and villages. I'm so glad to see you getting here safely.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA006_07",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"King Arathorn, my safety and my wife's safety were heavily dependent on the help of these heroes.\"",
+          "dialog3": "",
+          "dialog2": "Ektar: \"These travelers from Valdurheim aided us in our dire moments. Without them, I don't think Anese and I would have made it here.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Ektar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA006_08",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"Thank you champions. May I ask for your names?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA006_09",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"King Arathorn, my name is Gandaar, Knight of the First Order from Valdurheim. These are my two squires, Leif and Erik. Right next to them is the first-born child of my Master, Grand Sage Orpheus.\"",
+          "dialog3": "",
+          "dialog2": "Gandaar: \"At your service, honorable King.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Gandaar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_10",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Leif: \"Leif, at your service, honorable King.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1041",
+      "name": "Leif",
+      "active": 1,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA006_11",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Erik: \"Erik, at your service, honorable King.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1041",
+      "name": "Erik",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA006_12",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "You: \"My name is {Player's Name}. Thank you for your warm hospitality, honorable King.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1018",
+      "left": "SAC1041",
+      "name": "You",
+      "active": -1,
+      "skip": "Yes",
+      "right": "SAC1006",
+      "id_dialog": "DIA006_13",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"Sir Ektar briefly mentioned that you're from Valdurheim. I have received news of King Andor's attack on the island. Did your group leave before that night?\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1033",
+      "id_dialog": "DIA006_14",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "Gandaar: \"I hope you will accept my Master's request.\"",
+          "dialog4": "Gandaar: \"For my group, Master Orpheus has specifically ordered me to escort our young master, {Player's Name}, to seek asylum under your protection, King Arathorn.\"",
+          "dialog1": "Gandaar: \"Honorable King, Master Orpheus was able to arrange for my group and our young master to escape the island on that same night on a small ship. We had Andor's men on our tails all the way to Wolcroft Harbor.\"",
+          "dialog3": "Gandaar: \"Master Orpheus wanted them to travel to Rath' Nadun to seek protection under the Elven King, King Theoden.\"",
+          "dialog2": "Gandaar: \"Master Orpheus also arranged for his wife and their second-born child to leave on a caravan out of Fort Valor, accompanied by my sworn brother, Samson.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Gandaar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_15",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"Sir Gandaar, Master Orpheus has long been a close friend of mine and has helped my Kingdom on multiple occasions.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_16",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"No, my Lord, I have not heard any news of my Master since that night. I really hope he is alive and well.\"",
+          "dialog3": "",
+          "dialog2": "Gandaar: \"My Lord, I have heard from Palace Guard, Homer, that the Princess has been missing for several days?\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Gandaar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_17",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"Yes, I have grown so worried because of this. I have sent multiple search parties into the Dustclaw Forest but none has returned.\"",
+          "dialog3": "",
+          "dialog2": "Arathorn: \"By tomorrow morning, if there is still no news, I am going to head into the Dustclaw Forest myself to search for my beautiful Lilia.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_18",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"My Lord, to return your kindness, please allow our group to head into the Dustclaw Forest tomorrow to search for the Princess.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Gandaar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_19",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"No...I cannot ask you for such a favor, especially when you've been worn from your long travels.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_20",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Gandaar: \"My Lord, we really insist. For your kindness, it is my duty to serve you as my second Master until I hear of any news from Master Orpheus.\" ",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Gandaar",
+      "active": 2,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_21",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Ektar: \"My wife and I will accompany your group as well Sir Gandaar. I think our potions and concoctions can come in handy in tough situations.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "SAC1033",
+      "left": "SAC1041",
+      "name": "Ektar",
+      "active": 1,
+      "skip": "Yes",
+      "right": "SAC1011",
+      "id_dialog": "DIA006_22",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "You: \"Yes my Lord, we are stronger than we look. It's the least we can do in return for your kindness.\"",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "You",
+      "active": -1,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_23",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "Arathorn: \"...I'm not sure what to say besides an endearing thank you. Sir Gandaar and young Master {Player's Name}, on this day forth, please view this Kingdom as your second home.\"",
+          "dialog3": "",
+          "dialog2": "Arathorn: \"If there is anything to aid your quest, just let me know. For right now, please enjoy a warm meal and a goodnight rest.\""
+        }
+      ],
+      "middle": "",
+      "left": "SAC1041",
+      "name": "Arathorn",
+      "active": 0,
+      "skip": "Yes",
+      "right": "SAC1040",
+      "id_dialog": "DIA006_24",
+      "scene": "Home"
+    },
+    {
+      "dialog": [
+        {
+          "dialog5": "",
+          "dialog4": "",
+          "dialog1": "- A peaceful night settles on Brynwood -",
+          "dialog3": "",
+          "dialog2": ""
+        }
+      ],
+      "middle": "",
+      "left": "",
+      "name": "",
+      "active": -1,
+      "skip": "Yes",
+      "right": "",
+      "id_dialog": "DIA006_25",
+      "scene": "Home"
+    }
+  ]
+}

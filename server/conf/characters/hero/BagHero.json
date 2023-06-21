@@ -1,0 +1,21 @@
+{
+  "start": 75,
+  "increatePer": 5,
+  "list": [
+    {
+      "count": 1,
+      "cost": {"id": "SOG", "amount": 100}},
+    {
+      "count": 2,
+      "cost": {"id": "SOG", "amount": 100}},
+    {
+      "count": 3,
+      "cost": {"id": "SOG", "amount": 200}},
+    {
+      "count": 4,
+      "cost": {"id": "SOG", "amount": 200}},
+    {
+      "count": 5,
+      "cost": {"id": "SOG", "amount": 300}}
+  ]
+}

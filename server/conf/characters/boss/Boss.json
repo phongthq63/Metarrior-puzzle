@@ -1,0 +1,9 @@
+{
+  "listBoss":[
+    {"id": "2001",
+      "name": "asdasdasd",
+      "hp": 1, "physicalDmg": 1, "magicDmg": 1, "acc": 1, "physicalResist": 1, "magicResist": 1, "speed": 1, "crit": 1, "critDmg": 2, "armorPenetration":  1, "magicPenetration": 1, "resistance": 1, "dodge": 1,
+      "skills":["T1018S2","T1018S2","T1018S2","T1018S2"]
+    }
+  ]
+}

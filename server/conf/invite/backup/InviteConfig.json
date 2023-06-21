@@ -1,0 +1,20 @@
+{
+  "invited": [{"id": "MON1000", "amount": 1500}],
+  "list": [
+    {"id": "Starter",
+      "desription": "Refer [0] friend to receive [1][2]",
+      "reward": "reward-invite",
+      "rewardCondition": "invite"
+    },
+    {"id": "Champion",
+      "description": "Have [0] friends link their accounts to receive [1][2]",
+      "reward": "reward-link",
+      "rewardCondition": "link-account"
+    },
+    {"id": "Ultimate",
+      "description": "Have [0] friends reach sage level 50 to receive [1][2]",
+      "reward": "reward-level-50",
+      "rewardCondition": "lever-50"
+    }
+  ]
+}

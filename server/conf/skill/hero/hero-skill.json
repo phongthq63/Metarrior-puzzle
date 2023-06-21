@@ -1,0 +1,1557 @@
+{
+  "list": [
+    {
+      "id": "T1000S2",
+      "type": 1,
+      "name": ""
+    },
+    {
+      "id": "T1000S3",
+      "type": 1,
+      "name": ""
+    },
+    {
+      "id": "T1000S4",
+      "type": 1,
+      "name": ""
+    },
+    {
+      "id": "T1001S1",
+      "type": 0,
+      "name": "Terra's Aegis"
+    },
+    {
+      "id": "T1001S2",
+      "type": 1,
+      "name": "Boulder Smash"
+    },
+    {
+      "id": "T1001S3",
+      "type": 1,
+      "name": "Searing Fissure"
+    },
+    {
+      "id": "T1001S4",
+      "type": 1,
+      "name": "Armageddon"
+    },
+    {
+      "id": "T1004S1",
+      "type": 0,
+      "name": "Baltic Strength"
+    },
+    {
+      "id": "T1004S2",
+      "type": 1,
+      "name": "Strong Slash"
+    },
+    {
+      "id": "T1004S3",
+      "type": 1,
+      "name": "Dagger Dash"
+    },
+    {
+      "id": "T1004S4",
+      "type": 1,
+      "name": "Wild daggers"
+    },
+    {
+      "id": "T1005S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1005S2",
+      "type": 1,
+      "name": "Wild Slash"
+    },
+    {
+      "id": "T1005S3",
+      "type": 1,
+      "name": "Furious Smash"
+    },
+    {
+      "id": "T1005S4",
+      "type": 1,
+      "name": "Arcing Slice"
+    },
+    {
+      "id": "T1006S1",
+      "type": 0,
+      "name": "Avilian Strength"
+    },
+    {
+      "id": "T1006S2",
+      "type": 1,
+      "name": "Single Shot"
+    },
+    {
+      "id": "T1006S3",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "T1006S4",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "T1007S1",
+      "type": 0,
+      "name": "Druid Intellect"
+    },
+    {
+      "id": "T1007S2",
+      "type": 1,
+      "name": "Nature's Strike"
+    },
+    {
+      "id": "T1007S3",
+      "type": 1,
+      "name": "Forest Surge"
+    },
+    {
+      "id": "T1007S4",
+      "type": 1,
+      "name": "Vengeful Spikes"
+    },
+    {
+      "id": "T1008S1",
+      "type": 0,
+      "name": "Druid Strength"
+    },
+    {
+      "id": "T1008S2",
+      "type": 1,
+      "name": "Single Shot"
+    },
+    {
+      "id": "T1008S3",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "T1008S4",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "T1009S1",
+      "type": 0,
+      "name": "Baltic Strength"
+    },
+    {
+      "id": "T1009S2",
+      "type": 1,
+      "name": "Focused Slash"
+    },
+    {
+      "id": "T1009S3",
+      "type": 1,
+      "name": "Deadly Strike"
+    },
+    {
+      "id": "T1009S4",
+      "type": 1,
+      "name": "Flurry"
+    },
+    {
+      "id": "T1011S1",
+      "type": 0,
+      "name": "Coriander Constitute"
+    },
+    {
+      "id": "T1011S2",
+      "type": 1,
+      "name": "Mustard Muddle"
+    },
+    {
+      "id": "T1011S3",
+      "type": 1,
+      "name": "Paprika Power"
+    },
+    {
+      "id": "T1011S4",
+      "type": 1,
+      "name": "Nutmeg Nestle"
+    },
+    {
+      "id": "T1012S1",
+      "type": 0,
+      "name": "Dirty Bullet"
+    },
+    {
+      "id": "T1012S2",
+      "type": 1,
+      "name": "Rapid Fire"
+    },
+    {
+      "id": "T1012S3",
+      "type": 1,
+      "name": "Barrage"
+    },
+    {
+      "id": "T1012S4",
+      "type": 1,
+      "name": "The Big Kahuna"
+    },
+    {
+      "id": "T1013S1",
+      "type": 0,
+      "name": "Electrified Sharpnel"
+    },
+    {
+      "id": "T1013S2",
+      "type": 1,
+      "name": "Ka-boom"
+    },
+    {
+      "id": "T1013S3",
+      "type": 1,
+      "name": "Cluster Bomb"
+    },
+    {
+      "id": "T1013S4",
+      "type": 1,
+      "name": "Detonate"
+    },
+    {
+      "id": "T1014S1",
+      "type": 0,
+      "name": "Ogre Fortitute"
+    },
+    {
+      "id": "T1014S2",
+      "type": 1,
+      "name": "Skull Crusher"
+    },
+    {
+      "id": "T1014S3",
+      "type": 1,
+      "name": "Seismic Slam"
+    },
+    {
+      "id": "T1014S4",
+      "type": 1,
+      "name": "Vicious Shout"
+    },
+    {
+      "id": "T1015S1",
+      "type": 0,
+      "name": "Mighty Shield"
+    },
+    {
+      "id": "T1015S2",
+      "type": 1,
+      "name": "Shield Bash"
+    },
+    {
+      "id": "T1015S3",
+      "type": 1,
+      "name": "Vicious Slash"
+    },
+    {
+      "id": "T1015S4",
+      "type": 1,
+      "name": "Undaunted Charge"
+    },
+    {
+      "id": "T1017S1",
+      "type": 0,
+      "name": "Druid Strength"
+    },
+    {
+      "id": "T1017S2",
+      "type": 1,
+      "name": "Thrust"
+    },
+    {
+      "id": "T1017S3",
+      "type": 1,
+      "name": "Lunge"
+    },
+    {
+      "id": "T1017S4",
+      "type": 1,
+      "name": "Penetrating Spears"
+    },
+    {
+      "id": "T1018S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1018S2",
+      "type": 1,
+      "name": "Forceful Swipe"
+    },
+    {
+      "id": "T1018S3",
+      "type": 1,
+      "name": "Ice Force"
+    },
+    {
+      "id": "T1018S4",
+      "type": 1,
+      "name": "Blistering Strike"
+    },
+    {
+      "id": "T1020S1",
+      "type": 0,
+      "name": "Reckoning"
+    },
+    {
+      "id": "T1020S2",
+      "type": 1,
+      "name": "Pyromancy"
+    },
+    {
+      "id": "T1020S3",
+      "type": 1,
+      "name": "Flame Burst"
+    },
+    {
+      "id": "T1020S4",
+      "type": 1,
+      "name": "Ragnarok"
+    },
+    {
+      "id": "T1021S1",
+      "type": 0,
+      "name": "Druid Intellect"
+    },
+    {
+      "id": "T1021S2",
+      "type": 1,
+      "name": "Potion Magic"
+    },
+    {
+      "id": "T1021S3",
+      "type": 1,
+      "name": "Poison Burst"
+    },
+    {
+      "id": "T1021S4",
+      "type": 1,
+      "name": "Forest Fury"
+    },
+    {
+      "id": "T1022S1",
+      "type": 0,
+      "name": "Soul Piercer"
+    },
+    {
+      "id": "T1022S2",
+      "type": 1,
+      "name": "Radiant Arrows"
+    },
+    {
+      "id": "T1022S3",
+      "type": 1,
+      "name": "Soul Barrage"
+    },
+    {
+      "id": "T1022S4",
+      "type": 1,
+      "name": "Tempest"
+    },
+    {
+      "id": "T1023S1",
+      "type": 0,
+      "name": "Heart Piercer"
+    },
+    {
+      "id": "T1023S2",
+      "type": 1,
+      "name": "Penetrating Arrows"
+    },
+    {
+      "id": "T1023S3",
+      "type": 1,
+      "name": "Swift Shots"
+    },
+    {
+      "id": "T1023S4",
+      "type": 1,
+      "name": "Rain of Arrows"
+    },
+    {
+      "id": "T1024S1",
+      "type": 0,
+      "name": "Baltic Strength"
+    },
+    {
+      "id": "T1024S2",
+      "type": 1,
+      "name": "Ground Smash"
+    },
+    {
+      "id": "T1024S3",
+      "type": 1,
+      "name": "Axe Toss"
+    },
+    {
+      "id": "T1024S4",
+      "type": 1,
+      "name": "Vicious Charge"
+    },
+    {
+      "id": "T1025S1",
+      "type": 0,
+      "name": "Divine Protection"
+    },
+    {
+      "id": "T1025S2",
+      "type": 1,
+      "name": "Holy Strike"
+    },
+    {
+      "id": "T1025S3",
+      "type": 1,
+      "name": "Rejuvenate"
+    },
+    {
+      "id": "T1025S4",
+      "type": 1,
+      "name": "Retribution"
+    },
+    {
+      "id": "T1026S1",
+      "type": 0,
+      "name": "Rhea's Blessings"
+    },
+    {
+      "id": "T1026S2",
+      "type": 1,
+      "name": "Siphoning Strike"
+    },
+    {
+      "id": "T1026S3",
+      "type": 1,
+      "name": "Rejuvenation"
+    },
+    {
+      "id": "T1026S4",
+      "type": 1,
+      "name": "Force of Nature"
+    },
+    {
+      "id": "T1027S1",
+      "type": 0,
+      "name": "Baltic Strength"
+    },
+    {
+      "id": "T1027S2",
+      "type": 1,
+      "name": "Single Shot"
+    },
+    {
+      "id": "T1027S3",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "T1027S4",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "T1028S1",
+      "type": 0,
+      "name": "Purify"
+    },
+    {
+      "id": "T1028S2",
+      "type": 1,
+      "name": "Plastering Shards"
+    },
+    {
+      "id": "T1028S3",
+      "type": 1,
+      "name": "Rejuvenate"
+    },
+    {
+      "id": "T1028S4",
+      "type": 1,
+      "name": "Noxious Blast"
+    },
+    {
+      "id": "T1029S1",
+      "type": 0,
+      "name": "Baltic Wisdom"
+    },
+    {
+      "id": "T1029S2",
+      "type": 1,
+      "name": "Heal"
+    },
+    {
+      "id": "T1029S3",
+      "type": 1,
+      "name": "Restoration"
+    },
+    {
+      "id": "T1029S4",
+      "type": 1,
+      "name": "Shelter"
+    },
+    {
+      "id": "T1031S1",
+      "type": 0,
+      "name": "Bottomless Pit"
+    },
+    {
+      "id": "T1031S2",
+      "type": 1,
+      "name": "Meat Cleaver"
+    },
+    {
+      "id": "T1031S3",
+      "type": 1,
+      "name": "Exploding Shallots"
+    },
+    {
+      "id": "T1031S4",
+      "type": 1,
+      "name": "Onion Breath"
+    },
+    {
+      "id": "T1033S1",
+      "type": 0,
+      "name": "Resurrection"
+    },
+    {
+      "id": "T1033S2",
+      "type": 1,
+      "name": "Nature's Elixir"
+    },
+    {
+      "id": "T1033S3",
+      "type": 1,
+      "name": "Ether Strike"
+    },
+    {
+      "id": "T1033S4",
+      "type": 1,
+      "name": "Life Bloom"
+    },
+    {
+      "id": "T1034S1",
+      "type": 0,
+      "name": "Gaia's Fury"
+    },
+    {
+      "id": "T1034S2",
+      "type": 1,
+      "name": "Nature's Veil"
+    },
+    {
+      "id": "T1034S3",
+      "type": 1,
+      "name": "Mind Corruption"
+    },
+    {
+      "id": "T1034S4",
+      "type": 1,
+      "name": "Quagmire"
+    },
+    {
+      "id": "T1036S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1036S2",
+      "type": 1,
+      "name": "Crushing Blow"
+    },
+    {
+      "id": "T1036S3",
+      "type": 1,
+      "name": "Cyclone Axes"
+    },
+    {
+      "id": "T1036S4",
+      "type": 1,
+      "name": "Noxious Slam"
+    },
+    {
+      "id": "T1037S1",
+      "type": 0,
+      "name": "Thor's Binding"
+    },
+    {
+      "id": "T1037S2",
+      "type": 1,
+      "name": "Electric Discharge"
+    },
+    {
+      "id": "T1037S3",
+      "type": 1,
+      "name": "Lightning Surge"
+    },
+    {
+      "id": "T1037S4",
+      "type": 1,
+      "name": "Thunderstorm"
+    },
+    {
+      "id": "T1038S1",
+      "type": 0,
+      "name": "Volcanic Veil"
+    },
+    {
+      "id": "T1038S2",
+      "type": 1,
+      "name": "Incinerate"
+    },
+    {
+      "id": "T1038S3",
+      "type": 1,
+      "name": "Immolate"
+    },
+    {
+      "id": "T1038S4",
+      "type": 1,
+      "name": "Inferno"
+    },
+    {
+      "id": "T1039S1",
+      "type": 0,
+      "name": "Freezing Touch"
+    },
+    {
+      "id": "T1039S2",
+      "type": 1,
+      "name": "Icy Shards"
+    },
+    {
+      "id": "T1039S3",
+      "type": 1,
+      "name": "Frozen Ground"
+    },
+    {
+      "id": "T1039S4",
+      "type": 1,
+      "name": "Blizzard"
+    },
+    {
+      "id": "T1040S1",
+      "type": 0,
+      "name": "Parley"
+    },
+    {
+      "id": "T1040S2",
+      "type": 1,
+      "name": "Upheave"
+    },
+    {
+      "id": "T1040S3",
+      "type": 1,
+      "name": "Shattering Strikes"
+    },
+    {
+      "id": "T1040S4",
+      "type": 1,
+      "name": "Blade of Justice"
+    },
+    {
+      "id": "T1041S1",
+      "type": 0,
+      "name": "Druantia's Curse"
+    },
+    {
+      "id": "T1041S2",
+      "type": 1,
+      "name": "Soul Tap"
+    },
+    {
+      "id": "T1041S3",
+      "type": 1,
+      "name": "Cosmos Blast"
+    },
+    {
+      "id": "T1041S4",
+      "type": 1,
+      "name": "Rapture"
+    },
+    {
+      "id": "T1042S1",
+      "type": 0,
+      "name": "Armor Shredder"
+    },
+    {
+      "id": "T1042S2",
+      "type": 1,
+      "name": "Vengeful Strike"
+    },
+    {
+      "id": "T1042S3",
+      "type": 1,
+      "name": "Blade Dance"
+    },
+    {
+      "id": "T1042S4",
+      "type": 1,
+      "name": "Vicious Assault"
+    },
+    {
+      "id": "T1043S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1043S2",
+      "type": 1,
+      "name": "Pommel Bash"
+    },
+    {
+      "id": "T1043S3",
+      "type": 1,
+      "name": "Mace Smash"
+    },
+    {
+      "id": "T1043S4",
+      "type": 1,
+      "name": "Shattering Blow"
+    },
+    {
+      "id": "T1044S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1044S2",
+      "type": 1,
+      "name": "Dazzling Smash"
+    },
+    {
+      "id": "T1044S3",
+      "type": 1,
+      "name": "Shield Bash"
+    },
+    {
+      "id": "T1044S4",
+      "type": 1,
+      "name": "Sundering Strike"
+    },
+    {
+      "id": "T1045S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1045S2",
+      "type": 1,
+      "name": "Iron Smash"
+    },
+    {
+      "id": "T1045S3",
+      "type": 1,
+      "name": "Charge"
+    },
+    {
+      "id": "T1045S4",
+      "type": 1,
+      "name": "Sundering Strike"
+    },
+    {
+      "id": "T1046S1",
+      "type": 0,
+      "name": "Dwarven Intellect"
+    },
+    {
+      "id": "T1046S2",
+      "type": 1,
+      "name": "Slash"
+    },
+    {
+      "id": "T1046S3",
+      "type": 1,
+      "name": "Heal"
+    },
+    {
+      "id": "T1046S4",
+      "type": 1,
+      "name": "Ignite"
+    },
+    {
+      "id": "T1047S1",
+      "type": 0,
+      "name": "Dwarven Strength"
+    },
+    {
+      "id": "T1047S2",
+      "type": 1,
+      "name": "Single Shot"
+    },
+    {
+      "id": "T1047S3",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "T1047S4",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "T1048S1",
+      "type": 0,
+      "name": "Fire's Fury"
+    },
+    {
+      "id": "T1048S2",
+      "type": 1,
+      "name": "Fire Strike"
+    },
+    {
+      "id": "T1048S3",
+      "type": 1,
+      "name": "Fire Blaze"
+    },
+    {
+      "id": "T1048S4",
+      "type": 1,
+      "name": "Fire Storm"
+    },
+    {
+      "id": "T1049S1",
+      "type": 0,
+      "name": "Dwarven Strength"
+    },
+    {
+      "id": "T1049S2",
+      "type": 1,
+      "name": "Giant Slice"
+    },
+    {
+      "id": "T1049S3",
+      "type": 1,
+      "name": "Wild Axes"
+    },
+    {
+      "id": "T1049S4",
+      "type": 1,
+      "name": "Sundering Smash"
+    },
+    {
+      "id": "T1050S1",
+      "type": 0,
+      "name": "Disorientating Strikes"
+    },
+    {
+      "id": "T1050S2",
+      "type": 1,
+      "name": "Furious Smash"
+    },
+    {
+      "id": "T1050S3",
+      "type": 1,
+      "name": "Fierce Strike"
+    },
+    {
+      "id": "T1050S4",
+      "type": 1,
+      "name": "Magnetic Smash"
+    },
+    {
+      "id": "T1051S1",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "T1051S2",
+      "type": 1,
+      "name": "Take Aim"
+    },
+    {
+      "id": "T1051S3",
+      "type": 1,
+      "name": "Smoke Barrage"
+    },
+    {
+      "id": "T1051S4",
+      "type": 1,
+      "name": "Head Shot"
+    },
+    {
+      "id": "T1052S1",
+      "type": 0,
+      "name": "Armor Shredder"
+    },
+    {
+      "id": "T1052S2",
+      "type": 1,
+      "name": "Piercing Shot"
+    },
+    {
+      "id": "T1052S3",
+      "type": 1,
+      "name": "Shadow Barrage"
+    },
+    {
+      "id": "T1052S4",
+      "type": 1,
+      "name": "Perforating Burst"
+    },
+    {
+      "id": "T1053S1",
+      "type": 0,
+      "name": "Riposte"
+    },
+    {
+      "id": "T1053S2",
+      "type": 1,
+      "name": "Cleave"
+    },
+    {
+      "id": "T1053S3",
+      "type": 1,
+      "name": "Dismember"
+    },
+    {
+      "id": "T1053S4",
+      "type": 1,
+      "name": "Renegade"
+    },
+    {
+      "id": "T1055S1",
+      "type": 0,
+      "name": "Purify"
+    },
+    {
+      "id": "T1055S2",
+      "type": 1,
+      "name": "Smite"
+    },
+    {
+      "id": "T1055S3",
+      "type": 1,
+      "name": "Faith's Aura"
+    },
+    {
+      "id": "T1055S4",
+      "type": 1,
+      "name": "Rejuvenating Respite"
+    },
+    {
+      "id": "T1057S1",
+      "type": 0,
+      "name": "Reckoning"
+    },
+    {
+      "id": "T1057S2",
+      "type": 1,
+      "name": "Updraft"
+    },
+    {
+      "id": "T1057S3",
+      "type": 1,
+      "name": "Fracturing Strike"
+    },
+    {
+      "id": "T1057S4",
+      "type": 1,
+      "name": "Pulverize"
+    },
+    {
+      "id": "S1001",
+      "type": 0,
+      "name": "Protector's Fortitude",
+      "group": "G1"
+    },
+    {
+      "id": "S1002",
+      "type": 0,
+      "name": "Protector's Fortitude",
+      "group": "G1"
+    },
+    {
+      "id": "S1003",
+      "type": 0,
+      "name": "Magic resistance",
+      "group": "G2"
+    },
+    {
+      "id": "S1005",
+      "type": 0,
+      "name": "Reckoning Strength",
+      "group": "G2"
+    },
+    {
+      "id": "S1006",
+      "type": 0,
+      "name": "Reckoning Wisdom",
+      "group": "G2"
+    },
+    {
+      "id": "S1007",
+      "type": 0,
+      "name": "Soul Piercer",
+      "group": "G2"
+    },
+    {
+      "id": "S1008",
+      "type": 0,
+      "name": "Armor Shredder",
+      "group": "G2"
+    },
+    {
+      "id": "S1009",
+      "type": 0,
+      "name": "Life Bloom",
+      "group": "G2"
+    },
+    {
+      "id": "S1010",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "S1011",
+      "type": 0,
+      "name": "Riposte"
+    },
+    {
+      "id": "S1012",
+      "type": 0,
+      "name": "Resurrection"
+    },
+    {
+      "id": "S1013",
+      "type": 0,
+      "name": "Rhea's Blessings"
+    },
+    {
+      "id": "S1014",
+      "type": 0,
+      "name": "Reckoning"
+    },
+    {
+      "id": "S1015",
+      "type": 0,
+      "name": "Reckoning"
+    },
+    {
+      "id": "S1016",
+      "type": 0,
+      "name": "Armor Shredder"
+    },
+    {
+      "id": "S1017",
+      "type": 0,
+      "name": "Protector's Fortitude"
+    },
+    {
+      "id": "S1018",
+      "type": 0,
+      "name": "Parley"
+    },
+    {
+      "id": "S1019",
+      "type": 0,
+      "name": "Mighty Shield"
+    },
+    {
+      "id": "S1020",
+      "type": 0,
+      "name": "Purify"
+    },
+    {
+      "id": "S1021",
+      "type": 0,
+      "name": "Fire's Fury"
+    },
+    {
+      "id": "S1022",
+      "type": 0,
+      "name": "Freezing Touch"
+    },
+    {
+      "id": "S1023",
+      "type": 0,
+      "name": "Thor's Binding"
+    },
+    {
+      "id": "S1024",
+      "type": 0,
+      "name": "Mighty Shield"
+    },
+    {
+      "id": "S1025",
+      "type": 0,
+      "name": "Gaia's Fury"
+    },
+    {
+      "id": "S2000",
+      "type": 1,
+      "name": "Charge"
+    },
+    {
+      "id": "S2001",
+      "type": 1,
+      "name": "Sundering Strike"
+    },
+    {
+      "id": "S2002",
+      "type": 1,
+      "name": "Wild Axes"
+    },
+    {
+      "id": "S2003",
+      "type": 1,
+      "name": "Sundering Smash"
+    },
+    {
+      "id": "S2004",
+      "type": 1,
+      "name": "Smoke Barrage"
+    },
+    {
+      "id": "S2005",
+      "type": 1,
+      "name": "Head Shot"
+    },
+    {
+      "id": "S2006",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "S2007",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "S2008",
+      "type": 1,
+      "name": "Shield Bash"
+    },
+    {
+      "id": "S2009",
+      "type": 1,
+      "name": "Sundering Strike"
+    },
+    {
+      "id": "S2010",
+      "type": 1,
+      "name": "Cyclone Axes"
+    },
+    {
+      "id": "S2011",
+      "type": 1,
+      "name": "Noxious Slam"
+    },
+    {
+      "id": "S2012",
+      "type": 1,
+      "name": "Axe Toss"
+    },
+    {
+      "id": "S2013",
+      "type": 1,
+      "name": "Vicious Charge"
+    },
+    {
+      "id": "S2014",
+      "type": 1,
+      "name": "Furious Smash"
+    },
+    {
+      "id": "S2015",
+      "type": 1,
+      "name": "Arcing Slice"
+    },
+    {
+      "id": "S2016",
+      "type": 1,
+      "name": "Mace Smash"
+    },
+    {
+      "id": "S2017",
+      "type": 1,
+      "name": "Shattering Blow"
+    },
+    {
+      "id": "S2018",
+      "type": 1,
+      "name": "Exploding Shallots"
+    },
+    {
+      "id": "S2019",
+      "type": 1,
+      "name": "Onion Breath"
+    },
+    {
+      "id": "S2020",
+      "type": 1,
+      "name": "Seismic Slam"
+    },
+    {
+      "id": "S2021",
+      "type": 1,
+      "name": "Vicious Shout"
+    },
+    {
+      "id": "S2022",
+      "type": 1,
+      "name": "Ice Force"
+    },
+    {
+      "id": "S2023",
+      "type": 1,
+      "name": "Blistering Strike"
+    },
+    {
+      "id": "S2024",
+      "type": 1,
+      "name": "Shattering Strikes"
+    },
+    {
+      "id": "S2025",
+      "type": 1,
+      "name": "Blade of Justice"
+    },
+    {
+      "id": "S2026",
+      "type": 1,
+      "name": "Rejuvenate"
+    },
+    {
+      "id": "S2027",
+      "type": 1,
+      "name": "Retribution"
+    },
+    {
+      "id": "S2028",
+      "type": 1,
+      "name": "Immolate"
+    },
+    {
+      "id": "S2029",
+      "type": 1,
+      "name": "Inferno"
+    },
+    {
+      "id": "S2030",
+      "type": 1,
+      "name": "Searing Fissure"
+    },
+    {
+      "id": "S2031",
+      "type": 1,
+      "name": "Armageddon"
+    },
+    {
+      "id": "S2092",
+      "type": 1,
+      "name": "Vicious Slash"
+    },
+    {
+      "id": "S2093",
+      "type": 1,
+      "name": "Undaunted Charge"
+    },
+    {
+      "id": "S2032",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "S2033",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "S2034",
+      "type": 1,
+      "name": "Fierce Strike"
+    },
+    {
+      "id": "S2035",
+      "type": 1,
+      "name": "Magnetic Smash"
+    },
+    {
+      "id": "S2036",
+      "type": 1,
+      "name": "Shadow Barrage"
+    },
+    {
+      "id": "S2037",
+      "type": 1,
+      "name": "Perforating Burst"
+    },
+    {
+      "id": "S2038",
+      "type": 1,
+      "name": "Dismember"
+    },
+    {
+      "id": "S2039",
+      "type": 1,
+      "name": "Renegade"
+    },
+    {
+      "id": "S2040",
+      "type": 1,
+      "name": "Lunge"
+    },
+    {
+      "id": "S2041",
+      "type": 1,
+      "name": "Penetrating Spears"
+    },
+    {
+      "id": "S2042",
+      "type": 1,
+      "name": "Soul Barrage"
+    },
+    {
+      "id": "S2043",
+      "type": 1,
+      "name": "Tempest"
+    },
+    {
+      "id": "S2044",
+      "type": 1,
+      "name": "Swift Shots"
+    },
+    {
+      "id": "S2045",
+      "type": 1,
+      "name": "Rain of Arrows"
+    },
+    {
+      "id": "S2046",
+      "type": 1,
+      "name": "Dagger Dash"
+    },
+    {
+      "id": "S2047",
+      "type": 1,
+      "name": "Wild daggers"
+    },
+    {
+      "id": "S2048",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "S2049",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "S2050",
+      "type": 1,
+      "name": "Deadly Strike"
+    },
+    {
+      "id": "S2051",
+      "type": 1,
+      "name": "Flurry"
+    },
+    {
+      "id": "S2052",
+      "type": 1,
+      "name": "Cluster Bomb"
+    },
+    {
+      "id": "S2053",
+      "type": 1,
+      "name": "Detonate"
+    },
+    {
+      "id": "S2054",
+      "type": 1,
+      "name": "Barrage"
+    },
+    {
+      "id": "S2055",
+      "type": 1,
+      "name": "The Big Kahuna"
+    },
+    {
+      "id": "S2056",
+      "type": 1,
+      "name": "Blade Dance"
+    },
+    {
+      "id": "S2057",
+      "type": 1,
+      "name": "Vicious Assault"
+    },
+    {
+      "id": "S2058",
+      "type": 1,
+      "name": "Multi-shot"
+    },
+    {
+      "id": "S2059",
+      "type": 1,
+      "name": "Arrow Volley"
+    },
+    {
+      "id": "S2060",
+      "type": 1,
+      "name": "Heal"
+    },
+    {
+      "id": "S2061",
+      "type": 1,
+      "name": "Ignite"
+    },
+    {
+      "id": "S2062",
+      "type": 1,
+      "name": "Fire Blaze"
+    },
+    {
+      "id": "S2063",
+      "type": 1,
+      "name": "Fire Storm"
+    },
+    {
+      "id": "S2064",
+      "type": 1,
+      "name": "Flame Burst"
+    },
+    {
+      "id": "S2065",
+      "type": 1,
+      "name": "Ragnarok"
+    },
+    {
+      "id": "S2066",
+      "type": 1,
+      "name": "Faith's Aura"
+    },
+    {
+      "id": "S2067",
+      "type": 1,
+      "name": "Rejuvenating Respite"
+    },
+    {
+      "id": "S2068",
+      "type": 1,
+      "name": "Poison Burst"
+    },
+    {
+      "id": "S2069",
+      "type": 1,
+      "name": "Forest Fury"
+    },
+    {
+      "id": "S2070",
+      "type": 1,
+      "name": "Forest Surge"
+    },
+    {
+      "id": "S2071",
+      "type": 1,
+      "name": "Vengeful Spikes"
+    },
+    {
+      "id": "S2072",
+      "type": 1,
+      "name": "Paprika Power"
+    },
+    {
+      "id": "S2073",
+      "type": 1,
+      "name": "Nutmeg Nestle"
+    },
+    {
+      "id": "S2074",
+      "type": 1,
+      "name": "Ether Strike"
+    },
+    {
+      "id": "S2075",
+      "type": 1,
+      "name": "Life Bloom"
+    },
+    {
+      "id": "S2076",
+      "type": 1,
+      "name": "Rejuvenation"
+    },
+    {
+      "id": "S2077",
+      "type": 1,
+      "name": "Force of Nature"
+    },
+    {
+      "id": "S2078",
+      "type": 1,
+      "name": "Cosmos Blast"
+    },
+    {
+      "id": "S2079",
+      "type": 1,
+      "name": "Rapture"
+    },
+    {
+      "id": "S2080",
+      "type": 1,
+      "name": "Mind Corruption"
+    },
+    {
+      "id": "S2081",
+      "type": 1,
+      "name": "Quagmire"
+    },
+    {
+      "id": "S2082",
+      "type": 1,
+      "name": "Restoration"
+    },
+    {
+      "id": "S2083",
+      "type": 1,
+      "name": "Shelter"
+    },
+    {
+      "id": "S2084",
+      "type": 1,
+      "name": "Fracturing Strike"
+    },
+    {
+      "id": "S2085",
+      "type": 1,
+      "name": "Pulverize"
+    },
+    {
+      "id": "S2086",
+      "type": 1,
+      "name": "Rejuvenate"
+    },
+    {
+      "id": "S2087",
+      "type": 1,
+      "name": "Noxious Blast"
+    },
+    {
+      "id": "S2088",
+      "type": 1,
+      "name": "Frozen Ground"
+    },
+    {
+      "id": "S2089",
+      "type": 1,
+      "name": "Blizzard"
+    },
+    {
+      "id": "S2090",
+      "type": 1,
+      "name": "Lightning Surge"
+    },
+    {
+      "id": "S2091",
+      "type": 1,
+      "name": "Armageddon"
+    }
+  ]
+}

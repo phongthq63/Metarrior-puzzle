@@ -1,0 +1,153 @@
+{
+  "listMBoss": [
+    {
+      "id": "MBS1000",
+      "name": "Gargoyle",
+      "star": 0,
+      "health": 18500.0,
+      "strength": 1375.0,
+      "intelligence": 275.0,
+      "dexterity": 76.0,
+      "armor": 625.0,
+      "magicResistance": 355.0,
+      "agility": 66.0,
+      "crit": 4.0,
+      "critBonus": 5.45,
+      "armorPenetration": 2.0,
+      "magicPenetration": 2.0,
+      "tenacity": 88.0,
+      "elusiveness": 192.0,
+      "skills": [
+        "MBS1000S1",
+        "MBS1000S2",
+        "MBS1000S3",
+        "MBS1000S4"
+      ]
+    },
+    {
+      "id": "MBS1001",
+      "name": "Wraith Master",
+      "star": 0,
+      "health": 17000.0,
+      "strength": 925.0,
+      "intelligence": 975.0,
+      "dexterity": 76.0,
+      "armor": 525.0,
+      "magicResistance": 575.0,
+      "agility": 82.0,
+      "crit": 4.0,
+      "critBonus": 5.45,
+      "armorPenetration": 2.0,
+      "magicPenetration": 2.0,
+      "tenacity": 86.0,
+      "elusiveness": 212.0,
+      "skills": [
+        "MBS1000S1",
+        "MBS1001S2",
+        "MBS1001S3",
+        "MBS1001S4"
+      ]
+    },
+    {
+      "id": "MBS1002",
+      "name": "Necromancer",
+      "star": 0,
+      "health": 17500.0,
+      "strength": 255.0,
+      "intelligence": 1425.0,
+      "dexterity": 76.0,
+      "armor": 425.0,
+      "magicResistance": 725.0,
+      "agility": 74.0,
+      "crit": 4.0,
+      "critBonus": 5.45,
+      "armorPenetration": 2.0,
+      "magicPenetration": 2.0,
+      "tenacity": 82.0,
+      "elusiveness": 204.0,
+      "skills": [
+        "MBS1002S1",
+        "MBS1002S2",
+        "MBS1002S3",
+        "MBS1002S4"
+      ]
+    },
+    {
+      "id": "MBS1003",
+      "name": "Evil Ektar",
+      "tag": 1,
+      "star": 0,
+      "health": 15250.0,
+      "strength": 350.0,
+      "intelligence": 1400.0,
+      "dexterity": 64.0,
+      "armor": 575.0,
+      "magicResistance": 625.0,
+      "agility": 63.0,
+      "crit": 4.0,
+      "critBonus": 5.5,
+      "armorPenetration": 1.0,
+      "magicPenetration": 2.0,
+      "tenacity": 68.0,
+      "elusiveness": 175.0,
+      "skills": [
+        "MBS1003S1",
+        "MBS1003S2",
+        "MBS1003S3",
+        "MBS1003S4"
+      ]
+    },
+    {
+      "id": "MBS1004",
+      "name": "Berbegazi",
+      "element": "E402",
+      "tag": 1,
+      "star": 0,
+      "health": 17500.0,
+      "strength": 255.0,
+      "intelligence": 1425.0,
+      "dexterity": 76.0,
+      "armor": 425.0,
+      "magicResistance": 725.0,
+      "agility": 74.0,
+      "crit": 4.0,
+      "critBonus": 5.45,
+      "armorPenetration": 2.0,
+      "magicPenetration": 2.0,
+      "tenacity": 5.45,
+      "elusiveness": 204.0,
+      "skills": [
+        "MBS1004S1",
+        "MBS1004S2",
+        "MBS1004S3",
+        "MBS1004S4"
+      ]
+    },
+    {
+      "id": "MBS1005",
+      "name": "Amarok",
+      "element": "E402",
+      "tag": 1,
+      "star": 0,
+      "health": 18500.0,
+      "strength": 1475.0,
+      "intelligence": 275.0,
+      "dexterity": 76.0,
+      "armor": 625.0,
+      "magicResistance": 355.0,
+      "agility": 66.0,
+      "crit": 4.0,
+      "critBonus": 5.45,
+      "armorPenetration": 2.0,
+      "magicPenetration": 2.0,
+      "tenacity": 88.0,
+      "elusiveness": 192.0,
+      "skills": [
+        "MBS1005S1",
+        "MBS1005S2",
+        "MBS1005S3",
+        "MBS1005S4"
+      ]
+    }
+  ]
+}

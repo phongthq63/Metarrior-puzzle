@@ -1,0 +1,13 @@
+{
+  "coditions": [
+    {"id": "WCO001", "desc": "Đánh bại tất cả các enemy", "tag": 1},
+    {"id": "WCO002", "desc": "Không hero nào bên ally chết khi hết trận đấu", "tag": 2},
+    {"id": "WCO003", "desc": "Tất cả Hero còn tối thiểu 20% máu", "tag": 2},
+    {"id": "WCO004", "desc": "Tất cả Hero còn tối thiểu 40% máu", "tag": 2},
+    {"id": "WCO005", "desc": "Tất cả Hero còn tối thiểu 60% máu", "tag": 2},
+    {"id": "WCO006", "desc": "Tất cả Hero còn tối thiểu 80% máu", "tag": 2},
+    {"id": "WCO007", "desc": "Tất cả Hero còn tối thiểu 90% máu", "tag": 2},
+    {"id": "WCO008", "desc": "Thắng trong 10 lượt đánh", "tag": 4},
+    {"id": "WCO100", "desc": "Đạt đủ số điểm", "tag": 3}
+  ]
+}

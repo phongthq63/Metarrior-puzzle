@@ -1,0 +1,34 @@
+{
+  "listFra": [
+    {
+      "id": "FRAT1051",
+      "amount": 60,
+      "name": "Bromlin"
+    },
+    {
+      "id": "FRAT1052",
+      "amount": 60,
+      "name": "Daeradin"
+    },
+    {
+      "id": "FRAT1034",
+      "amount": 60,
+      "name": "Elara"
+    },
+    {
+      "id": "FRAT1033",
+      "amount": 60,
+      "name": "Ektar"
+    },
+    {
+      "id": "FRAT1057",
+      "amount": 60,
+      "name": "Sheila"
+    },
+    {
+      "id": "FRAT1031",
+      "amount": 60,
+      "name": "Nimrot"
+    }
+  ]
+}

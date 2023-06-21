@@ -1,0 +1,276 @@
+{
+  "SpecialItem": [
+	"SPI1050","MON1008","FRAT1011","FRAT1033","FRAT1015","FRAT1040"
+  ],
+  "listChallenge": [
+    {
+      "id": "anese_7_day", "name": "7-day Anese", "cost": 4.99,
+      "achievement": [
+        {"point": 0,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 500},
+            {"id": "FRAT1011", "amount": 60}]
+        },
+        {"point": 1,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 1},
+            {"id": "SPI1079", "amount": 1}]
+        },
+        {"point": 2,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 1},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 3,
+          "free": [],
+          "predium": [
+            {"id": "SPI1017", "amount": 1},
+            {"id": "SPI1049", "amount": 120},
+            {"id": "MON1008", "amount": 5}]
+        },
+        {"point": 4,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 1},
+            {"id": "SPI1079", "amount": 1}]
+        },
+        {"point": 5,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 1},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 6,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 500},
+            {"id": "SPI1050", "amount": 10}]
+        }
+      ],
+      "timeRefresh": "",
+      "timeExsist": ["9", "9", "", "10"],
+      "exsistCondition": ["to-state-2-18"],
+      "increaseBy": "time"
+    },
+    {
+      "id": "ektar_7_day", "name": "7-day Ektar", "cost": 9.99,
+      "achievement": [
+        {"point": 0,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 500},
+            {"id": "FRAT1033", "amount": 60}]
+        },
+        {"point": 1,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 2},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 2,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 2},
+            {"id": "SPI1081", "amount": 1}]
+        },
+        {"point": 3,
+          "free": [],
+          "predium": [
+            {"id": "SPI1017", "amount": 2},
+            {"id": "SPI1049", "amount": 300},
+            {"id": "MON1008", "amount": 10}]
+        },
+        {"point": 4,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 2},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 5,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 2},
+            {"id": "SPI1081", "amount": 1}]
+        },
+        {"point": 6,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 1000},
+            {"id": "SPI1050", "amount": 30}]
+        }
+      ],
+      "timeRefresh": "",
+      "timeExsist": ["9", "9", "", "10"],
+      "exsistCondition": ["to-state-2-24"],
+      "increaseBy": "time"
+    },
+    {
+      "id": "samson_7_day", "name": "7-day Samson", "cost": 9.99,
+      "achievement": [
+        {"point": 0,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 1000},
+            {"id": "FRAT1015", "amount": 60}]
+        },
+        {"point": 1,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 2},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 2,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 2},
+            {"id": "SPI1081", "amount": 1}]
+        },
+        {"point": 3,
+          "free": [],
+          "predium": [
+            {"id": "SPI1017", "amount": 2},
+            {"id": "SPI1049", "amount": 300},
+            {"id": "MON1008", "amount": 10}]
+        },
+        {"point": 4,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 2},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 5,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 2},
+            {"id": "SPI1081", "amount": 1}]
+        },
+        {"point": 6,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 1000},
+            {"id": "SPI1050", "amount": 30}]
+        }
+      ],
+      "timeRefresh": "",
+      "timeExsist": ["9", "9", "", "10"],
+      "exsistCondition": ["to-state-2-12"],
+      "increaseBy": "time"
+    },
+    {
+      "id": "gandaar_7_day", "name": "7-day Gandaar", "cost": 4.99,
+      "achievement": [
+        {"point": 0,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 500},
+            {"id": "FRAT1040", "amount": 60}]
+        },
+        {"point": 1,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 1},
+            {"id": "SPI1079", "amount": 1}]
+        },
+        {"point": 2,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 1},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 3,
+          "free": [],
+          "predium": [
+            {"id": "SPI1017", "amount": 1},
+            {"id": "SPI1049", "amount": 120},
+            {"id": "MON1008", "amount": 5}]
+        },
+        {"point": 4,
+          "free": [],
+          "predium": [
+            {"id": "SPI1005", "amount": 1},
+            {"id": "SPI1079", "amount": 1}]
+        },
+        {"point": 5,
+          "free": [],
+          "predium": [
+            {"id": "SPI1011", "amount": 1},
+            {"id": "SPI1080", "amount": 1}]
+        },
+        {"point": 6,
+          "free": [],
+          "predium": [
+            {"id": "MON1000", "amount": 500},
+            {"id": "SPI1050", "amount": 10}]
+        }
+      ],
+      "timeRefresh": "",
+      "timeExsist": ["9", "9", "", "10"],
+      "exsistCondition": ["lose-battle-2"],
+      "increaseBy": "time"
+    },
+    {
+      "id": "welcome", "name": "7-day Welcome", "cost": 0.00,
+      "achievement": [
+        {"point": 0,
+          "free": [
+            {"id": "FRAT1021", "amount": 180}],
+          "predium": []
+        },
+        {"point": 1,
+          "free": [
+            {"id": "MON1001", "amount": 250000},
+            {"id": "MON1002", "amount": 250000}],
+          "predium": []
+        },
+        {"point": 2,
+          "free": [
+            {"id": "FRAT1026", "amount": 60}],
+          "predium": []
+        },
+        {"point": 3,
+          "free": [
+            {"id": "MON1003", "amount": 500}],
+          "predium": []
+        },
+        {"point": 4,
+          "free": [
+            {"id": "MON1000", "amount": 2000}],
+          "predium": []
+        },
+        {"point": 5,
+          "free": [
+            {"id": "MON1001", "amount": 250000},
+            {"id": "MON1002", "amount": 250000}],
+          "predium": []
+        },
+        {"point": 6,
+          "free": [
+            {"id": "FRAT1026", "amount": 60}],
+          "predium": []
+        }
+      ],
+      "timeRefresh": "",
+      "timeExsist": ["", "", "", "10"],
+      "exsistCondition": ["to-chap-2"],
+      "increaseBy": "checkin"
+    }
+  ],
+  "listPackage": [
+    {"id": "first_purchase", "name": "Gói sản phẩm khi người chơi spend money lần đầu tiên (Appreciation 1)",
+      "cost": 0,
+      "reward": [
+        {"id": "SPI1050", "amount": 60},
+        {"id": "SPI1049", "amount": 600}
+      ],
+      "maxBuy": 1,
+      "timeExsist": ["", "8", "", ""],
+      "timeRefresh": ["", ""],
+      "exsistCondition": [],
+      "rewardCondition": ["buy"],
+      "description": "45$ value FREE"
+    }
+  ]
+}

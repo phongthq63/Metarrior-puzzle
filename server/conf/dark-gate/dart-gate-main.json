@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "name": "Dark Realm"
+    },
+    {
+      "id": 1,
+      "name": "Endless Nights"
+    }
+  ],
+
+  "option": "alternate"
+}

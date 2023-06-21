@@ -1,0 +1,467 @@
+{
+  "listStore": [
+    {
+      "id": 0,
+      "size": 10,
+      "name": "General Store",
+      "time": 1,
+      "refresh": [
+        {"id": "MON1000", "amount": 100},
+        {"id": "MON1000", "amount": 100},
+        {"id": "MON1000", "amount": 200},
+        {"id": "MON1000", "amount": 200},
+        {"id": "MON1000", "amount": 400},
+        {"id": "MON1000", "amount": 400},
+        {"id": "MON1000", "amount": 800}
+      ],
+      "sells": [
+        {
+          "slots": [1],
+          "items": [8,10,11,12],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        },
+        {
+          "slots": [2,3,4],
+          "items": [1,2,3,4,5,6,7],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        },
+        {
+          "slots": [5],
+          "items": [1,2,3],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        },
+        {
+          "slots": [6,7,8,9,10],
+          "items": [13,14,15,16,17,18,19,20,21,22,23,24],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "size": 8,
+      "name": "Alliance Store",
+      "time": 1,
+      "refresh": [
+        {"id": "MON1000", "amount": 100},
+        {"id": "MON1000", "amount": 100},
+        {"id": "MON1000", "amount": 200},
+        {"id": "MON1000", "amount": 200},
+        {"id": "MON1000", "amount": 400},
+        {"id": "MON1000", "amount": 400},
+        {"id": "MON1000", "amount": 800}
+      ],
+      "sells": [
+        {
+          "slots": [1,2,3,4],
+          "items": [25,26],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        },
+        {
+          "slots": [5,6,7,8],
+          "items": [27,28,29,30],
+          "discount": [{"sale": 0, "rate": 50}, {"sale": 10, "rate": 35}, {"sale": 20, "rate": 10}, {"sale": 40, "rate": 5}]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 20,
+      "name": "Memoir Store",
+      "time": 45,
+      "refresh": [
+        {"id": "MON1000", "amount": 1000},
+        {"id": "MON1000", "amount": 2000},
+        {"id": "MON1000", "amount": 4000}
+      ],
+      "sells": [
+        {
+          "slots": [1,2,3,4,5,6],
+          "items": [31],
+          "discount": []
+        },
+        {
+          "slots": [7],
+          "items": [32],
+          "discount": []
+        },
+        {
+          "slots": [8],
+          "items": [33],
+          "discount": []
+        },
+        {
+          "slots": [9],
+          "items": [34],
+          "discount": []
+        },
+        {
+          "slots": [10],
+          "items": [35],
+          "discount": []
+        },
+        {
+          "slots": [11],
+          "items": [36],
+          "discount": []
+        },
+        {
+          "slots": [12],
+          "items": [37],
+          "discount": []
+        },
+        {
+          "slots": [13],
+          "items": [38],
+          "discount": []
+        },
+        {
+          "slots": [14,15,16,17,18,19,20],
+          "items": [39],
+          "discount": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 24,
+      "name": "Hunter Store",
+      "time": 45,
+      "refresh": [
+        {"id": "MON1000", "amount": 1000},
+        {"id": "MON1000", "amount": 2000},
+        {"id": "MON1000", "amount": 4000}
+      ],
+      "sells": [
+        {
+          "slots": [1],
+          "items": [40],
+          "discount": []
+        },
+        {
+          "slots": [2],
+          "items": [41],
+          "discount": []
+        },
+        {
+          "slots": [3],
+          "items": [42],
+          "discount": []
+        },
+        {
+          "slots": [4],
+          "items": [43],
+          "discount": []
+        },
+        {
+          "slots": [5],
+          "items": [44],
+          "discount": []
+        },
+        {
+          "slots": [6],
+          "items": [45],
+          "discount": []
+        },
+        {
+          "slots": [7],
+          "items": [46],
+          "discount": []
+        },
+        {
+          "slots": [8],
+          "items": [47],
+          "discount": []
+        },
+        {
+          "slots": [9],
+          "items": [48],
+          "discount": []
+        },
+        {
+          "slots": [10],
+          "items": [49],
+          "discount": []
+        },
+        {
+          "slots": [11],
+          "items": [50],
+          "discount": []
+        },
+        {
+          "slots": [12],
+          "items": [51],
+          "discount": []
+        },
+        {
+          "slots": [13,14,15,16],
+          "items": [52,53,54,55,56,57,58,59],
+          "discount": []
+        },
+        {
+          "slots": [17,18,19,20],
+          "items": [52,53,54,55,56,57,58,59,60,61],
+          "discount": []
+        },
+        {
+          "slots": [21,22,23,24],
+          "items": [62],
+          "discount": []
+        }
+      ]
+    }
+  ],
+  "listItem": [
+    {
+      "price": {"id": "MON1001", "amount": 1000000},
+      "item": {"id":"MON1003", "amount": 400}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 2000000},
+      "item": {"id":"MON1003", "amount": 900}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 600000},
+      "item": {"id":"SPI1018", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 300000},
+      "item": {"id":"SPI1049", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 500000},
+      "item": {"id":"SPI1078", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 2000000},
+      "item": {"id":"SPI1079", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 8000000},
+      "item": {"id":"SPI1080", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1001", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 500},
+      "item": {"id":"SPI1053", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 500},
+      "item": {"id":"SPI1054", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 500},
+      "item": {"id":"SPI1055", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 500},
+      "item": {"id":"MON1003", "amount": 250}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 1000},
+      "item": {"id":"MON1003", "amount": 500}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 1800},
+      "item": {"id":"MON1003", "amount": 1000}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 900},
+      "item": {"id":"SPI1050", "amount": 5}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 300},
+      "item": {"id":"SPI1049", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 200},
+      "item": {"id":"SPI1078", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 800},
+      "item": {"id":"SPI1079", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 2000},
+      "item": {"id":"SPI1080", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 150},
+      "item": {"id":"SPI1089", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 500},
+      "item": {"id":"SPI1090", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 1200},
+      "item": {"id":"SPI1091", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1000", "amount": 3000},
+      "item": {"id":"SPI1092", "amount": 1}
+    },
+
+    {
+      "price": {"id": "MON1014", "amount": 10000},
+      "item": {"id":"SPI1079", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1014", "amount": 20000},
+      "item": {"id":"SPI1080", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1014", "amount": 4000},
+      "item": {"id":"SPI1089", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1014", "amount": 8000},
+      "item": {"id":"SPI1090", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1014", "amount": 16000},
+      "item": {"id":"SPI1091", "amount": 1}
+    },
+    {
+      "price": {"id": "MON1014", "amount": 32000},
+      "item": {"id":"SPI1092", "amount": 1}
+    },
+
+    {
+      "price": {"id": "MON1015", "amount": 20000},
+      "item": {"id":"SPI1050", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1014", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1055", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1026", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1043", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1048", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 50000},
+      "item": {"id":"FRAT1041", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1015", "amount": 2500},
+      "item": {"id":"SPI1049", "amount": 60}
+    },
+
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1040", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1015", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1053", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1020", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1011", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1023", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1013", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 60000},
+      "item": {"id":"FRAT1042", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 2500},
+      "item": {"id":"MON1003", "amount": 500}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 5000},
+      "item": {"id":"MON1003", "amount": 1000}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 7500},
+      "item": {"id":"MON1003", "amount": 1500}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 10000},
+      "item": {"id":"MON1003", "amount": 2000}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 10000},
+      "item": {"id":"SPI1018", "amount": 5}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 5000},
+      "item": {"id":"MON1008", "amount": 5}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 10000},
+      "item": {"id":"MON1007", "amount": 5}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 10000},
+      "item": {"id":"", "amount": 5}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 20000},
+      "item": {"id":"SPI1050", "amount": 60}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 0},
+      "item": {"id":"", "amount": 0}
+    },
+    {
+      "price": {"id": "MON1016", "amount": 2500},
+      "item": {"id":"SPI1049", "amount": 60}
+    }
+  ]
+}

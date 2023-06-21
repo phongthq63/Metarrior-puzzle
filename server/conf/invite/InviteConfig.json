@@ -1,0 +1,15 @@
+{
+  "invited": [{"id": "SOG", "amount": 1500}],
+  "list": [
+    {"id": "Starter",
+      "desription": "Refer [0] friend to receive [1][2]",
+      "reward": "reward-invite",
+      "rewardCondition": "invite"
+    },
+    {"id": "Ultimate",
+      "description": "Have [0] friends reach sage level 15 to receive [1][2]",
+      "reward": "reward-level-50",
+      "rewardCondition": "lever-50"
+    }
+  ]
+}

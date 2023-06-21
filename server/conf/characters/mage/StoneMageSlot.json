@@ -1,0 +1,17 @@
+{
+  "maxStoneSlot": 1,
+  "listStoneSlot": [
+    {
+      "status": true
+    },
+    {
+      "status": true
+    },
+    {
+      "status": true
+    },
+    {
+      "status": true
+    }
+  ]
+}

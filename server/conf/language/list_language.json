@@ -1,0 +1,80 @@
+{
+  "list_language": [
+    {
+      "id": "en",
+      "name": "English"
+    },
+    {
+      "id": "ja",
+      "name": "Japanese"
+    },
+    {
+      "id": "ko",
+      "name": "Korean"
+    },
+    {
+      "id": "de",
+      "name": "German"
+    },
+    {
+      "id": "ru",
+      "name": "Russian"
+    },
+    {
+      "id": "fr",
+      "name": "French"
+    },
+    {
+      "id": "es",
+      "name": "Spanish"
+    },
+    {
+      "id": "vi",
+      "name": "Vietnamese"
+    },
+    {
+      "id": "pt",
+      "name": "Portuguese"
+    },
+    {
+      "id": "it",
+      "name": "Italian"
+    },
+    {
+      "id": "pl",
+      "name": "Polish"
+    },
+    {
+      "id": "tr",
+      "name": "Turkish"
+    },
+    {
+      "id": "hi",
+      "name": "Hindi"
+    },
+    {
+      "id": "zh-CN",
+      "name": "Chinese (Simplified)"
+    },
+    {
+      "id": "zh-TW",
+      "name": "Chinese (Traditional)"
+    },
+    {
+      "id": "th",
+      "name": "ThaiLand"
+    },
+    {
+      "id": "ms",
+      "name": "Malaysia"
+    },
+    {
+      "id": "ar",
+      "name": "Arabic"
+    },
+    {
+      "id": "fa",
+      "name": "Persian"
+    }
+  ]
+}

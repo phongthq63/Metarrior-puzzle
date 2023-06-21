@@ -1,0 +1,31 @@
+{
+  "list": [
+    {"id": "gl0",
+      "desc": "[0] has joined this alliance."
+    },
+    {"id": "gl1",
+      "desc": "[0] has unlocked a new Celestial Beast."
+    },
+    {"id": "gl2",
+      "desc": "[0] has left this alliance."
+    },
+    {"id": "gl3",
+      "desc": "[0] has promoted [1] to become Viceroy."
+    },
+    {"id": "gl4",
+      "desc": "[0] has created alliance [1]."
+    },
+    {"id": "gl5",
+      "desc": "Alliance has reached level [0]."
+    },
+    {"id": "gl6",
+      "desc": "[0] has changed [1] to become a regular member."
+    },
+    {"id": "gl7",
+      "desc": "[0] has promoted [1] to become Alliance Leader."
+    },
+    {"id": "gl8",
+      "desc": "[0] has promoted [1] to become an Archmage."
+    }
+  ]
+}

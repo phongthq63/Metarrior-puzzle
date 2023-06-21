@@ -1,0 +1,14 @@
+{
+  "listId":[
+    {"id": "EXP", "name": "exp"},
+    {"id": "MON", "name": "money"},
+    {"id": "SPI", "name": "special item"},
+    {"id": "T", "name": "hero"},
+    {"id": "FRA", "name": "fragment hero"},
+    {"id": "EQU", "name": "weapon"},
+    {"id": "GEM", "name": "stone"},
+    {"id": "GUI", "name": "guild"},
+    {"id": "VIP", "name": "vip"},
+    {"id": "SUM", "name": "summon"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "rank": [
+    {"id": "arena-inactive", "name": "\"Inactive\"", "range": [1000, 1000], "endSeason": 1000},
+    {"id": "arena-bronze", "name": "Bronze", "range": [0, 1400], "endSeason": 1000},
+    {"id": "arena-silver", "name": "Silver", "range": [1401, 1800], "endSeason": 1200},
+    {"id": "arena-gold", "name": "Gold", "range": [1801, 2000], "endSeason": 1400},
+    {"id": "arena-diamond", "name": "Diamond", "range": [2001, 2200], "endSeason": 1600},
+    {"id": "arena-elite", "name": "Elite", "range": [2201, 2400], "endSeason": 1800},
+    {"id": "arena-champion", "name": "Champion", "range": [2401, 2600], "endSeason": 2000},
+    {"id": "arena-legendary", "name": "Legendary", "range": [2601], "endSeason": 2000}
+  ]
+}

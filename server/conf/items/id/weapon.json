@@ -1,0 +1,17 @@
+{"listId": [
+    {"id": "WCL001", "name": "Sword"},
+    {"id": "WCL002", "name": "Dagger"},
+    {"id": "WCL003", "name": "Axe"},
+    {"id": "WCL004", "name": "Hammer"},
+    {"id": "WCL005", "name": "Mace"},
+    {"id": "WCL006", "name": "Claw"},
+    {"id": "WCL007", "name": "Longbow"},
+    {"id": "WCL008", "name": "Crossbow"},
+    {"id": "WCL009", "name": "Bomb"},
+    {"id": "WCL010", "name": "Staff"},
+    {"id": "WCL011", "name": "Book"},
+    {"id": "WCL012", "name": "Orb"},
+    {"id": "WCL013", "name": "Rifle"},
+    {"id": "WCL014", "name": "Spear"}
+  ]
+}

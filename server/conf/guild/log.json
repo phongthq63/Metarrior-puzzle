@@ -1,0 +1,34 @@
+{
+  "list": [
+    {"id": "gl0",
+      "desc": "[0] đã tham gia liên minh"
+    },
+    {"id": "gl1",
+      "desc": "Bang hội đã mở được Grand gift level [0]"
+    },
+    {"id": "gl2",
+      "desc": "[0] đã rời liên minh"
+    },
+    {"id": "gl3",
+      "desc": "[0] đã Thăng chức [1] lên làm phó bang"
+    },
+    {"id": "gl4",
+      "desc": "[0] đã thành lập liên minh [1]"
+    },
+    {"id": "gl5",
+      "desc": "Cấp độ bang hội của bạn đã lên cấp [0]"
+    },
+    {"id": "gl6",
+      "desc": "[0] đã thay đổi [1] xuống làm thành viên"
+    },
+    {"id": "gl7",
+      "desc": "[0] đã Thăng chức [1] lên làm chủ bang"
+    },
+    {"id": "gl8",
+      "desc": "[0] đã Thăng chức [1] lên làm đội trưởng"
+    },
+    {"id": "gl9",
+      "desc": "[0] đã bị trục xuất khỏi liên minh"
+    }
+  ]
+}

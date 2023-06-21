@@ -1,0 +1,62 @@
+{
+  "listSummonRate": [
+    {
+      "id": "green",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 1, "star": 0, "type": -1}
+      ]
+    },
+    {
+      "id": "blue",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 1, "star": 2, "type": -1}
+      ]
+    },
+    {
+      "id": "purple",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 1, "star": 4, "type": -1}
+      ]
+    },
+    {
+      "id": "purpleRare3",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 1, "star": -2, "type": -1}
+      ]
+    },
+    {
+      "id": "purpleElite",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 1, "star": -3, "type": -1}
+      ]
+    },
+    {
+      "id": "greenNblue",
+      "type": "0",
+      "bonusPoint": 1,
+      "rate": [
+        {"rate": 44, "star": 2, "type": -1},
+        {"rate": 51, "star": 0, "type": -1}
+      ]
+    },
+    {
+      "id": "MON1010",
+      "type": "4",
+      "bonusPoint": 1,
+      "cost": [],
+      "rate": [
+        {"rate": 1, "star": 4, "type": -1}
+      ]
+    }
+  ]
+}

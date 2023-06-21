@@ -1,0 +1,34 @@
+{
+  "bets": [
+    {
+      "id": 1,
+      "name": "Iron League",
+      "resources": [{"id": "M1001", "amount": 100000}]
+    },
+    {
+      "id": 2,
+      "name": "Bronze League",
+      "resources": [{"id": "M1001", "amount": 200000}]
+    },
+    {
+      "id": 3,
+      "name": "Silver League",
+      "resources": [{"id": "M1001", "amount": 400000}]
+    },
+    {
+      "id": 4,
+      "name": "Gold League",
+      "resources": [{"id": "M1001", "amount": 800000}]
+    },
+    {
+      "id": 5,
+      "name": "Platinum League",
+      "resources": [{"id": "M1001", "amount": 1500000}]
+    },
+    {
+      "id": 6,
+      "name": "Diamond League",
+      "resources": [{"id": "M1001", "amount": 3000000}]
+    }
+  ]
+}

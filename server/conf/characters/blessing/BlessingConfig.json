@@ -1,0 +1,7 @@
+{
+  "time": 86400,
+  "reduceTime": {
+    "time": 720,
+    "cost": {"id": "MON1000", "amount": 1}
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "daily": [
+    {
+      "id": "chest_daily_20",
+      "type": "0",
+      "point": 20,
+      "reward": [{"id": "RES1017", "amount": 20}, {"id": "SPI1003", "amount": 1}]
+    },
+    {
+      "id": "chest_daily_40",
+      "type": "0",
+      "point": 40,
+      "reward": [{"id": "RES1017", "amount": 40}, {"id": "SPI1009", "amount": 1}]
+    },
+    {
+      "id": "chest_daily_60",
+      "type": "0",
+      "point": 60,
+      "reward": [{"id": "RES1017", "amount": 60}, {"id": "MON1000", "amount": 100}]
+    },
+    {
+      "id": "chest_daily_80",
+      "type": "0",
+      "point": 80,
+      "reward": [{"id": "RES1017", "amount": 80}, {"id": "MON1008", "amount": 1}]
+    },
+    {
+      "id": "chest_daily_120",
+      "type": "0",
+      "point": 120,
+      "reward": [{"id": "RES1017", "amount": 120}, {"id": "SPI1049", "amount": 10}, {"id": "SPI1050", "amount": 1}]
+    }
+  ],
+  "weekly": [
+    {
+      "id": "chest_weekly_20",
+      "type": "1",
+      "point": 20,
+      "reward": [{"id": "RES1017", "amount": 150}, {"id": "SPI1003", "amount": 6}]
+    },
+    {
+      "id": "chest_weekly_40",
+      "type": "1",
+      "point": 40,
+      "reward": [{"id": "RES1017", "amount": 300}, {"id": "SPI1009", "amount": 6}, {"id": "RES1009", "amount": 30}]
+    },
+    {
+      "id": "chest_weekly_60",
+      "type": "1",
+      "point": 60,
+      "reward": [{"id": "RES1017", "amount": 450}, {"id": "SPI1015", "amount": 3}]
+    },
+    {
+      "id": "chest_weekly_80",
+      "type": "1",
+      "point": 80,
+      "reward": [{"id": "RES1017", "amount": 540}, {"id": "SPI1049", "amount": 120}]
+    },
+    {
+      "id": "chest_weekly_100",
+      "type": "1",
+      "point": 100,
+      "reward": [{"id": "RES1017", "amount": 630}, {"id": "MON1000", "amount": 300}, {"id": "MON1008", "amount": 3}, {"id": "SPI1050", "amount": 5}]
+    }
+  ],
+  "allTime": []
+}

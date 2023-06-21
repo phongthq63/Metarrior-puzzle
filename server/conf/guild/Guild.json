@@ -1,0 +1,34 @@
+{
+  "guild": [
+    {"level": 1, "member": 30, "upCost": 100000},
+    {"level": 2, "member": 31, "upCost": 300000},
+    {"level": 3, "member": 32, "upCost": 600000},
+    {"level": 4, "member": 33, "upCost": 1000000},
+    {"level": 5, "member": 34, "upCost": 2000000},
+    {"level": 6, "member": 35, "upCost": 3000000},
+    {"level": 7, "member": 36, "upCost": 6000000},
+    {"level": 8, "member": 37, "upCost": 8000000},
+    {"level": 9, "member": 38, "upCost": 10000000},
+    {"level": 10, "member": 39, "upCost": 20000000},
+    {"level": 11, "member": 40, "upCost": 30000000},
+    {"level": 12, "member": 41, "upCost": 40000000},
+    {"level": 13, "member": 42, "upCost": 50000000},
+    {"level": 14, "member": 43, "upCost": 60000000},
+    {"level": 15, "member": 44, "upCost": 70000000},
+    {"level": 16, "member": 45, "upCost": 80000000},
+    {"level": 17, "member": 46, "upCost": 90000000},
+    {"level": 18, "member": 47, "upCost": 100000000},
+    {"level": 19, "member": 48, "upCost": 120000000},
+    {"level": 20, "member": 49, "upCost": 150000000},
+    {"level": 21, "member": 50, "upCost": 0}
+  ],
+  "create": [
+    {
+      "count": 1,
+      "cost": [
+        {"id": "MON1000", "amount": 150}
+      ]
+    }
+  ],
+  "leave": 60
+}

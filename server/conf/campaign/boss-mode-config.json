@@ -1,0 +1,10 @@
+{
+  "statbuff": [
+    {"attr": "HP", "rate": "(25 * 1)"},
+    {"attr": "ATK", "rate": "(25 * 1)"},
+    {"attr": "DEF", "rate": "(25 * 1)"},
+    {"attr": "DPEN", "rate": "(10 * 1)"},
+    {"attr": "CRIT", "rate": "(10 * 1)"},
+    {"attr": "CRITBONUS", "rate": "(25 * 1)"}
+  ]
+}

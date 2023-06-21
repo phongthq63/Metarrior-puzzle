@@ -1,0 +1,28 @@
+{
+  "count": 5,
+  "listFastReward": [
+    {
+      "id": 0,
+      "count": 1,
+      "idMoney": "MON1000",
+      "cost": 0,
+      "time": 2
+    },
+    {
+      "id": 1,
+      "count": 1,
+      "idMoney": "SOG",
+      "cost": 200,
+      "time": 2
+    },
+    {
+      "id": 2,
+      "count": 0,
+      "idMoney": "SOG",
+      "cost": 400,
+      "time": 2
+    }
+  ],
+  "timeReceive": 1,
+  "maxTimeAFK": 6
+}

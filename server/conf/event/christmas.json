@@ -1,0 +1,106 @@
+{
+  "exchange": [
+    {
+      "id": "cmas0",
+      "reward": [{"id": "FRAT1001", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 12000}],
+      "buy": 1
+    },
+    {
+      "id": "cmas1",
+      "reward": [{"id": "FRAT1037", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 12000}],
+      "buy": 1
+    },
+    {
+      "id": "cmas2",
+      "reward": [{"id": "FRAT1038", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 12000}],
+      "buy": 1
+    },
+    {
+      "id": "cmas3",
+      "reward": [{"id": "FRAT1039", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 12000}],
+      "buy": 1
+    },
+    {
+      "id": "cmas4",
+      "reward": [{"id": "FRAT1034", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas5",
+      "reward": [{"id": "FRAT1036", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas6",
+      "reward": [{"id": "FRAT1040", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas7",
+      "reward": [{"id": "FRAT1028", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas8",
+      "reward": [{"id": "FRAT1042", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas9",
+      "reward": [{"id": "FRAT1025", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas10",
+      "reward": [{"id": "FRAT1051", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas11",
+      "reward": [{"id": "FRAT1011", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 5000}],
+      "buy": 4
+    },
+    {
+      "id": "cmas12",
+      "reward": [{"id": "MON1008", "amount": 1}],
+      "cost": [{"id": "MON1022", "amount": 150}],
+      "buy": 50
+    },
+    {
+      "id": "cmas13",
+      "reward": [{"id": "MON1000", "amount": 100}],
+      "cost": [{"id": "MON1022", "amount": 60}],
+      "buy": 100
+    },
+    {
+      "id": "cmas14",
+      "reward": [{"id": "SPI1049", "amount": 60}],
+      "cost": [{"id": "MON1022", "amount": 250}],
+      "buy": 100
+    },
+    {
+      "id": "cmas15",
+      "reward": [{"id": "MON1001", "amount": 3000}],
+      "cost": [{"id": "MON1022", "amount": 1}],
+      "buy": 2000
+    },
+    {
+      "id": "cmas16",
+      "reward": [{"id": "MON1002", "amount": 2000}],
+      "cost": [{"id": "MON1022", "amount": 1}],
+      "buy": 2000
+    }
+  ]
+}

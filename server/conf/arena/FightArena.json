@@ -1,0 +1,35 @@
+{
+  "win": [
+    {"range": [0, 1200], "point": 45},
+    {"range": [1201, 1400], "point": 40},
+    {"range": [1401, 1600], "point": 35},
+    {"range": [1601, 1800], "point": 30},
+    {"range": [1801, 2000], "point": 25},
+    {"range": [2001, 2200], "point": 20},
+    {"range": [2201, 2400], "point": 15},
+    {"range": [2401, 2600], "point": 10},
+    {"range": [2601], "point": 5}
+  ],
+  "lose": [
+    {"range": [0, 1200], "point": -10},
+    {"range": [1201, 1400], "point": -10},
+    {"range": [1401, 1600], "point": -14},
+    {"range": [1601, 1800], "point": -18},
+    {"range": [1801, 2000], "point": -20},
+    {"range": [2001, 2200], "point": -20},
+    {"range": [2201, 2400], "point": -18},
+    {"range": [2401, 2600], "point": -15},
+    {"range": [2601], "point": -10}
+  ],
+  "bonus": "0.05 * (atk - def)",
+  "searchFight": [
+    {
+      "count": 4,
+      "range": [0, 300]
+    },
+    {
+      "count": 4,
+      "range": [-100, 0]
+    }
+  ]
+}

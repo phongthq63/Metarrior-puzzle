@@ -1,0 +1,23 @@
+{
+  "defaultChannel": {"id": "no", "name": "no", "type": "", "maxUser": 500},
+  "list": [
+    {"id": "en1", "name": "English 1", "type": "en", "maxUser": 500},
+    {"id": "ja1", "name": "Japanese 1" , "type": "ja", "maxUser": 500},
+    {"id": "ko1", "name": "Korean 1", "type": "ko", "maxUser": 500},
+    {"id": "de1", "name": "German 1", "type": "de", "maxUser": 500},
+    {"id": "ru1", "name": "Russian 1", "type": "ru", "maxUser": 500},
+    {"id": "fr1", "name": "French 1", "type": "fr", "maxUser": 500},
+    {"id": "vi1", "name": "Vietnamese 1", "type": "vi", "maxUser": 500},
+    {"id": "pt1", "name": "Portuguese 1", "type": "pt", "maxUser": 500},
+    {"id": "it1", "name": "Italian 1", "type": "it", "maxUser": 500},
+    {"id": "pl1", "name": "Polish 1", "type": "pl", "maxUser": 500},
+    {"id": "tr1", "name": "Turkish 1", "type": "tr", "maxUser": 500},
+    {"id": "hi1", "name": "Hindi 1", "type": "hi", "maxUser": 500},
+    {"id": "zh-CN1", "name": "Chinese (Simplified) 1", "type": "zh-CN", "maxUser": 500},
+    {"id": "zh-TW1", "name": "Chinese (Traditional) 1", "type": "zh-TW", "maxUser": 500},
+    {"id": "th1", "name": "ThaiLand 1", "type": "th", "maxUser": 500},
+    {"id": "ms1", "name": "Malaysia 1", "type": "ms", "maxUser": 500},
+    {"id": "ar1", "name": "Arabic 1", "type": "ar", "maxUser": 500},
+    {"id": "fa1", "name": "Persian 1", "type": "fa", "maxUser": 500}
+  ]
+}

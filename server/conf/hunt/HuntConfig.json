@@ -1,0 +1,85 @@
+{
+  "fightCost": {"id": "RES1025", "amount": 30},
+  "powers": [
+    {
+      "range": [1, 30],
+      "monsterLevel": [10, 40],
+      "monsterStar": 10,
+      "monsterSlot": ["M", "M", "M", "M", "M"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [250, 250]
+    },
+    {
+      "range": [31, 60],
+      "monsterLevel": [40, 70],
+      "monsterStar": 10,
+      "monsterSlot": ["M,T", "M,T", "M,T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [250, 250]
+    },
+    {
+      "range": [61, 90],
+      "monsterLevel": [70, 100],
+      "monsterStar": 10,
+      "monsterSlot": ["M,T", "M,T", "M,T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [250, 250]
+    },
+    {
+      "range": [91, 120],
+      "monsterLevel": [100, 130],
+      "monsterStar": 10,
+      "monsterSlot": ["M,T", "M,T", "M,T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [350, 350]
+    },
+    {
+      "range": [121, 150],
+      "monsterLevel": [130, 160],
+      "monsterStar": 10,
+      "monsterSlot": ["T", "MBS,T", "T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [350, 350]
+    },
+    {
+      "range": [151, 175],
+      "monsterLevel": [160, 190],
+      "monsterStar": 10,
+      "monsterSlot": ["T", "MBS,T", "T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [350, 350]
+    },
+    {
+      "range": [176, 200],
+      "monsterLevel": [190, 220],
+      "monsterStar": 10,
+      "monsterSlot": ["T", "MBS,T", "T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [370, 370]
+    },
+    {
+      "range": [201, 240],
+      "monsterLevel": [220, 250],
+      "monsterStar": 10,
+      "monsterSlot": ["T", "MBS,T", "T", "M,T", "M,T"],
+      "bossMode": 10,
+      "terrain": "random",
+      "conditions": ["WCO001"],
+      "lethan": [370, 370]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "list": [
+    {
+      "position": 1,
+      "status": false
+    },
+    {
+      "position": 2,
+      "status": false
+    },
+    {
+      "position": 3,
+      "status": false
+    }
+  ],
+  "store": [
+    {
+      "slot": 1,
+      "reward": [
+        {"chap": 0, "reward": [{"rate": 100, "id": "SPI1049", "amount": 60}]}
+      ],
+      "cost": {"id": "MON1012", "amount": 20},
+      "maxBuy": 0,
+      "timeRefresh": ""
+    },
+    {
+      "slot": 2,
+      "reward": [
+        {"chap": 0, "reward": [{"rate": 100, "id": "SPI1050", "amount": 60}]}
+      ],
+      "cost": {"id": "MON1012", "amount": 250},
+      "maxBuy": 0,
+      "timeRefresh": ""
+    },
+    {
+      "slot": 3,
+      "reward": [
+        {"chap": 0, "reward": [{"rate": 100, "id": "MON1008", "amount": 10}]}
+      ],
+      "cost": {"id": "MON1012", "amount": 150},
+      "maxBuy": 0,
+      "timeRefresh": ""
+    }
+  ]
+}

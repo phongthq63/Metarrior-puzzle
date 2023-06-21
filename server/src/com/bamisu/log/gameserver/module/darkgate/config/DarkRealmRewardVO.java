@@ -1,0 +1,14 @@
+package com.bamisu.log.gameserver.module.darkgate.config;
+
+import com.bamisu.gamelib.entities.ResourcePackage;
+
+import java.util.List;
+
+/**
+ * Create by Popeye on 10:53 AM, 11/18/2020
+ */
+public class DarkRealmRewardVO {
+    public List<ResourcePackage> challenge;
+    public List<RankRewardVO> solo;
+    public List<RankRewardVO> alliance;
+}
